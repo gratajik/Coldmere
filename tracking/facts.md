@@ -131,3 +131,19 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - For the second time (cf. ch3 warm room, ch6 child's room), Iris cannot make her hand close/seal a thing: she leaves the crate OPEN, lid up, the ball on the baize, refusing to re-seal what her own seal failed to hold.
 - The red ball downstairs and the red marble Iris pocketed upstairs (the "red one" the boy always took) sit in her mind side by side and will not stay apart; the lid of her private mental "drawer" pushes up from the inside, but she still refuses to say Danny's name in the house.
 - Iris understands (privately, unwritten) that she has "stopped being the one who sealed the crates" — that the house can open what she seals and place things for her to find.
+
+## Chapter 8
+
+- Day 2 (Friday), late afternoon: Iris re-tapes the open crate shut (the red ball still on the silver inside, no further note on the lid) and goes to the study to clear the glass-fronted case, the last item on her list before the measuring.
+- The glass-fronted study case holds FOURTEEN matching blank-spined books, stacked spine-out (lowest fattest and soft-cornered, topmost newest with stiff cloth); the key is in the lock.
+- The books are ledgers: three hand-ruled columns (one wide, two narrow) in faded once-black brown ink — a wide column holding a NAME, a narrow column a YEAR, a narrow column a single WORD (the state/condition).
+- The recurring one-word "conditions" in the third column are: "Settled" (the commonest), "Kept on," and once, on a line by itself with no name/year and a rule drawn under it, "Wanting one." These are words used for a PERSON taken into a house and held, not for household stock. (Ledgers-register-the-held-dead setup planted; pays off ch13.)
+- The names in the columns are not names Iris knows; the years climb; the columns run line on line, page on page, book on book, in one small upright hand that never varies.
+- The TOPMOST/newest ledger begins only a few years back and runs forward; its entries stop partway, the rest blank ruled lines; the LAST filled line is dated the YEAR EDITH DIED, with the word "Settled." (Sets up that the register was kept current to Edith's death; feeds ch21-22.)
+- Iris matches the ledger hand to the pencil inscription "Edith Vane" + a year on the back of Edith's study photograph (the hard-faced woman in a high collar): the SAME small upright hand wrote both. EDITH VANE WROTE THE LEDGERS. (Edith's-hand-and-method-established setup planted; pays off ch21 — her own name written ahead in the same hand.)
+- Iris turns the photograph face-down on the desk; she does not want the hard face watching her understand it.
+- Iris does NOT open the lower thirteen ledgers this chapter (defers to "the morning when the light is good"); she infers they run back a hundred years or more with the same column of one-word conditions.
+- For the FIRST time facing the unbearable, Iris does NOT reach for her pencil / does not log the ledgers in her own notebook — to write it in her own book would be "to enter it, to take it into my own column." (A break in her catalog-as-armor: the writing-down that always steadied her fails here.)
+- Iris privately reasons toward an innocent explanation (a "book of service" — an old family's record of servants who came/stayed/were let go) and clings to it, but cannot make the ledger mean anything that doesn't frighten her.
+- Iris understands, unnamed, that "a ledger is a record of what is kept / in the house" and refuses to name the column or what it counts, because naming it means reading the rest and finding where her own name goes. (Iris's-name-written-ahead setup planted; the register-is-a-record-not-a-binding seed for ch25 — she reads it as inventory, not as a thing she can undo.)
+- Iris sits down in the study desk chair to read, noting she does not sit when she works (she works standing) — a marker of how the ledgers unmoor her.

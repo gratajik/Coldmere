@@ -50,3 +50,11 @@
 - Day 2, dusk: Iris finds the silver undisturbed and a red rubber ball lying on it that she never packed; she touches it (warm), takes her finger off, and confronts that her own seal did not hold.
 - Day 2, dusk into dark: Iris writes the anomaly on the back of the manifest, leaves the crate open (lid up, ball on the baize), and steps back; the study's ledgers remain deferred to the next working stretch.
 - Day 2, that night: Iris sleeps in the kitchen with the lamp up and the open crate behind her in the dark, not writing down what she has understood about the seal meaning nothing.
+
+## Chapter 8
+
+- Day 2 (Friday), morning of the same working day's tail: Iris re-tapes the crate she'd left open overnight, writes nothing further on it, and crosses the cold hall to the study to finish the last item on her list, the glass-fronted case.
+- Day 2, late afternoon: Iris unlocks the case (key in the lock), counts down fourteen books, and takes the topmost to the desk under the lamp; opening it, she finds it is a ledger of names, years, and one-word conditions.
+- Day 2, late afternoon: Iris reads the topmost ledger line by line, recognizes the service-words ("Settled," "Kept on," "Wanting one"), finds its first entry within a few years and its last filled line dated the year Edith died ("Settled"), and sits down in the desk chair.
+- Day 2, dusk: Iris takes down Edith's study photograph, matches the pencil inscription on its back to the ledger hand, understands Edith wrote the ledgers, and turns the photograph face-down.
+- Day 2, the light going: Iris closes the topmost ledger (does not seal it), leaves the lower thirteen unopened, and tells herself she will read them in the morning when the light is good; she does not log them in her own notebook.
