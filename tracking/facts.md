@@ -76,3 +76,14 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - Iris reached for rational explanations — water in the pipes, wind in the eaves shaping into a word, a radio in a far room carried on old wiring — and walked the hall under the stopped clock to find a source; the house was silent except where it counted.
 - Iris logged the counting in her notebook (condition: a counting in the walls; a man's voice, even, the cadence of a sale; begun near thirty-seven; rising) but wrote the rational lines without underlining them — because she did not believe them, and she does not underline what she does not believe.
 - Iris privately half-thought, but did not write down, that a sale called lot by lot is a count that climbs to a total, and the caller knows the total before he starts.
+
+## Chapter 5
+
+- Day 2, Friday morning: the counting in the walls had stopped sometime before light; Iris woke to a cold grey room and was glad of plain work.
+- Iris's working method, on full display: walk a room left to right / top to bottom (reading it like a wall of stock before a sale), then tag each item — condition noted, lot number written on a buff card, the card looped to the handle with string.
+- Iris started clearance in the study (nearest room): desk = lot one (walnut, veneer lifting, one drawer-runner gone); swivel chair = lot two; two cabinets = lots three and four; the glass-fronted case left for later (it holds Edith's ledgers, Ch8).
+- Iris's sealing method: loose saleable items go into a tea-chest; when full she cuts her own paper tape from a roll, wets it, lays it over the lid, and signs ACROSS the join with the date using a stub of indelible pencil, so the join cannot be opened without the signature tearing. (Establishes that she seals crates with her own cut tape and signed-and-dated join — sets up Ch7, the red ball found inside a crate she sealed herself.)
+- First chest filled from the study shelves (glassware, a clock without works, an unread box of letters); sealed, signed, logged = lot five. Stacked by the study door.
+- Iris logs every sealed chest on a written manifest in her own hand — contents listed, seal described — so nothing leaves a cleared house unseen and unnamed. (The manifest established as her trusted record; foreshadowed as the document she will come to trust least.)
+- By mid-morning the study was bare boards; Iris felt her habitual clean satisfaction at a room reduced to its inventory ("You cannot grieve a manifest").
+- Iris moved to the front reception: sofa = lot nine (springs gone, frame sound); sideboard = lot ten. Third chest sealed/signed/logged near noon.

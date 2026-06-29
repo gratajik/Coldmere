@@ -17,3 +17,7 @@
 ## Chapter 4
 
 - Day 1, Thursday, late night (immediately after the warm-room visit): Iris returns to the front room, lies down, and is nearly asleep when the counting in the walls begins; she rises, traces it to the front-room wall and faintly above, walks the hall to find a source, finds none, and logs it in her notebook before the count climbs on.
+
+## Chapter 5
+
+- Day 2, Friday, morning into noon: the counting had stopped before light; Iris woke cold, made tea on the camp stove, and worked the clearance — clearing the study first (desk, chair, cabinets, first sealed chest by mid-morning), then the front reception (sofa, sideboard), sealing and logging a third chest near noon.

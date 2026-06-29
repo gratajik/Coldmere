@@ -32,3 +32,10 @@
 - The mundane cover for each wrongness (pipes/wind/old-wiring radio offered as the rational alibi for the counting) — advanced (Ch4).
 - Iris's method as armor / writing a thing down as the act that never fails her — advanced (Ch4; note her refusal to underline what she doesn't believe; pays off Ch23-24).
 - The warm room / the count running up toward the landing and the room the plan forgot — advanced (Ch4; recurs Ch16).
+
+## Chapter 5
+
+- The red ball under her own seal (Ch7) — planted (Ch5: Iris's sealing method established in full — her own cut-and-wetted paper tape, the join signed across with the date in indelible pencil, the manifest logged in her own hand; pays off Ch7).
+- Iris's method as armor / writing a thing down as the act that has never failed her ("You cannot grieve a manifest"; the manifest as her trusted record) — advanced (Ch5; pays off Ch23-24, where her own catalog logic drives the climax decision; the manifest foreshadowed as the document she'll trust least).
+- The counting in the walls (the climbing count is a lot, the lot is Iris) — advanced (Ch5: stopped before light, dismissed by daylight as pipes/wind, a thing that does not survive morning; recurs Ch16).
+- Edith Vane / the ledgers (the keeper's hand) — planted (Ch5: the glass-fronted case in the study left for later; pays off Ch8).

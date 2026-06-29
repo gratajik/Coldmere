@@ -1,5 +1,5 @@
 {
-  "chapter_count": 3,
+  "chapter_count": 4,
   "counts": {
     "em_dash": 0,
     "in_that_moment": 0,
@@ -29,12 +29,13 @@
   "chapter_endings": [
     "Behind me, through the cold glass, the pond held the last grey light and gave none of it back.",
     "Then I went back to the lamplight and lay down in my coat, and listened to a house that, when I held still, didn't seem to be holding quite as still as I was.",
-    "Pressed deep, the shape of someone, as if I had never sat at all."
+    "Pressed deep, the shape of someone, as if I had never sat at all.",
+    "The count went on behind the wall while I wrote, and I didn't let myself hear which number it had reached."
   ],
   "repeated_phrases": {},
   "signature_words": {},
   "pov_chapter_counts": {
-    "Iris": 3
+    "Iris": 4
   },
   "pov_pattern_counts": {
     "Iris": {
@@ -66,25 +67,39 @@
   },
   "pov_repeated_phrases": {
     "Iris": {
-      "i underline anything that": 2,
+      "told myself it was": 2,
       "the foot of the": 2,
-      "than the rooms it": 2,
-      "way i underline anything": 2,
-      "the way i underline": 2,
+      "the hall and stood": 2,
+      "the front of the": 2,
+      "which is what i": 2,
       "i told myself it": 2,
       "a cupboard the plan": 2,
-      "i counted them by": 2,
-      "of the work the": 2,
-      "of the stairs and": 2,
-      "the rooms it served": 2,
       "staircase in the dark": 2,
-      "strange staircase in the": 2,
+      "the total is wrong": 2,
+      "when the total is": 2,
+      "of the work the": 2,
       "a strange staircase in": 2,
+      "the way i underline": 2,
+      "myself it was the": 2,
+      "to the hall and": 2,
       "foot of the stairs": 2,
+      "i didn't go up": 2,
+      "i underline anything that": 2,
+      "strange staircase in the": 2,
+      "and i do not": 2,
+      "the rooms it served": 2,
+      "way i underline anything": 2,
+      "than the rooms it": 2,
+      "of the stairs and": 2,
+      "i counted them by": 2,
+      "water there was a": 2,
       "went back to the": 2,
       "i went back to": 2,
-      "water there was a": 2,
-      "it was the only": 2
+      "the sound of it": 2,
+      "it was the only": 2,
+      "in my coat and": 2,
+      "my hand on the": 2,
+      "it i put my": 2
     }
   }
 }
