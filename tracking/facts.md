@@ -42,3 +42,14 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - Iris's method: walk the ground floor and square it to the plan, then tag room by room — condition, then lot number, then seal. (Catalog/lot framing established.)
 - A stopped long-case clock and an empty coat stand stand in the cold hall.
 - Iris does not go upstairs on the first night; she sleeps in the front room.
+
+## Chapter 2
+
+- Iris carries two of her own paraffin lamps on a clearance job, knowing old wiring fails; she lit one on the mantel and one by her bedroll in the front room.
+- Iris's first-night method: bedroll by the hearth, bag squared against the wall, boots laced loose by the door; she does not unpack what she won't need.
+- No cell signal at Coldmere — Iris had two bars at the second cattle-grid, none past the third.
+- A cream rotary landline telephone sits on a half-table at the foot of the stairs; the cord runs to a box on the skirting. The bank's letter mentioned the landline.
+- The dial tone is wrong: it begins a half-second AFTER the receiver is lifted, rather than being present the instant the circuit closes — as if the silent line hears the receiver and answers late. (Slow dial tone established; foreshadows the Danny-thing's half-second speech lag.)
+- Iris rationalizes the lag as old exchange relays / pre-war single copper run down over eleven miles.
+- Iris dialled the office to log the start; it rang (also seeming to reach her a fraction late) but no one answered (after hours, no answering machine); the start went unlogged.
+- Iris logged: landline live, response delayed, office unmanned, start unlogged — underlining "unlogged."
