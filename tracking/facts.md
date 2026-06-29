@@ -28,3 +28,17 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - **Reason:** Structural Devices §10 calls for these as load-bearing recurring images; recurrence within budget is intended, not fingerprint accumulation.
 - **Authority:** Authorial choice per writing-guide §4.3.
 
+
+
+## Chapter 1
+
+- Coldmere sits at the end of Fen Lane, eleven miles down from town, past three cattle-grids and one culvert bridge; the drive ends at a gate.
+- Iris Pell is the clearance archivist on the work order; she is the only Vane relation who answered the bank's phone.
+- Edith Vane is deceased, no will located; contents to be inventoried and sold at the bank's reserve.
+- The mill-pond lies downslope of the house, perhaps eighty yards over rough ground, low and dull and skinned with the first ice.
+- Late November; the house's power is old and thin, half the hall lights coming up brown.
+- The bank's floor plan shows six ground-floor rooms off a central passage: hall, study, two reception rooms, kitchen, scullery.
+- Iris walks the ground floor and counts only five actual rooms (study, two receptions, kitchen, scullery); the sixth on the plan does not square — she fills the count with a shallow broom cupboard under the stairs and logs the discrepancy underlined. (Setup: room larger inside / count won't square with plan.)
+- Iris's method: walk the ground floor and square it to the plan, then tag room by room — condition, then lot number, then seal. (Catalog/lot framing established.)
+- A stopped long-case clock and an empty coat stand stand in the cold hall.
+- Iris does not go upstairs on the first night; she sleeps in the front room.
