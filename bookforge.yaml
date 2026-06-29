@@ -12,9 +12,9 @@ cost_limit: 80.00
 review_cost_limit: 20.00
 write_context_window: 3        # short chapters; 3 prior chapters fit the proxy easily
 targeted_rereview: true
-# 25 chapters x ~760 words ≈ 19,000 words (~70 printed pages). Per-chapter targets in the
-# plot table; word count is advisory only.
-word_count_target: 760
+# 25 chapters x ~1,850 words ≈ 46,000 words (~165 printed pages). Per-chapter targets in
+# the plot table; word count is advisory only.
+word_count_target: 1850
 git:
   auto_commit: true            # commit + push each milestone to github.com/gratajik/Coldmere
   auto_push: true
