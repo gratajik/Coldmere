@@ -35,3 +35,10 @@
 - Day 2, morning: Iris works the drawing room clockwise from the door, tagging it out (Lots 31, 32, 33 and more); then the dining room.
 - Day 2, mid-morning into noon: Iris makes up her crates in the dining room, packs and seals the sideboard plate and the glass cabinet (five wine glasses), writes manifests, cuts each seal square; eleven sealed crates stand against the wall by noon.
 - Day 2, after noon into the afternoon: Iris moves to the study and begins tagging its furniture, working toward the glass-fronted case of ledgers, which she leaves for last.
+
+## Chapter 6
+
+- Day 2 (Friday), late afternoon into the flat gray of the day's end: Iris climbs the eleven treads with the lamp to clear the back rooms last; does the box room over the kitchen and the linen press.
+- Day 2, late afternoon: Iris opens the room at the dead end of the passage and finds the child's room — the made-up white bed, the shelf of toys, the tin of nineteen marbles (one red), the drawer of a boy's grey-flannel clothes.
+- Day 2, late afternoon: Iris finishes noting and tagging the room (Lot 47), pockets the nineteen marbles, leaves the door open, and goes back down the eleven treads.
+- Day 2, that night: Iris logs the child's room in full in her notebook, underlines "No child was ever born in this house," and sits with the marbles in her pocket, refusing to name the boy.

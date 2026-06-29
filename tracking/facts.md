@@ -102,3 +102,18 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - Iris's governing creed: "a list is mercy" — the only mercy she has to give the dead; the work (tag/seal/cut) is her armor and the thing that "holds the door." (Catalog-as-armor; sets up ch16/ch23 — the method turned against her.)
 - Iris leaves the study's glass-fronted case of blank-spined ledgers for last, working toward them through the afternoon; she begins tagging the study furniture (desk, chair, lamp).
 - Iris keeps a small stone in her kit, used to weight the corners of her floor plan/list alongside the pencil tin.
+
+## Chapter 6
+
+- Day 2 (Friday), late afternoon: Iris works the back rooms (last on her list) by lamplight, though daylight is sufficient — she wants the lamp.
+- The first back room is the box room over the kitchen (trunks, broken chair, mouse-eaten carpet, tin bath on a nail); tagged as a lot of effects. Then the linen press (shelves of yellowed sheets), counted and shut.
+- The last room, at the dead end of the upstairs passage (marked on the plan as a second box room), is a child's room — specifically a young boy's.
+- The child's room contains: a small white iron bedstead chipped to black beneath, MADE UP (blanket squared, pillow plumped) in a house otherwise thick with dust; a low chest of drawers; a shelf holding a wooden horse (paint worn off its back), a spinning top, a soft-spined picture book, and a rusted round tobacco tin.
+- The tin holds marbles: nineteen, glass and clay, the clay ones chipped — and ONE is red. The marbles are cold to the touch. (Setup for the red rubber ball motif/Danny's "red one"; nineteen-marbles count established.)
+- The chest of drawers is full of a boy's clothes for a child of six or seven, folded small and laid by "as though he would be back": jerseys, GREY FLANNEL SHORT TROUSERS (a style long gone from the shops), rolled socks, a soft-collared shirt.
+- Edith Vane never married and had no child; the agent confirmed no one but the great-niece (Iris). NO CHILD WAS EVER BORN IN COLDMERE — making the kept, made-up boy's room inexplicable. (Setup planted for the ch14 reveal: Danny was taken, not lost.)
+- Iris tags the bed Lot 47 (carried on to the room's other effects).
+- For the FIRST time in thirty years of clearance work, Iris takes something out of a house she is clearing: she pockets the nineteen marbles (lid back on the now-empty tin, tin returned to the shelf). She does not know why.
+- Iris recognizes the grey flannel shorts — "mine had them" — and the red marble pushes against the private mental "drawer" where she keeps the unbearable; she refuses to say (even think) the name of the boy who "always took the red one." (Danny, unnamed in-scene.)
+- Iris records the room in her notebook that night, ending with the underlined line "No child was ever born in this house."
+- Iris leaves the child's room's door standing open, like the warm room's — her hand will not close it.

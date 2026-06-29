@@ -45,3 +45,12 @@
 - The study's ledgers (advanced): the glass-fronted case of blank-spined ledgers re-noted and approached; Iris leaves them for last, deferring the discovery to ch8.
 - Iris's communications / isolation (advanced): the landline answers cleanly in daylight (a railing held), the slow tone now "nothing"; the brief restoration of contact sets up the sharper loss when departure fails (ch10) and the storm seals the lane (ch17-18).
 - The slow dial tone / half-second wrongness (advanced, lightly): the held quiet before the tone noted again but dismissed by day; thread maintained toward ch20.
+
+## Chapter 6
+
+- A childless house with a child's things (planted): a young boy's made-up bedroom — bed, toys, grey flannel clothes folded as if for his return — in a house where no child was ever born. The central wrongness of this chapter; the catalog has no column for it. Pays off ch14 (Danny was taken, not lost) and feeds ch20 (the thing that wears Danny).
+- The red one / Danny's marbles (planted): nineteen marbles, one red, cold to the touch; the red one "he always took." Sets up the red rubber ball motif (ch7 onward) and the Danny-thing naming the red marble (ch20). Iris pockets them — the only thing she has ever taken from a clearance.
+- Iris's guilt and her coping "drawer" (advanced): the grey flannel shorts and the red marble push against the lid of the private drawer where she stores the unbearable; she refuses to say Danny's name in the house. The wound the house is working, brought to the surface.
+- Catalog-as-armor / writing-down (advanced): Iris holds the railing by making the room a lot (Lot 47) and logging it, but the work "has no column" for the absent child — the first time her method fails to make the dead make sense. The crack in the method widens (pays off ch16/23).
+- The warm room / open doors (advanced, lightly): like the warm room's door (ch3), Iris cannot make her hand close this door either — the house's rooms staying open behind her, a quiet through-line.
+- Period detail as evidence (planted): the grey flannel short trousers "gone from the shops these many years" date the boy's things to roughly thirty years past — a quiet temporal seed for the ch14 reveal that the clothes are Danny's, from the summer he drowned.
