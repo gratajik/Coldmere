@@ -13,3 +13,7 @@
 ## Chapter 3
 
 - Day 1, Thursday, late night (past midnight by Iris's watch): sleepless, Iris takes the torch upstairs, walks the landing and its four rooms, finds an unmarked fifth door at the landing's end, opens it onto the warm room, sees the chair turned to the pond where Edith was found, sits in it, stands, and finds the dent unchanged.
+
+## Chapter 4
+
+- Day 1, Thursday, late night (immediately after the warm-room visit): Iris returns to the front room, lies down, and is nearly asleep when the counting in the walls begins; she rises, traces it to the front-room wall and faintly above, walks the hall to find a source, finds none, and logs it in her notebook before the count climbs on.

@@ -66,3 +66,13 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - Edith Vane was found in this room, in this chair, turned to this window. (Edith found seated in the warm room.)
 - The chair cushion holds a dent pressed deep in the shape of a sitter; the warmth is in the cushion too. After Iris sits in it and stands, the dent is there again unchanged, as if she had never sat. (The dent that refills — the chair never truly vacated.)
 - Iris rationalizes the unmarked door as a misdrawn plan — the opposite of the downstairs cupboard error: downstairs the plan over-counted a cupboard as a room; here it left a room off entirely, as if the surveyor walked the landing and did not see the door.
+
+## Chapter 4
+
+- Day 1, late night: as Iris was falling asleep in the front room, a counting began in the walls — first dismissed as a knock/pipe-tick, then resolving into a low, even man's voice reciting ascending numbers.
+- The counting comes from behind the front-room skirting (near where the phone cord box runs) AND faintly from above — running up through the house toward the landing and the warm room. (Counting located vaguely in upstairs walls.)
+- The voice's cadence is that of an auction call — the flat even pace of a sale gone through lot by lot, with a pause where the eye lifts to the next item before the mouth gives its number. (Counting in the walls in auction cadence — sets up that the climbing count is a lot, the lot is Iris.)
+- The count Iris heard ran from "thirty-seven" upward (thirty-seven, thirty-eight, thirty-nine, after a long pause, then forty, forty-one, forty-two). It is climbing/rising.
+- Iris reached for rational explanations — water in the pipes, wind in the eaves shaping into a word, a radio in a far room carried on old wiring — and walked the hall under the stopped clock to find a source; the house was silent except where it counted.
+- Iris logged the counting in her notebook (condition: a counting in the walls; a man's voice, even, the cadence of a sale; begun near thirty-seven; rising) but wrote the rational lines without underlining them — because she did not believe them, and she does not underline what she does not believe.
+- Iris privately half-thought, but did not write down, that a sale called lot by lot is a count that climbs to a total, and the caller knows the total before he starts.

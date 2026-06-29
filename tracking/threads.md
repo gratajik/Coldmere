@@ -25,3 +25,10 @@
 - Edith Vane found seated in the warm room (keeper now kept) — planted (Ch3; pays off Ch22).
 - The warm-room window onto the pond / the water Iris will not yet look at — advanced (Ch3; recurs Ch11, Ch19).
 - Iris's method as armor (the closing count as small mercy, rationalizing the door as a misdrawn plan) — advanced (Ch3; pays off Ch23-24).
+
+## Chapter 4
+
+- The climbing count is a lot, and the lot is Iris — advanced (Ch4: first counting heard, auction cadence established and logged, the count rising from thirty-seven; pays off Ch16).
+- The mundane cover for each wrongness (pipes/wind/old-wiring radio offered as the rational alibi for the counting) — advanced (Ch4).
+- Iris's method as armor / writing a thing down as the act that never fails her — advanced (Ch4; note her refusal to underline what she doesn't believe; pays off Ch23-24).
+- The warm room / the count running up toward the landing and the room the plan forgot — advanced (Ch4; recurs Ch16).

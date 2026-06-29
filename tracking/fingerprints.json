@@ -1,5 +1,5 @@
 {
-  "chapter_count": 2,
+  "chapter_count": 3,
   "counts": {
     "em_dash": 0,
     "in_that_moment": 0,
@@ -15,11 +15,11 @@
     "calculated": 0,
     "composure": 0,
     "steadily": 0,
-    "settled_into": 0,
+    "settled_into": 1,
     "the_room_quiet": 0,
     "the_way": 0,
     "in_the_manner": 0,
-    "like_pron_verb": 0,
+    "like_pron_verb": 1,
     "as_pron_does": 0,
     "did_the_thing": 0,
     "body_part_did": 0,
@@ -28,12 +28,13 @@
   },
   "chapter_endings": [
     "Behind me, through the cold glass, the pond held the last grey light and gave none of it back.",
-    "Then I went back to the lamplight and lay down in my coat, and listened to a house that, when I held still, didn't seem to be holding quite as still as I was."
+    "Then I went back to the lamplight and lay down in my coat, and listened to a house that, when I held still, didn't seem to be holding quite as still as I was.",
+    "Pressed deep, the shape of someone, as if I had never sat at all."
   ],
   "repeated_phrases": {},
   "signature_words": {},
   "pov_chapter_counts": {
-    "Iris": 2
+    "Iris": 3
   },
   "pov_pattern_counts": {
     "Iris": {
@@ -51,11 +52,11 @@
       "calculated": 0,
       "composure": 0,
       "steadily": 0,
-      "settled_into": 0,
+      "settled_into": 1,
       "the_room_quiet": 0,
       "the_way": 0,
       "in_the_manner": 0,
-      "like_pron_verb": 0,
+      "like_pron_verb": 1,
       "as_pron_does": 0,
       "did_the_thing": 0,
       "body_part_did": 0,
@@ -65,12 +66,25 @@
   },
   "pov_repeated_phrases": {
     "Iris": {
-      "the foot of the": 2,
       "i underline anything that": 2,
-      "foot of the stairs": 2,
-      "of the work the": 2,
+      "the foot of the": 2,
+      "than the rooms it": 2,
       "way i underline anything": 2,
-      "the way i underline": 2
+      "the way i underline": 2,
+      "i told myself it": 2,
+      "a cupboard the plan": 2,
+      "i counted them by": 2,
+      "of the work the": 2,
+      "of the stairs and": 2,
+      "the rooms it served": 2,
+      "staircase in the dark": 2,
+      "strange staircase in the": 2,
+      "a strange staircase in": 2,
+      "foot of the stairs": 2,
+      "went back to the": 2,
+      "i went back to": 2,
+      "water there was a": 2,
+      "it was the only": 2
     }
   }
 }
