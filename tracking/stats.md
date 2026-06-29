@@ -11,7 +11,7 @@
 | ch05 | committed | 1,699 | 4,660 | 5,892 | $0.62 |
 | ch06 | committed | 1,741 | 0 | 5,443 | $0.14 |
 | ch07 | committed | 1,828 | 0 | 5,980 | $0.15 |
-| ch08 | pending | - | - | - | - |
+| ch08 | committed | 1,714 | 0 | 6,014 | $0.15 |
 | ch09 | pending | - | - | - | - |
 | ch10 | pending | - | - | - | - |
 | ch11 | pending | - | - | - | - |
@@ -32,11 +32,11 @@
 
 ## Grand Totals
 
-- **Total Words:** 12,243
-- **Chapters Complete:** 7/25
-- **Est. Writing Cost:** $1.44
+- **Total Words:** 13,957
+- **Chapters Complete:** 8/25
+- **Est. Writing Cost:** $1.59
 - **Est. Review Cost:** $0.00
 - **Est. Publishing Cost:** $0.00
-- **Est. Total Cost:** $1.44
+- **Est. Total Cost:** $1.59
 
 *Costs are estimated based on Anthropic API pricing. Proxy calls are free but estimated for production planning.*

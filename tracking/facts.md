@@ -147,3 +147,20 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - Iris privately reasons toward an innocent explanation (a "book of service" — an old family's record of servants who came/stayed/were let go) and clings to it, but cannot make the ledger mean anything that doesn't frighten her.
 - Iris understands, unnamed, that "a ledger is a record of what is kept / in the house" and refuses to name the column or what it counts, because naming it means reading the rest and finding where her own name goes. (Iris's-name-written-ahead setup planted; the register-is-a-record-not-a-binding seed for ch25 — she reads it as inventory, not as a thing she can undo.)
 - Iris sits down in the study desk chair to read, noting she does not sit when she works (she works standing) — a marker of how the ledgers unmoor her.
+
+## Chapter 9
+
+- Day 2 (Friday), dusk: after closing the study and the ledger case, Iris leaves the study meaning to do the measuring while the light holds, and finds two wet footprints on the stairs.
+- The footprints are on the FOURTH tread from the bottom and the SEVENTH tread, a stride apart (right foot above left), the gait of a child CLIMBING. No prints appear above the seventh tread, none below it, none on the half-landing or upper treads or landing; the trail stops at the seventh stair.
+- The prints are a child's bare foot, six or seven years old in size — the same size as the made-up white bed and the grey flannel shorts in the child's room (ch6).
+- The print-water is plain, cold, odorless water; Iris touches the edge and her finger comes away wet. The five toes, ball, and heel are clearly defined (ruling out condensation/leak, which has no toes).
+- The footprints dry FROM THE OUTSIDE IN: the rim/edges go dry first and the dryness creeps inward toward the center, the print shrinking to a thumbnail-sized dark patch and then vanishing — unlike a normal spill, which fades evenly. (Outside-in drying established as the specific wrongness.)
+- After both prints dry, the stairs are completely dry — no proof remains, nothing to photograph or tag. (Pattern: the house gives Iris things, then takes back the proof.)
+- The hall floor Iris had just crossed was bone-dry under her own boots; there is no water source on the stairs.
+- Iris follows the prints up the eleven treads to the landing; the trail (climbing, going up) points to the one warm thing in the house — the warm room behind the papered seam between bathroom and box room.
+- Iris puts her hand flat on the wallpaper an inch from the hidden door's edge and confirms the wall is warm (the only warm wall in the house), but does NOT open the door this time. (For once she does close/refuse a door rather than leave it open.)
+- Iris reasons that a wet thing climbing in the dark was climbing toward the warm room, and that finding the warm room "warm and empty" would be worse than finding something in it — "an empty warm room a wet child had climbed to and was not in" is a thing with no column.
+- This time Iris DOES log the anomaly in her notebook (unlike the ledgers in ch8): time (dusk), place (the stairs), the two prints (4th and 7th treads), child's bare foot six or seven years, water, climbing; the outside-in drying; and the deduction that the trail points to the warm room and that she put her hand on the warm wall and did not open the door.
+- Iris's final logged line, NOT underlined (deliberately, unlike ch6/ch4): "Something climbs the stairs to the warm room. It went up tonight in the wet. It was the size of a child."
+- Iris still refuses to say (even think) the name Danny in the house, though she privately recognizes the foot-size as that of the boy who drowned and was never found, climbing toward the warm room.
+- The nineteen marbles (one red, pocketed ch6) remain cold in Iris's pocket against her leg.

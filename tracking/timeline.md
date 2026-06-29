@@ -58,3 +58,11 @@
 - Day 2, late afternoon: Iris reads the topmost ledger line by line, recognizes the service-words ("Settled," "Kept on," "Wanting one"), finds its first entry within a few years and its last filled line dated the year Edith died ("Settled"), and sits down in the desk chair.
 - Day 2, dusk: Iris takes down Edith's study photograph, matches the pencil inscription on its back to the ledger hand, understands Edith wrote the ledgers, and turns the photograph face-down.
 - Day 2, the light going: Iris closes the topmost ledger (does not seal it), leaves the lower thirteen unopened, and tells herself she will read them in the morning when the light is good; she does not log them in her own notebook.
+
+## Chapter 9
+
+- Day 2 (Friday), dusk (continuing from ch8): Iris leaves the closed study to do the measuring while the light holds and stops on the bottom stair, finding two wet footprints.
+- Day 2, dusk: Iris crouches with the lamp, touches and examines the prints (child's bare foot, water), and watches both dry from the outside in and vanish, leaving the stairs bone-dry.
+- Day 2, dusk into dark: Iris follows the climbing trail up the eleven treads to the landing, lays her hand on the warm wall by the concealed warm-room door, and refuses to open it.
+- Day 2, dark: Iris goes back down, finds all the treads dry with no proof remaining, then sits at the kitchen table and logs the footprints, the outside-in drying, and the deduction (the trail points to the warm room; she did not open the door), ending with an un-underlined final line.
+- Day 2, that night: Iris sits with the lamp burning and the cold marbles in her pocket, refusing to name the drowned boy whose foot was that size.
