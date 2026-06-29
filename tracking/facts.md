@@ -53,3 +53,16 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - Iris rationalizes the lag as old exchange relays / pre-war single copper run down over eleven miles.
 - Iris dialled the office to log the start; it rang (also seeming to reach her a fraction late) but no one answered (after hours, no answering machine); the start went unlogged.
 - Iris logged: landline live, response delayed, office unmanned, start unlogged — underlining "unlogged."
+
+## Chapter 3
+
+- Past midnight on the first night, sleepless, Iris finally goes upstairs with her torch to finish walking the house.
+- The upstairs landing is wider than the rooms it serves (as the plan said); four rooms open off it — a bathroom, two stripped bedrooms, a box room — and the count of four closes against the plan.
+- A FIFTH door sits at the end of the landing, past the box room, in a stretch of wall the bank's floor plan draws as solid — no door, no room marked there. (The warm room is on no plan.)
+- The warm room's latch is warm to the touch in a house where every other latch is cold as the air.
+- The warm room is the only warm room in the house: blood-warm, close and still, the cold stopping at the threshold; the warmth has no source — no fire, no grate. (Warmth in one room of a frozen house — the keeping.)
+- The warm room is small, smaller than the bedrooms, with a single window in the far wall that looks down on the mill-pond and its skin of ice.
+- A worn wing-backed reading chair stands under the window, turned to face the glass / the pond, as if positioned to watch the water.
+- Edith Vane was found in this room, in this chair, turned to this window. (Edith found seated in the warm room.)
+- The chair cushion holds a dent pressed deep in the shape of a sitter; the warmth is in the cushion too. After Iris sits in it and stands, the dent is there again unchanged, as if she had never sat. (The dent that refills — the chair never truly vacated.)
+- Iris rationalizes the unmarked door as a misdrawn plan — the opposite of the downstairs cupboard error: downstairs the plan over-counted a cupboard as a room; here it left a room off entirely, as if the surveyor walked the landing and did not see the door.

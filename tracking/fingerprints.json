@@ -1,5 +1,5 @@
 {
-  "chapter_count": 1,
+  "chapter_count": 2,
   "counts": {
     "em_dash": 0,
     "in_that_moment": 0,
@@ -9,7 +9,7 @@
     "exchanged": 0,
     "there_was_sth": 0,
     "kind_of": 0,
-    "seemed_to": 0,
+    "seemed_to": 1,
     "deliberate": 0,
     "precise": 0,
     "calculated": 0,
@@ -27,12 +27,13 @@
     "kind_of_thing": 0
   },
   "chapter_endings": [
-    "Behind me, through the cold glass, the pond held the last grey light and gave none of it back."
+    "Behind me, through the cold glass, the pond held the last grey light and gave none of it back.",
+    "Then I went back to the lamplight and lay down in my coat, and listened to a house that, when I held still, didn't seem to be holding quite as still as I was."
   ],
   "repeated_phrases": {},
   "signature_words": {},
   "pov_chapter_counts": {
-    "Iris": 1
+    "Iris": 2
   },
   "pov_pattern_counts": {
     "Iris": {
@@ -44,7 +45,7 @@
       "exchanged": 0,
       "there_was_sth": 0,
       "kind_of": 0,
-      "seemed_to": 0,
+      "seemed_to": 1,
       "deliberate": 0,
       "precise": 0,
       "calculated": 0,
@@ -62,5 +63,14 @@
       "kind_of_thing": 0
     }
   },
-  "pov_repeated_phrases": {}
+  "pov_repeated_phrases": {
+    "Iris": {
+      "the foot of the": 2,
+      "i underline anything that": 2,
+      "foot of the stairs": 2,
+      "of the work the": 2,
+      "way i underline anything": 2,
+      "the way i underline": 2
+    }
+  }
 }

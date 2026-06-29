@@ -5,7 +5,7 @@
 | Ch | Status | Words | Input Tokens | Output Tokens | Est. Cost |
 |---|---|---|---|---|---|
 | ch01 | committed | 783 | 0 | 2,633 | $0.07 |
-| ch02 | pending | - | - | - | - |
+| ch02 | committed | 750 | 0 | 2,452 | $0.06 |
 | ch03 | pending | - | - | - | - |
 | ch04 | pending | - | - | - | - |
 | ch05 | pending | - | - | - | - |
@@ -32,11 +32,11 @@
 
 ## Grand Totals
 
-- **Total Words:** 783
-- **Chapters Complete:** 1/25
-- **Est. Writing Cost:** $0.07
+- **Total Words:** 1,533
+- **Chapters Complete:** 2/25
+- **Est. Writing Cost:** $0.13
 - **Est. Review Cost:** $0.00
 - **Est. Publishing Cost:** $0.00
-- **Est. Total Cost:** $0.07
+- **Est. Total Cost:** $0.13
 
 *Costs are estimated based on Anthropic API pricing. Proxy calls are free but estimated for production planning.*

@@ -16,3 +16,12 @@
 - The mundane cover for each wrongness (old exchange relays explaining the slow tone) — advanced (Ch2).
 - Iris's method as armor / her habit of underlining a fact that won't sit flat — advanced (Ch2; pays off Ch23-24).
 - No signal past the third cattle-grid (sets up the failed departure) — planted (Ch2; pays off Ch10).
+
+## Chapter 3
+
+- The unsquared room count / room larger inside than out — advanced (Ch3: warm room found on no plan, the inverse of the Ch1 cupboard error; pays off Ch15).
+- The warm room and what the house does / its true nature — planted (Ch3: the only warm room in a frozen house, sourceless heat; pays off Ch21).
+- The dent that refills (keeper's chair never truly vacated) — planted (Ch3; recurs, pays off Ch19/Ch22).
+- Edith Vane found seated in the warm room (keeper now kept) — planted (Ch3; pays off Ch22).
+- The warm-room window onto the pond / the water Iris will not yet look at — advanced (Ch3; recurs Ch11, Ch19).
+- Iris's method as armor (the closing count as small mercy, rationalizing the door as a misdrawn plan) — advanced (Ch3; pays off Ch23-24).

@@ -9,3 +9,7 @@
 ## Chapter 2
 
 - Day 1, Thursday, evening: Iris sets up the front room by lamplight, attempts to log the start with the office via the hall landline, finds the dial tone answers a half-second late, gets no answer at the office, logs the night unfinished, and lies down in her coat without going upstairs.
+
+## Chapter 3
+
+- Day 1, Thursday, late night (past midnight by Iris's watch): sleepless, Iris takes the torch upstairs, walks the landing and its four rooms, finds an unmarked fifth door at the landing's end, opens it onto the warm room, sees the chair turned to the pond where Edith was found, sits in it, stands, and finds the dent unchanged.
