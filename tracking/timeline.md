@@ -74,3 +74,11 @@
 - Day 2, morning: Iris goes back in, lifts the landline, hears the slow tone, dials the office (rings to eight, unanswered), then the operator (open line, the listening half-second, no voice), and puts the receiver down.
 - Day 2, morning: Iris checks her mobile on the open step (No service), reckons the eleven-mile walk and refuses it because of the pond, then shuts the front door herself.
 - Day 2, morning/day: Iris carries the bag back inside, sets it ready by the kitchen table, sits at the table with her hands flat on the cold wood, and waits, the slow tone in the hall no longer reading as the line.
+
+## Chapter 11
+
+- Day 3 (Saturday), the dark before dawn (near 4 a.m., continuing from the previous night's vigil): Iris wakes in the kitchen chair after roughly an hour's sleep, turns the lamp higher, and checks the shut front door.
+- Day 3, the small hours: Iris is drawn first toward the stairs (the warm room, the count) and resists, going instead to the drawing-room window facing the slope, and draws the curtain back an inch.
+- Day 3, the small hours: Iris sees the small upright figure at the pond's near edge, watches it a long time, reasons through and discards three explanations (deer, lost child, trespasser), and is held by the matching height.
+- Day 3, the small hours: the buried memory of that summer surfaces fully (she looked away at nine, Danny gone with the red marble, the two-day dragging that found nothing); the longing to go down and the terror of it hold her at the glass, shaking, and she does not go.
+- Day 3, toward gray morning: Iris lets the curtain fall, turns her back to the window, does not look again, returns to the kitchen chair, does not log the event, and sits with the cold marbles and the lamp in her lap as the gray comes up.

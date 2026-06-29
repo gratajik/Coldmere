@@ -182,3 +182,16 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - For the second time (cf. ch8 ledgers), Iris does NOT take up her pencil to log the day: "there was no column for a woman who could leave and would not." Her catalog-as-armor fails her again.
 - Iris carries the bag back up from the step and sets it by the kitchen table, unpacked but "ready" — a small lie that she is still going.
 - The eighty-yards-of-pond detail is reaffirmed (drive runs down past the pond; first eighty yards alongside the water) — consistent with the spatial note (pond ~80 yards from house, ch23 climax).
+
+## Chapter 11
+
+- Day 3 (Saturday), near 4 a.m. (the small hours, the dark beginning to thin): Iris wakes in the kitchen chair after about an hour's sleep, turns the lamp up, and after checking the shut front door is drawn to look at the pond from the drawing-room window — having refused to look at the water for two days.
+- From the drawing-room window (the long one facing the slope), Iris sees the mill-pond ~80 yards down the rough ground, under its thin skin of ice; a small upright shape stands at the near edge where the reeds give out, child-sized (six or seven years tall), facing the house, motionless, through long minutes.
+- Iris reaches for three rational explanations in turn (a young deer/fawn, a lost farm child, a trespasser) and discards each: the shape stands upright on two and never bends or drifts (not a deer); there is no farm and no child within eleven miles and the open lane brought no one (not a wanderer).
+- The figure's height exactly matches the kept evidence Iris has measured: the white iron bed (ch6), the grey flannel shorts (ch6), and the wet child's footprints on the 4th/7th treads (ch9) — all a child of six or seven; and it stands at the exact edge of the water where Danny drowned thirty years ago.
+- BACKSTORY SURFACED (first full statement in-scene): Iris was nine and meant to be watching seven-year-old Danny; she looked away, and when she looked back the water was already closing, the rings going out to the reeds. Danny had the red marble in his fist ("he always took the red one"). The pond was dragged for two days and brought up weed, a boot, and a bicycle frame, but never Danny's body. (Iris's central guilt — "I looked away" — laid bare; the drawer is open.)
+- Iris feels the pull UP the stairs toward the warm room and the count, and resists it, going to the drawing-room window instead; the landing window faces the pond's wrong way.
+- Iris does NOT go down to the pond: the longing to go to the figure and the terror of going are equal in her; she cannot make her feet move toward the water, the slope, or the pond in the dark.
+- Iris lets the curtain fall and deliberately does NOT look again — refusing both possibilities (the figure still there, or gone back into the dark) as unbearable.
+- For the third time (cf. ch8 ledgers, ch10 the failed departure) Iris does NOT take up her pencil to log the event: "there is no column for a woman who stood at a window and saw her dead brother's height at the water and would not go down."
+- The nineteen marbles (one red) remain cold against Iris's leg; she holds the lamp in her lap through the dawn, sitting with her back to the dark window.
