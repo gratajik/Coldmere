@@ -28,3 +28,10 @@
 - Day 1 (Thursday), the dead middle of the night / small hours (continuing straight on from ch3): Iris leaves the warm room, descends to the kitchen, and sits up with her notebook; she does not sleep again.
 - Day 1, late night: the wind at the eaves dies to full stillness; Iris hears the first counting in the inner wall — knock, then a number, then a pause — climbing one through five before it stops.
 - Day 1, toward the gray edge of morning: the wind returns; Iris keeps the lamp burning past its bead and waits, no longer for the count to prove itself pipes, but for it to come back and go higher than five.
+
+## Chapter 5
+
+- Day 2 (Friday), morning: Iris rises stiff from the kitchen chair; rings the office by landline (answered on the fourth ring), confirms a Monday draft, eats and drinks from her own provisions.
+- Day 2, morning: Iris works the drawing room clockwise from the door, tagging it out (Lots 31, 32, 33 and more); then the dining room.
+- Day 2, mid-morning into noon: Iris makes up her crates in the dining room, packs and seals the sideboard plate and the glass cabinet (five wine glasses), writes manifests, cuts each seal square; eleven sealed crates stand against the wall by noon.
+- Day 2, after noon into the afternoon: Iris moves to the study and begins tagging its furniture, working toward the glass-fronted case of ledgers, which she leaves for last.

@@ -36,3 +36,12 @@
 - Iris's catalog-as-armor / writing-down (advanced): she logs the unbearable to stay the one holding the pencil; the underlining no longer steadies her, a crack in the method that will widen (pays off ch16/23).
 - The slow dial tone / half-second wrongness (advanced, lightly): the same listening, deliberate "something on the line" quality now in the wall's measured pauses; thread maintained toward ch20.
 - The warm room (advanced): logged in full in the notebook; the inner wall it backs onto is the source of the counting, tying room and count together.
+
+## Chapter 5
+
+- Catalog-as-armor / the work as the door (advanced): Iris's full method on display; "a list is mercy" stated outright as her governing creed. The tag/seal/cut rhythm that holds her steady is the very shape the house's count will use against her. Pays off ch16 (the count is a lot) and ch23 (she deduces and burns the register from having read what it does).
+- The sealed crate (planted): a crate Iris packs, seals with tape, cuts square with her own knife, and presses flat with her thumb. Establishes the sealed-with-her-own-hand crate so the red rubber ball appearing inside it (ch7) is the first thing her method cannot explain.
+- The count / one-short motif (advanced, lightly): Iris counts the wine glasses, finds them one short (five of six), and writes five — the running tally and the "wanting one" cadence echoed in her own clean work.
+- The study's ledgers (advanced): the glass-fronted case of blank-spined ledgers re-noted and approached; Iris leaves them for last, deferring the discovery to ch8.
+- Iris's communications / isolation (advanced): the landline answers cleanly in daylight (a railing held), the slow tone now "nothing"; the brief restoration of contact sets up the sharper loss when departure fails (ch10) and the storm seals the lane (ch17-18).
+- The slow dial tone / half-second wrongness (advanced, lightly): the held quiet before the tone noted again but dismissed by day; thread maintained toward ch20.

@@ -90,3 +90,15 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - Iris records the count in her notebook: time, place ("inner wall, stairs side"), the knock between each number, the flat tone and even pause, the numbers one through five; she writes "Prob. pipes / settling. Tired." and beneath it "Counted to five. In order. Stopped," underlined.
 - After the warm room, Iris went back down the eleven treads to sleep in the kitchen; she did not sleep again that night and kept the oil lamp burning above its low bead, spending oil she will want later.
 - The wind/eaves had gone fully still in the dead-middle of the night just before the counting began (which let Iris hear it cleanly); the wind resumed after the count stopped.
+
+## Chapter 5
+
+- Day 2 (Friday) morning: Iris reaches the office by landline on the fourth ring; a woman confirms the bank wants the draft inventory by Monday. The slow dial tone is present but reads as nothing in daylight.
+- Iris's clearance method shown in full: work each room clockwise from the door; note object + condition; assign a lot number; write it on a tag and tie it to the object.
+- Crate-and-seal method established: Iris brought a dozen flat-packed crates; small/breakable items are packed, the manifest (contents + count) written on the lid, tape drawn across the seam and cut square with her knife, then the crate is pressed flat with her thumb and moved against the wall. (Sets up ch7: the red ball found inside a crate she sealed herself.)
+- Lots assigned this chapter: Lot 31 (the long-case clock, stopped at twenty past four, movement seized); Lot 32 (pier glass, foxed, frame water-gilt and chipped); Lot 33 (pair of rose armchairs); plus a nest of tables, fire screen, standing lamp, footstool.
+- The dining-room glass cabinet held a set of six wine glasses with one missing; Iris packed five and wrote "five" on the manifest (one-short count echoes the count motif).
+- By noon Iris has the drawing room and dining room tagged out, eleven sealed-and-listed crates against the dining-room wall, and a lot column running past forty.
+- Iris's governing creed: "a list is mercy" — the only mercy she has to give the dead; the work (tag/seal/cut) is her armor and the thing that "holds the door." (Catalog-as-armor; sets up ch16/ch23 — the method turned against her.)
+- Iris leaves the study's glass-fronted case of blank-spined ledgers for last, working toward them through the afternoon; she begins tagging the study furniture (desk, chair, lamp).
+- Iris keeps a small stone in her kit, used to weight the corners of her floor plan/list alongside the pencil tin.
