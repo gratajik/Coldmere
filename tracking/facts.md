@@ -47,3 +47,19 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - Iris steadies herself by counting aloud ("One window. Two. Three.") — a habit since age nine.
 - Iris does not climb into a strange house in the dark; she will not go upstairs until morning (her rule).
 - Iris's plan-of-attack order for the next day: drawing room, dining, study, case, back rooms, then measure the back of the house with a tape.
+
+## Chapter 2
+
+- Iris chooses the kitchen to sleep in for the night: nearest the door, has a chair and table, the dead range's stone retains faint warmth.
+- Iris does not cook in a house she's clearing; she eats only her own provisions (bread, cheese, an apple) and leaves nothing of herself behind.
+- Coldmere's power is failing: a single bulb on a frayed flex gives a brown, ticking glow; the meter is on a nearly-spent token. Iris prefers the oil lamp.
+- The agent told Iris that Edith lived shut in three rooms at the end while the rest of the house went to damp and dark.
+- Iris's mobile phone lost signal at the third cattle-grid (three bars to none) and shows "No service" at the house.
+- There is an old black rotary (dial) telephone on the hall table beside the unlit lamp; the landline still works.
+- The dial tone on the landline comes up SLOW — a half-second of held quiet before the tone arrives, where a normal line's tone is instantaneous (slow-dial-tone motif planted; foreshadows the Danny-thing's half-second speech lag, ch20). Iris rationalizes it as old copper / a tired exchange.
+- Iris dialed the office by lamplight; the phone rang twelve times with no answer (after-hours, dark office). She plans to ring again in the morning.
+- Iris steadies herself by counting (counted the twelve rings) — her habit since age nine.
+- Iris keeps a private mental "drawer" where she stores intrusive/unbearable thoughts; she has used it for thirty years, since she was nine.
+- Iris cannot sleep in total darkness; she keeps the lamp turned to a low bead of flame through the small hours, a habit since age nine.
+- Iris makes a bed of the kitchen chair: coat for a blanket, bag for a pillow.
+- Near sleep, Iris hears (or dreams) the landline's open-line tone going on with no hand on it, as if a receiver lay off its cradle.
