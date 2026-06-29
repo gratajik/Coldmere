@@ -18,3 +18,12 @@
 - Iris's guilt and her coping "drawer" (advanced): the private mental drawer where she stores the unbearable, kept for thirty years since age nine; the wound the house will work.
 - Iris's lamp-and-light habit (planted): she cannot sleep in total dark, keeps a bead of flame through the night since she was nine — a small tell tied to the night Danny drowned.
 - The dying power / dwindling light (planted): failing electricity and a nearly-spent meter token; sets up the deepening cold and lost light during the storm (ch17-18).
+
+## Chapter 3
+
+- The warm room (planted): the single warm room in a frozen house, on no plan, blood-warm with no source; the structural emblem of what the house does. Withheld-term-adjacent (its true nature names ch21).
+- The unsquared depth (advanced): the yard of unaccounted depth from ch1 is located here, in the warm room; pays off ch15 (room measures larger inside than out).
+- The dent that refills (planted): the chair holds and re-forms a body-shaped dent under no weight; the keeper's chair never truly empty. Pays off ch19/22 (Edith kept, the chair occupied).
+- Edith found in the warm room (planted): Iris understands Edith was found seated in this chair; setup for ch22 (Edith was keeper, now kept).
+- Iris's catalog-as-armor (advanced): she holds the railing by making the room an inventory, lot by lot, and by writing down what frightens her; the method that will be turned against her (pays off ch16/23).
+- The pond glimpsed from the warm-room window (advanced): the chair and the window both face the water Edith could not see in the dark; pond-ice/shape motif line maintained (pays off ch19/23).

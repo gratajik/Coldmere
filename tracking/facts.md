@@ -63,3 +63,18 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - Iris cannot sleep in total darkness; she keeps the lamp turned to a low bead of flame through the small hours, a habit since age nine.
 - Iris makes a bed of the kitchen chair: coat for a blanket, bag for a pillow.
 - Near sleep, Iris hears (or dreams) the landline's open-line tone going on with no hand on it, as if a receiver lay off its cradle.
+
+## Chapter 3
+
+- The warm room is found this chapter: a small room off the upstairs landing, on the inner wall between the bathroom and the box room. It is NOT on the floor plan and (Iris is certain) appears in no photograph of the house.
+- The warm room sits in the unaccounted yard of depth Iris noted downstairs in ch1 (setup-payoff link: warm room larger inside than out, pays off ch15).
+- The warm room's door is concealed: a seam in the wallpaper, no frame, no handle; it swings inward on a silent hinge with no catch or key.
+- The warm room is blood-warm with no source Iris can find: no fire, no radiator, no pipe. Every other room in Coldmere holds the same flat weeks-old chill.
+- The warm room contains: a green wingback reading chair (worn pale on the arms), a matching footstool, a mahogany side table with an unlit reading lamp; a single sash window with curtains drawn back, looking down across the dark toward the pond.
+- Edith Vane was found seated, in this house — Iris now understands she was found in this chair in the warm room.
+- The chair holds a settled body-shaped dent (cushion, back, and two pale forearm-worn places). Iris presses the cushion flat; the dent re-forms in the time it takes her to step back — it presses down under a weight that isn't there (dent-refills motif planted; pays off ch19/22).
+- The cushion foam is cold to the touch, colder than the warm air around it.
+- Iris's upstairs floor plan (bank's hand) marks five spaces: two front bedrooms, a bathroom, a box room over the kitchen, a linen press — and draws solid wall where the warm room actually is.
+- Iris records the warm room on the blank back of the plan: "room off landing, inner wall, betw. bath & box rm. Not on plan. Warm. No source. Edith's chair. Cushion holds the shape. I pressed it flat. It came back." Underlined once.
+- The upstairs landing is wider than the rooms it serves (echo of the house's wrong interior logic).
+- Iris leaves the warm room's door standing open; she cannot make her hand close it.

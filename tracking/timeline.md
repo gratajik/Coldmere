@@ -15,3 +15,10 @@
 - Day 1, evening: Iris confirms no mobile signal; carries the lamp to the hall and tests the landline — the dial tone arrives slow (a held half-second of quiet first).
 - Day 1, evening: Iris dials the office; it rings twelve times unanswered (after-hours); she decides to try again in the morning.
 - Day 1, night: Iris beds down in the kitchen chair, lamp turned low; sleeps poorly; near the bottom of sleep hears/dreams the open-line tone going on in the cold hall.
+
+## Chapter 3
+
+- Day 1 (Thursday), small hours of the night: Iris wakes in the kitchen chair to lamp-embers and cold, the landline now silent; she abandons her morning rule and decides to do the upstairs by lamplight.
+- Day 1, small hours: Iris climbs the stairs (eleven treads, a half-landing, four more) to the wide landing; counts five doors matching the plan; then feels warmth from a stretch of unmarked inner wall.
+- Day 1, small hours: Iris finds and opens the concealed papered door, enters the warm room, inventories it, and finds Edith's chair holding a body-shaped dent.
+- Day 1, small hours: Iris presses the cushion flat and watches the dent re-form; she records the room on the back of the plan and leaves, unable to close the door, the cold landing a relief.
