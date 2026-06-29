@@ -42,3 +42,11 @@
 - Day 2, late afternoon: Iris opens the room at the dead end of the passage and finds the child's room — the made-up white bed, the shelf of toys, the tin of nineteen marbles (one red), the drawer of a boy's grey-flannel clothes.
 - Day 2, late afternoon: Iris finishes noting and tagging the room (Lot 47), pockets the nineteen marbles, leaves the door open, and goes back down the eleven treads.
 - Day 2, that night: Iris logs the child's room in full in her notebook, underlines "No child was ever born in this house," and sits with the marbles in her pocket, refusing to name the boy.
+
+## Chapter 7
+
+- Day 2 (Friday), late afternoon into failing light: Iris leaves the back rooms with the pocketed marbles and goes to the study for the ledgers, but detours to the dining room first to re-count the morning's eleven sealed crates.
+- Day 2, dusk: counting the crates by lamp, Iris finds the fourth crate's seal cut and the lid sprung; she crouches, reasons it as cold-peeled tape or shifted silver, then opens the flaps to check the canteen.
+- Day 2, dusk: Iris finds the silver undisturbed and a red rubber ball lying on it that she never packed; she touches it (warm), takes her finger off, and confronts that her own seal did not hold.
+- Day 2, dusk into dark: Iris writes the anomaly on the back of the manifest, leaves the crate open (lid up, ball on the baize), and steps back; the study's ledgers remain deferred to the next working stretch.
+- Day 2, that night: Iris sleeps in the kitchen with the lamp up and the open crate behind her in the dark, not writing down what she has understood about the seal meaning nothing.

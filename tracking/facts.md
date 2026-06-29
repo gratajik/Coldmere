@@ -117,3 +117,17 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - Iris recognizes the grey flannel shorts — "mine had them" — and the red marble pushes against the private mental "drawer" where she keeps the unbearable; she refuses to say (even think) the name of the boy who "always took the red one." (Danny, unnamed in-scene.)
 - Iris records the room in her notebook that night, ending with the underlined line "No child was ever born in this house."
 - Iris leaves the child's room's door standing open, like the warm room's — her hand will not close it.
+
+## Chapter 7
+
+- Day 2 (Friday), late afternoon/dusk: after clearing the back rooms, Iris returns to the dining room (where she'd left eleven sealed crates that morning) before tackling the study's ledgers, wanting to stand in front of a finished thing.
+- Iris counts the eleven sealed dining-room crates again and finds the fourth from the left has its seal cut: the square-cut tape end lifted and curled, the cardboard flaps sprung half an inch apart and standing proud (not pressed back flush).
+- The opened crate is the one labeled "dining, plate & glass" containing the canteen of silver in its baize rolls — the crate Iris taped, cut square, and pressed flat with her own thumb that morning, set fourth from the left, and had not touched since.
+- The silver inside is exactly as Iris packed it — undisturbed, nothing shifted or fallen — so the crate was NOT sprung open by its own contents settling; it was opened by a hand and set back unpressed.
+- On top of the silver, on the baize, Iris finds a small red rubber ball (child's, the rubber gone soft/dull/perished with age) that she did NOT pack and did NOT write on the manifest. This is the first thing her clearance method cannot explain — her career-long trust that a sealed crate holds only what she packed is broken. (Red rubber ball motif planted; method fails.)
+- The red rubber ball is WARM to the touch when Iris presses one finger to it — not the warmth of the warm room, but "the warm of a thing held," a ball that has been in a hand. (Foreshadows the warmth/keeping; ties the ball to a presence.)
+- There was NO ball among the child's toys on the upstairs shelf (which Iris inventoried by lamp ~three hours earlier: a wooden horse, a spinning top, a picture book, the tin of marbles). The red ball has no provenance and no place in the house's order. Iris cannot file it.
+- Iris records the anomaly on the BACK of the crate's manifest ("Crate 4, dining plate. Seal cut. Lid up, flaps proud. Silver whole, undisturbed, as packed. ... a red rubber ball, child's, perished. Warm. Not on manifest. Not packed."), letting her unsteady hand show, but does not make the writing-down steady her.
+- For the second time (cf. ch3 warm room, ch6 child's room), Iris cannot make her hand close/seal a thing: she leaves the crate OPEN, lid up, the ball on the baize, refusing to re-seal what her own seal failed to hold.
+- The red ball downstairs and the red marble Iris pocketed upstairs (the "red one" the boy always took) sit in her mind side by side and will not stay apart; the lid of her private mental "drawer" pushes up from the inside, but she still refuses to say Danny's name in the house.
+- Iris understands (privately, unwritten) that she has "stopped being the one who sealed the crates" — that the house can open what she seals and place things for her to find.
