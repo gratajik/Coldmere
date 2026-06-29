@@ -21,3 +21,7 @@
 ## Chapter 5
 
 - Day 2, Friday, morning into noon: the counting had stopped before light; Iris woke cold, made tea on the camp stove, and worked the clearance — clearing the study first (desk, chair, cabinets, first sealed chest by mid-morning), then the front reception (sofa, sideboard), sealing and logging a third chest near noon.
+
+## Chapter 6
+
+- Day 2, Friday, past noon into the afternoon: after sealing the third chest near noon (Ch5), Iris works back through the ground floor room by room and opens the back room at the end of the passage, finding the kept child's room; she examines the bed, the tin of marbles, and the boy's clothes, lots them but cannot account for them, returns everything to its place, and leaves, pulling the door to behind her.

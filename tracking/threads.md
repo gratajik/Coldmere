@@ -39,3 +39,11 @@
 - Iris's method as armor / writing a thing down as the act that has never failed her ("You cannot grieve a manifest"; the manifest as her trusted record) — advanced (Ch5; pays off Ch23-24, where her own catalog logic drives the climax decision; the manifest foreshadowed as the document she'll trust least).
 - The counting in the walls (the climbing count is a lot, the lot is Iris) — advanced (Ch5: stopped before light, dismissed by daylight as pipes/wind, a thing that does not survive morning; recurs Ch16).
 - Edith Vane / the ledgers (the keeper's hand) — planted (Ch5: the glass-fronted case in the study left for later; pays off Ch8).
+
+## Chapter 6
+
+- Danny was taken, not lost — planted (Ch6: a boy's short bed, a tin of marbles, and clothes for a boy of about seven surface in a house the bank confirms is childless; pays off Ch14).
+- The house "keeps" / its true nature — advanced (Ch6: the kept room, the privately-held thought that a thing kept this carefully is held, not left; pays off Ch21).
+- Iris's method as armor / writing a thing down — advanced (Ch6: she lots the items correctly but cannot rule a line under the room; the manifest beginning to fail her; pays off Ch23-24).
+- The mundane cover for each wrongness — advanced (Ch6: Iris reaches for the rational alibi of a grief-frozen nursery, then finds it has no date, grave, or boy on paper to support it).
+- The taking (foreshadowing seed) — planted (Ch6: the kept boy's things and Iris's unwritten thought that the boy was "held," not "left behind").

@@ -87,3 +87,16 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - Iris logs every sealed chest on a written manifest in her own hand — contents listed, seal described — so nothing leaves a cleared house unseen and unnamed. (The manifest established as her trusted record; foreshadowed as the document she will come to trust least.)
 - By mid-morning the study was bare boards; Iris felt her habitual clean satisfaction at a room reduced to its inventory ("You cannot grieve a manifest").
 - Iris moved to the front reception: sofa = lot nine (springs gone, frame sound); sideboard = lot ten. Third chest sealed/signed/logged near noon.
+
+## Chapter 6
+
+- Day 2, Friday afternoon: working back through the ground floor, Iris opens a room at the end of the ground-floor passage she'd first marked as a back bedroom (servant's room by size/place) and finds it is a child's room.
+- The child's room is KEPT — unlike the stripped upstairs bedrooms, it holds its things as if no one had the heart to clear it.
+- The room contains: a short, narrow, low child's bed (proper bed, not a cot/crib, sized for a body without its full length; mattress and frame sound, no woodworm; a moth-holed wool blanket folded square at the foot).
+- On a low shelf by the window: a rusted-seam biscuit tin of glass marbles (cat's-eyes, clearies, one heavy steelie), colours gone cloudy with age. (Tin of marbles established.)
+- In the corner press: boy's clothes sized for a boy of about seven — grey flannel short trousers, soft-collared shirts, a navy knitted jumper with cuffs let down once and gone short again. (Boy's clothes established.)
+- The bank's file states twice, in two hands, that Edith Vane never married — no spouse, no issue; no child was born in the house. (Childless house confirmed on paper.)
+- There is no birth date, no grave, and no boy on any paper connected to the house — distinguishing this room from an ordinary grief-frozen nursery, which would have a findable date and story.
+- Iris lots the items correctly (bed, tin/marbles, press and contents) but cannot account for them — she logs them and cannot file them.
+- Iris privately thinks, but does not write down, that a thing kept this carefully is not a thing left behind but a thing held. (Seed for the taking / the house keeping its dead.)
+- Iris is "precise about putting things back" — she returns the jumper, the tin, and re-folds the blanket exactly as found before leaving the room.
