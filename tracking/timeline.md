@@ -22,3 +22,9 @@
 - Day 1, small hours: Iris climbs the stairs (eleven treads, a half-landing, four more) to the wide landing; counts five doors matching the plan; then feels warmth from a stretch of unmarked inner wall.
 - Day 1, small hours: Iris finds and opens the concealed papered door, enters the warm room, inventories it, and finds Edith's chair holding a body-shaped dent.
 - Day 1, small hours: Iris presses the cushion flat and watches the dent re-form; she records the room on the back of the plan and leaves, unable to close the door, the cold landing a relief.
+
+## Chapter 4
+
+- Day 1 (Thursday), the dead middle of the night / small hours (continuing straight on from ch3): Iris leaves the warm room, descends to the kitchen, and sits up with her notebook; she does not sleep again.
+- Day 1, late night: the wind at the eaves dies to full stillness; Iris hears the first counting in the inner wall — knock, then a number, then a pause — climbing one through five before it stops.
+- Day 1, toward the gray edge of morning: the wind returns; Iris keeps the lamp burning past its bead and waits, no longer for the count to prove itself pipes, but for it to come back and go higher than five.

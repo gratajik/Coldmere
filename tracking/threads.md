@@ -27,3 +27,12 @@
 - Edith found in the warm room (planted): Iris understands Edith was found seated in this chair; setup for ch22 (Edith was keeper, now kept).
 - Iris's catalog-as-armor (advanced): she holds the railing by making the room an inventory, lot by lot, and by writing down what frightens her; the method that will be turned against her (pays off ch16/23).
 - The pond glimpsed from the warm-room window (advanced): the chair and the window both face the water Edith could not see in the dark; pond-ice/shape motif line maintained (pays off ch19/23).
+
+## Chapter 4
+
+- The counting in the walls (planted): the house's running tally first heard, in auction-calling cadence, one through five; rationalized as pipes/settling. The audible countdown begins. Pays off ch16 (the count is a lot, and the lot is Iris).
+- Catalog/lot framing (advanced): Iris recognizes the wall's cadence as a saleroom lot-call from her own trade; her inventory language begins to be turned against her. Feeds ch16/ch23.
+- Iris's steadying count as armor and tell (advanced): she instinctively counts along, then refuses to answer the wall — her lifelong coping count set directly against the house's count.
+- Iris's catalog-as-armor / writing-down (advanced): she logs the unbearable to stay the one holding the pencil; the underlining no longer steadies her, a crack in the method that will widen (pays off ch16/23).
+- The slow dial tone / half-second wrongness (advanced, lightly): the same listening, deliberate "something on the line" quality now in the wall's measured pauses; thread maintained toward ch20.
+- The warm room (advanced): logged in full in the notebook; the inner wall it backs onto is the source of the counting, tying room and count together.

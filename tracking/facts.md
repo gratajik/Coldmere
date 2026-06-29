@@ -78,3 +78,15 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - Iris records the warm room on the blank back of the plan: "room off landing, inner wall, betw. bath & box rm. Not on plan. Warm. No source. Edith's chair. Cushion holds the shape. I pressed it flat. It came back." Underlined once.
 - The upstairs landing is wider than the rooms it serves (echo of the house's wrong interior logic).
 - Iris leaves the warm room's door standing open; she cannot make her hand close it.
+
+## Chapter 4
+
+- The first counting is heard this chapter: a flat, even voice in Coldmere's inner wall (the stairs side, running up toward the landing and warm room) recites bare ascending numerals.
+- The pattern is: a single hard pipe-knock, then a number, then a clean pause — repeated, in the cadence of an auctioneer calling lots off a list.
+- The count this night reached: One. Two. Three. Four. Five — then stopped (the longest pause came before "Five"); afterward the wind returned to the eaves as if nothing had spoken. (Climbing-count-is-a-lot setup planted; pays off ch16.)
+- Iris rationalizes it as contracting pipes / an old house settling in the cold / an over-tired mind hearing words in knocks, but cannot unhear the deliberate order and even measure.
+- Iris recognizes the cadence: it is the flat, patient rhythm of a man calling lots in a saleroom doorway, a sound from "another life" (her trade).
+- Iris caught herself counting along under her breath (her lifelong steadying count) and deliberately stopped — she will not answer the wall's count.
+- Iris records the count in her notebook: time, place ("inner wall, stairs side"), the knock between each number, the flat tone and even pause, the numbers one through five; she writes "Prob. pipes / settling. Tired." and beneath it "Counted to five. In order. Stopped," underlined.
+- After the warm room, Iris went back down the eleven treads to sleep in the kitchen; she did not sleep again that night and kept the oil lamp burning above its low bead, spending oil she will want later.
+- The wind/eaves had gone fully still in the dead-middle of the night just before the counting began (which let Iris hear it cleanly); the wind resumed after the count stopped.

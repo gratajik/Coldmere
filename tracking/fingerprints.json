@@ -1,5 +1,5 @@
 {
-  "chapter_count": 2,
+  "chapter_count": 3,
   "counts": {
     "em_dash": 0,
     "in_that_moment": 0,
@@ -17,23 +17,24 @@
     "steadily": 0,
     "settled_into": 0,
     "the_room_quiet": 0,
-    "the_way": 2,
+    "the_way": 3,
     "in_the_manner": 0,
     "like_pron_verb": 2,
     "as_pron_does": 0,
-    "did_the_thing": 1,
+    "did_the_thing": 2,
     "body_part_did": 0,
     "body_part_went": 0,
     "kind_of_thing": 0
   },
   "chapter_endings": [
     "I'd find where it was in the morning.",
-    "I slept the poor thin sleep of a chair, and somewhere in it, near the bottom, I heard the telephone in the hall, or dreamed I heard it, not ringing, only the line, the long flat note of an open line, very faint, going on and on in the cold with no hand on it, as though somewhere a receiver lay off its cradle, and the tone went out into the house and waited, the way it had waited for me, slow, patient, listening, for someone to lift the other end and answer."
+    "I slept the poor thin sleep of a chair, and somewhere in it, near the bottom, I heard the telephone in the hall, or dreamed I heard it, not ringing, only the line, the long flat note of an open line, very faint, going on and on in the cold with no hand on it, as though somewhere a receiver lay off its cradle, and the tone went out into the house and waited, the way it had waited for me, slow, patient, listening, for someone to lift the other end and answer.",
+    "The cold was almost a relief."
   ],
   "repeated_phrases": {},
   "signature_words": {},
   "pov_chapter_counts": {
-    "Iris": 2
+    "Iris": 3
   },
   "pov_pattern_counts": {
     "Iris": {
@@ -53,11 +54,11 @@
       "steadily": 0,
       "settled_into": 0,
       "the_room_quiet": 0,
-      "the_way": 2,
+      "the_way": 3,
       "in_the_manner": 0,
       "like_pron_verb": 2,
       "as_pron_does": 0,
-      "did_the_thing": 1,
+      "did_the_thing": 2,
       "body_part_did": 0,
       "body_part_went": 0,
       "kind_of_thing": 0
@@ -65,21 +66,48 @@
   },
   "pov_repeated_phrases": {
     "Iris": {
+      "the agent had told": 2,
+      "the shape of a": 2,
+      "agent had told me": 2,
+      "study case back rooms": 2,
+      "i underlined it once": 2,
       "at the end of": 2,
+      "since i was nine": 2,
+      "the plan was a": 2,
+      "was a measuring error": 2,
+      "hall was colder than": 2,
+      "had no line for": 2,
+      "back of the house": 2,
+      "case back rooms measure": 2,
+      "the back of the": 2,
+      "there was a door": 2,
+      "and didn't give back": 2,
+      "and let my eyes": 2,
       "the hall was colder": 2,
       "in the cold with": 2,
       "which is to say": 2,
-      "the back of the": 2,
-      "the end of the": 2,
-      "case back rooms measure": 2,
       "on the hall table": 2,
+      "it because the plan": 2,
+      "the end of the": 2,
+      "i told myself that": 2,
       "dining study case back": 2,
-      "since i was nine": 2,
-      "hall was colder than": 2,
-      "back of the house": 2,
-      "study case back rooms": 2,
+      "i looked at the": 2,
+      "did the thing i": 2,
       "in the margin underlined": 2,
-      "was a measuring error": 2
+      "i took the lamp": 2,
+      "the way it had": 2,
+      "went out into the": 2,
+      "with the lamp and": 2,
+      "off the table and": 2,
+      "the whole of what": 2,
+      "the lamp off the": 2,
+      "i want to be": 2,
+      "of it and the": 2,
+      "is the whole of": 2,
+      "and i held the": 2,
+      "lamp off the table": 2,
+      "took the lamp off": 2,
+      "i stood in the": 2
     }
   }
 }
