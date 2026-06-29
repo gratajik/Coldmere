@@ -164,3 +164,21 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - Iris's final logged line, NOT underlined (deliberately, unlike ch6/ch4): "Something climbs the stairs to the warm room. It went up tonight in the wet. It was the size of a child."
 - Iris still refuses to say (even think) the name Danny in the house, though she privately recognizes the foot-size as that of the boy who drowned and was never found, climbing toward the warm room.
 - The nineteen marbles (one red, pocketed ch6) remain cold in Iris's pocket against her leg.
+
+## Chapter 10
+
+- Day 2 (Friday) morning: Iris decides to abandon the half-cleared job and drive to Harrow's Cross to call the office from the post office call box, telling them the house needs two pairs of hands and a man for the heavy work.
+- Iris has left a job half-cleared and walked away only twice in thirty years of clearance work; both times she knew the morning she decided.
+- Iris packs her bag and carries it to the front step, ready to leave.
+- The car (parked in the drive, windscreen frosted) WILL NOT START: the dash is dead, no tick, no light, the starter doesn't reach the flywheel. Iris turns the key five times total (four after the first), counting between attempts, and stops before a fifth turn past reason.
+- Iris checks under the bonnet: terminals clean, leads on, battery sound, nothing wet/cracked/loose — no visible engine reason for the failure. The same car drove her down Fen Lane two days earlier without trouble.
+- The landline's slow dial tone is confirmed again (the held half-second of quiet before the note); Iris no longer believes the "old copper / tired exchange" explanation.
+- Iris dials the office: it rings past the fourth ring (which had answered the previous morning) to eight rings, unanswered — and it is a working morning, not after-hours.
+- Iris dials the operator (three nines, 999): the line opens on the slow quiet, then NO ring and NO voice — just an open line going on, with the faint breathing-space sound of someone present and listening, answering a half-second behind. (Confirms the dial-tone lag = something on the line; foreshadows the Danny-thing's half-second speech lag, ch20.)
+- Iris says "Hello" into the open operator line; after the half-second lag, the line gives back the sound of an open connection with someone on it, but no voice. She puts the receiver down without another word.
+- Iris's mobile phone still shows "No service" at the house and on the open step; she lost signal at the third cattle-grid two days ago and cannot regain it (no mast for eleven miles).
+- Iris considers walking the eleven miles out (three grids, one bridge) but cannot make herself do it — walking out means going down the drive past the pond, the water at her side for the first eighty yards, in the open and on foot. She refuses this, not from softness but from the pond.
+- Iris shuts the front door HERSELF; she records that no hand but hers shut it, no lock was turned, no door barred — the house did not lock her in. Every failure (dead car, slow tone, no signal, open lane) has an honest rational name, yet together they come to: she decided to go and is not going. "The house had not laid a hand on me. It had not needed to."
+- For the second time (cf. ch8 ledgers), Iris does NOT take up her pencil to log the day: "there was no column for a woman who could leave and would not." Her catalog-as-armor fails her again.
+- Iris carries the bag back up from the step and sets it by the kitchen table, unpacked but "ready" — a small lie that she is still going.
+- The eighty-yards-of-pond detail is reaffirmed (drive runs down past the pond; first eighty yards alongside the water) — consistent with the spatial note (pond ~80 yards from house, ch23 climax).

@@ -66,3 +66,11 @@
 - Day 2, dusk into dark: Iris follows the climbing trail up the eleven treads to the landing, lays her hand on the warm wall by the concealed warm-room door, and refuses to open it.
 - Day 2, dark: Iris goes back down, finds all the treads dry with no proof remaining, then sits at the kitchen table and logs the footprints, the outside-in drying, and the deduction (the trail points to the warm room; she did not open the door), ending with an un-underlined final line.
 - Day 2, that night: Iris sits with the lamp burning and the cold marbles in her pocket, refusing to name the drowned boy whose foot was that size.
+
+## Chapter 10
+
+- Day 2 (Friday), morning (continuing from the previous night's vigil): Iris decides over the cold range to abandon the job, packs her bag, and carries it to the front step.
+- Day 2, morning: Iris tries the car in the frosted drive — it will not start; she checks under the bonnet, finds no reason, tries the key four more times, and stops.
+- Day 2, morning: Iris goes back in, lifts the landline, hears the slow tone, dials the office (rings to eight, unanswered), then the operator (open line, the listening half-second, no voice), and puts the receiver down.
+- Day 2, morning: Iris checks her mobile on the open step (No service), reckons the eleven-mile walk and refuses it because of the pond, then shuts the front door herself.
+- Day 2, morning/day: Iris carries the bag back inside, sets it ready by the kitchen table, sits at the table with her hands flat on the cold wood, and waits, the slow tone in the hall no longer reading as the line.
