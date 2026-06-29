@@ -1,0 +1,7 @@
+state.yaml.tmp
+*.bak
+__pycache__/
+.env
+.env.*
+*.key
+*.pem

@@ -1,0 +1,20 @@
+model: claude-opus-4-8
+use_proxy: true
+# Same per-role model tiers on the proxy as on the metered API, so this proxy run is a
+# realistic preview of production behavior (voice/story->Sonnet, mechanical/matrix->Haiku,
+# write/publisher->Opus) rather than an all-Opus run.
+tier_on_proxy: true
+thinking:
+  enabled: true
+  budget_tokens: 10000
+book_refs: []
+cost_limit: 80.00
+review_cost_limit: 20.00
+write_context_window: 3        # short chapters; 3 prior chapters fit the proxy easily
+targeted_rereview: true
+# 25 chapters x ~760 words ≈ 19,000 words (~70 printed pages). Per-chapter targets in the
+# plot table; word count is advisory only.
+word_count_target: 760
+git:
+  auto_commit: true            # commit + push each milestone to github.com/gratajik/Coldmere
+  auto_push: true
