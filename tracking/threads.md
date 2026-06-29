@@ -47,3 +47,12 @@
 - Iris's method as armor / writing a thing down — advanced (Ch6: she lots the items correctly but cannot rule a line under the room; the manifest beginning to fail her; pays off Ch23-24).
 - The mundane cover for each wrongness — advanced (Ch6: Iris reaches for the rational alibi of a grief-frozen nursery, then finds it has no date, grave, or boy on paper to support it).
 - The taking (foreshadowing seed) — planted (Ch6: the kept boy's things and Iris's unwritten thought that the boy was "held," not "left behind").
+
+## Chapter 7
+
+- The red ball under her own seal — RESOLVED as a plant (Ch7): the red rubber ball appears inside a crate Iris sealed herself, under her own unbroken signed-and-dated join; first deliberate touch of the lure (Danny-thing → Iris delta 7→4 earned on-page). Recurs and pays off Ch20/Ch23.
+- Danny was taken, not lost — advanced (Ch7: the red ball, a boy's plaything, surfaces from nowhere and Iris privately ties it to the marbles in the kept boy's room; pays off Ch14).
+- Iris's method as armor / writing a thing down — advanced (Ch7: her seal-and-manifest method fails for the first time irrecoverably — a sealed crate yields an unlogged object — the manifest she trusts beginning to betray her; her catalog logic and the rule that the true and the impossible cannot both stand are staged on-page; pays off Ch23-24).
+- The house "keeps" / its true nature — advanced (Ch7: a thing comes from nowhere into a place sealed against nowhere; pays off Ch21).
+- The mundane cover for each wrongness — advanced (Ch7: Iris reaches for every rational alibi — misremembered packing, a second chest, a slipped seal — and for the first time finds none stands).
+- The red rubber ball motif — planted (Ch7, first appearance; recurs Ch20, Ch23).

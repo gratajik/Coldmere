@@ -25,3 +25,7 @@
 ## Chapter 6
 
 - Day 2, Friday, past noon into the afternoon: after sealing the third chest near noon (Ch5), Iris works back through the ground floor room by room and opens the back room at the end of the passage, finding the kept child's room; she examines the bed, the tin of marbles, and the boy's clothes, lots them but cannot account for them, returns everything to its place, and leaves, pulling the door to behind her.
+
+## Chapter 7
+
+- Day 2, Friday, afternoon (light going off the pond, after the Ch6 child's-room scene): Iris goes back to the front reception to reconcile a duplicate lot-five entry on her manifest, finds it is the forgotten study chest, checks the still-unbroken seal, cuts it, opens it, and finds a red rubber ball she did not pack inside her own sealed and signed crate; she logs the impossibility, leaves the ball untouched, closes the lid, and sits unable to bring the column to a total as the light fails.

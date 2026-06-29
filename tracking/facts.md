@@ -100,3 +100,15 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - Iris lots the items correctly (bed, tin/marbles, press and contents) but cannot account for them — she logs them and cannot file them.
 - Iris privately thinks, but does not write down, that a thing kept this carefully is not a thing left behind but a thing held. (Seed for the taking / the house keeping its dead.)
 - Iris is "precise about putting things back" — she returns the jumper, the tin, and re-folds the blanket exactly as found before leaving the room.
+
+## Chapter 7
+
+- Day 2, Friday afternoon (after Ch6, while light still off the pond): Iris returns to the front reception to fetch the chest she'd sealed near noon, having found two lot-five entries on her manifest (the study chest and a reception chest both numbered five) — a clerical slip she goes to resolve.
+- The chest in question is the study chest, lot five (glassware in newspaper, a clock without works, a box of letters) — the one sealed and stacked by the study door in Ch5, which Iris had carried through to the reception and forgotten moving.
+- Iris's seal-checking and seal-cutting method confirmed in full: she checks every seal before cutting; she cuts her own seals with a short stropped blade drawn along the join so the paper tape and the signature part together, "spending" the signature.
+- The lot-five seal was Iris's own paper tape, signed across the join with the date in her own hand, the join WHOLE and unbroken — verified by Iris before she cut it, and she is the only person in the house.
+- Inside the chest, sitting on top of the newspaper-wrapped glassware where nothing had been when Iris signed the lid: a red rubber ball, child's size, rubber gone matte and soft with age, the middle seam worn nearly smooth. (The red rubber ball established — appears under her own cut seal; first deliberate touch of the lure.) (Setup for Ch20/Ch23 payoff.)
+- Iris did not touch the ball; she could not bring herself to lay a hand on a thing with no provenance that had come from nowhere into a crate she'd sealed against nowhere.
+- Iris's method fails for the first time it cannot recover from: she exhausts every rational alibi (misremembered packing, a second chest, a slipped seal) and finds none — the chest was sealed by her own unbroken signed-and-dated join, yet held a thing she had not packed and would have logged. (Method fails / the manifest she trusts least beginning to fail her.)
+- Iris privately connects, but does not write down, that the red ball is a thing a boy keeps with his marbles — that it belongs in or near the tin in the kept boy's room down the passage, the room she'd shut an hour before. (Links the ball to Ch6's marbles/child's room; seed toward the taking.)
+- Iris logged it (condition: lot five, sealed by me, join unbroken, signed and dated in my hand; found within: one red rubber ball, child's; not packed, not logged) — writing it down though it is "true and impossible," the two states her life's rule says cannot both stand.
