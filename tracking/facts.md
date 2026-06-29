@@ -28,3 +28,22 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - **Reason:** Structural Devices §10 calls for these as load-bearing recurring images; recurrence within budget is intended, not fingerprint accumulation.
 - **Authority:** Authorial choice per writing-guide §4.3.
 
+
+
+## Chapter 1
+
+- Protagonist: Iris Pell, female, 38, estate-clearance archivist; narrates in first person past tense.
+- Iris's brother Danny drowned in the mill-pond behind Coldmere thirty years ago, when Iris was nine; his body was never recovered.
+- Iris carries a private guilt: at the pond she was watching her own reflection in the water, not Danny, the moment he went under.
+- Iris has Edith Vane's key (her late great-aunt) and is clearing Coldmere for the bank/auctioneer's office.
+- Coldmere is at the end of Fen Lane, eleven miles off the Harrow's Cross road, past three cattle-grids and one bridge.
+- The house: 1890s build, slate roof, two chimneys, sash windows, a half-fallen wisteria on the eastern wall; brass door plate reads COLDMERE, worn shiny where a thumb presses it.
+- Ground-floor rooms per the bank's floor plan: hall, drawing room, study, dining room, kitchen, scullery, pantry, store; a back passage runs to the store.
+- The study holds a glass-fronted case stacked with matching blank-spined ledgers (not yet examined by Iris).
+- A plain door between the scullery and the store is NOT on the floor plan; it opens onto a shallow empty cupboard. Iris notes it: "+ cupboard, scullery side, not on plan."
+- The interior depth does not agree with the plan: roughly one yard of depth at the back of the house is unaccounted for. Iris underlines this note (setup: warm room larger inside than out, payoff ch15).
+- The drawing-room long-case clock is stopped at twenty past four.
+- An oil lamp and matches sit on the hall table; Iris lights the lamp at chapter's end.
+- Iris steadies herself by counting aloud ("One window. Two. Three.") — a habit since age nine.
+- Iris does not climb into a strange house in the dark; she will not go upstairs until morning (her rule).
+- Iris's plan-of-attack order for the next day: drawing room, dining, study, case, back rooms, then measure the back of the house with a tape.
