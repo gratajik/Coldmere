@@ -1,0 +1,73 @@
+# Chapter 13: Reading the Register
+
+Daylight makes a fool of fear. I went down the eleven treads in a flat gray morning that was almost ordinary, the marbles in my pocket, the lamp dead in my hand and not needed. The window-shape and the wet night had gone where night things go. There was a glass-fronted case in the study and fourteen books in it, and I am a woman who reads what's put in front of her.
+
+Edith's photograph still lay face-down on the desk where I'd turned it.
+
+I left it that way. I unlocked the case and took out the lower books this time, the fat soft-cornered ones beneath the rest of the stack, because if I was to read at all I'd read from the beginning, in order, the way I read a house. I laid them along the desk and opened the lowest. The cloth had gone soft as cloth goes, the spine cracked when it opened, and the ink in the first column was so faded it was more brown than black, more memory of ink than ink.
+
+Three columns. A name. A year. A word.
+
+I started to read.
+
+The first dates were past a hundred years gone. The hand was the same hand it was in the topmost book, small and upright and never varying, which I had thought impossible until I sat with the proof, one hand writing across a century, and I set that aside to read later. One name to a line. The years climbed slow, sometimes a gap of years between entries, sometimes two in the one year. And the third column, the one word, the same few words over and over down the page.
+
+Settled. Settled. Held. Settled.
+
+I read them the way I read a manifest, for the shape of the thing, not yet for the meaning. A column of names is a column of names. I have read parish registers and servants' books and the flyleaf inventories of three dead estates, and a list of people who came to a house and stayed is no stranger than a list of chairs.
+
+That is what I told my own ears. I believed it a long time.
+
+Then I found one I could read.
+
+Annie Sewell. The year was nineteen eleven. The word in the third column was Settled. And in the wide column, after the name, in the same small hand, two words more than any other line had carried: housemaid, held.
+
+Housemaid. A girl's place in a house. The first plain word I could fasten to, and it should have steadied me, a servant's name in a servants' book, exactly the innocent thing I'd reasoned the ledgers were. I read it again. Annie Sewell, housemaid, held, nineteen eleven, Settled. I waited for it to mean a girl given her place and her board.
+
+It would not mean that. I sat with it and it would not.
+
+A housemaid given her place is engaged, or taken on, or hired. She is not held. A thing is held. Stock is held. The word the hand chose for a girl was the word you'd choose for what you did not let go of.
+
+I turned the page.
+
+The years went on. The names went on, none I knew, a Wills and a Marsh and a Greer, the third column saying Settled under most of them and Held under some, and here and there a name with no word at all beside it, a line left open, and then, pages on, the same name again with the word filled in late, as if the hand had waited to be sure before it wrote.
+
+I counted. I couldn't help the counting; it is what I do with a column to keep my hands from shaking, and they were shaking now. One name to a line. I counted the lines on the page and there were thirty-one, and twenty-nine of them said Settled, and I went on to the next page and counted that, and the next.
+
+I will not put down how far I counted. The counting was the thing I was doing instead of reading, and I knew it, and I made myself stop and read instead.
+
+Nineteen forty-eight. A boy. The hand had written it plain, the way it had written housemaid for the girl: Thomas Reed, and after the name, a boy, and in the third column, Held. Below that line, smaller, in the wide margin where the hand sometimes let itself say one thing more, four words I read three times before I understood I'd read them: the room was warm.
+
+The room was warm.
+
+I put my hand flat on the cold desk and made myself breathe. A boy, in nineteen forty-eight, Thomas Reed, held, and the room was warm. There is one warm room in this house. There is one room in eleven miles with any warmth in it, on no plan, in no photograph, with a chair that holds a shape, and a hand that wrote these books had noted, of a boy whose name went into the third column under Held, that the room was warm.
+
+The warm room is where the warmth goes when a name is fresh in it. I understood that the way you understand a sum, all at once, the figures coming clean. The warmth is not a comfort. The warmth is a mark. The hand was keeping a record of when the room ran warm, the way I keep a record of condition, foxing and water-staining and the soundness of a joint, and the condition this house kept records of was its own.
+
+I didn't write it down. Let no record carry it from my hand, that I sat with the worst sum I had ever read and would not take up my pencil, because to write Thomas Reed in my own book in my own hand was a thing I would not do, not yet, not while there was a hair's breadth of a chance the books meant servants.
+
+There was no chance. I knew it. I read on anyway, because the sum wasn't finished and I am a woman who finishes a sum.
+
+Back and back. Past nineteen eleven and the girl, into the brown ghost of ink in the depths of the lowest book, the years dropping away into the last century, the names going sparse and the hand a little different there, older or another, I couldn't tell, but the columns the same. A name. A year. The one word. Settled, settled, going back further than a girl in service, further than a boy, further than anything a household ledger had any business reaching, line on line on line, a column of names a hundred years deep and more, and at the head of the lowest page, where a clean ledger gives a title, no title at all. Just the first name. As if what the house did with these names began before anyone thought to call it anything.
+
+I closed the lowest book. My hands did it. I sat in the chair I do not sit in when I work and looked at the row of them, fourteen, the fat old ones I'd opened and the newer ones still stacked, and made myself hold the shape of what they were, all of them, end to end.
+
+Not a book of service. I'd reached for that and it had rotted in my hand.
+
+A register. The word came and I let it come, because it was the true word and I'd run out of false ones. A register of names a house had taken and held and not let go. A girl in nineteen eleven. A boy in nineteen forty-eight.
+
+A column of them going back past the edge of the ink. Each one named, dated, and given the one word for what the house did with them, the word that was the same word a man would use for stock he did not sell.
+
+And a warm room that ran warm when the name was fresh, and a hand that kept the record of the warmth.
+
+I did not let myself say what kind of names they were. Let this be set down plain. I had the shape of it, the whole cold sum of it, a register of the held, and I would not put the last word to what was being held, because the last word meant going up the fourteen books to the newest, to the years a few back, to the line dated the year my great-aunt died, and reading forward from there to the open ruled lines where the hand had stopped. And I was not ready to read forward. Reading forward is where a register tells you not what it has taken but what it is short of, and what it means to do about it.
+
+The girl was nineteen eleven. The boy was forty-eight. The years between were full of names. And the warm room upstairs, this morning, behind its papered seam, was warm.
+
+I sat with that and didn't move and the gray light came up white in the study window, and somewhere above me, in the wall, very quiet, not yet sounding, the count waited for the dark to go on with what it was counting, and I knew now that it counted the same thing the books counted, that the numbers in the wall and the names on the page were one ledger written two ways, and that the only question left in either of them was how many, and how many more it wanted.
+
+I put the lowest book back. I lined them up in the case the way I'd found them, fattest underneath, and left the newest where it sat. I didn't open it. I'd opened it once already, the day before, and read its last filled line, dated the year Edith died, and the word beside it, and I had not understood then what I understood now, which was that the line was not the end of the book. The book had pages left.
+
+A register with pages left is a register that is not finished counting.
+
+I turned the key in the case and left it locked, which was foolish, a lock won't hold what opens my own sealed crates, but I turned it anyway, and stood up out of the chair I don't sit in, and the day was a working day with nothing in it I could work.

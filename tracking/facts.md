@@ -212,3 +212,23 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - The farmer told them "the water keeps what it takes" — meant kindly (to stop the search). The official record: a drowning, body not recovered.
 - Iris's whole adult vocation (estate clearance, looking hard at every object, never looking away) is explicitly a penance built on the looking-away — specifically that she was admiring her own face when Danny drowned.
 - Iris realizes/confirms she took the nineteen marbles off the shelf with her own hand because part of her had known since crossing the threshold whose room it was and wanted Danny's red marble back in a Pell hand "before the end."
+
+## Chapter 13
+
+- Day 3 (Saturday), gray morning (continuing from ch12's vigil): Iris goes down to the study to read Edith's ledgers in daylight; the lamp is dead and not needed.
+- Edith's study photograph remains face-down on the desk where Iris turned it (ch8).
+- Iris reads the ledgers from the BEGINNING this time, taking out the lower/older (fattest, soft-cornered) books first; the lowest book's first dates are more than a hundred years gone, in faded brown ink, the same small upright hand as the topmost book.
+- The same small upright hand runs across the entire century-plus span of the books (Iris notes this as seemingly impossible and sets it aside).
+- DECODED ENTRY: "Annie Sewell. 1911. Settled." — and in the wide column, two words more: "housemaid, kept." (Annie Sewell confirmed as a housemaid, 1911, per story.md.)
+- DECODED ENTRY: "Thomas Reed. 1948. Kept on." — and in the wide margin, four words: "the room was warm." (Thomas Reed confirmed as a boy, 1948, per story.md; ties the warm room's warmth to a fresh name in the register.)
+- Other names in the column (none Iris knows): a Wills, a Marsh, a Greer. The third column says "Settled" under most, "Kept on" under some.
+- Some lines are left with NO word in the third column, then the same name reappears pages later with the word filled in late — as if the hand waited to be sure before writing the state. (Echoes the topmost ledger's blank-then-filled lines, ch8.)
+- The lowest book's earliest page has NO title at all — just the first name, as if the keeping began before anyone named it.
+- Iris counts roughly 31 lines per page, ~29 of them "Settled" (the dining-glass "five of six" / "wanting one" cadence rhymes with these page-counts). She uses counting to steady her shaking hands.
+- KEY DEDUCTION (Iris reasons it out herself): the books are not a book of service but a REGISTER — a record of names a house took and held and did not let go, going back over a century; the one-word "condition" is the word for what the house does with each. She reaches this from the evidence (the word "kept" used for a person; the warm-room note; the century-deep column), not from anything telling her. (The ledgers-register-the-held-dead payoff; deduced, not delivered.)
+- KEY DEDUCTION: the warm room runs warm when a name in it is fresh; the hand kept a record of the warmth the way Iris keeps a record of condition. (Ties warm-room warmth = a mark/record; sets up that Edith's chair being warm/occupied means a fresh name.)
+- For the third time facing the unbearable (cf. ch8, ch10, ch11), Iris does NOT take up her pencil — to write Thomas Reed (or any of these names) in her own book in her own hand would be to enter it. Her catalog-as-armor fails again here.
+- Iris stops short of reading the NEWEST ledger forward from its last filled line (dated the year Edith died); she understands "reading forward" tells a register what it is SHORT of and what it means to do about it, and she is not ready. (Withholds the ch16/ch21 dread deliberately.)
+- Iris understands the count in the wall and the names in the books are "one ledger kept two ways"; the only question left in either is how many, and how many more it wants. (Ties the count motif to the register; feeds ch16.)
+- Iris re-locks the glass-fronted case (knowing a lock won't hold what opens her own sealed crates), lines the books up fattest-at-bottom as found, and leaves the newest unopened.
+- The nineteen marbles (one red) remain in Iris's pocket.

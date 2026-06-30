@@ -92,3 +92,11 @@
 - MEMORY: Iris's mother and the farmer and his son search the water as the light fails; Iris is sent to the drawing-room window and watches the lamps on the black water.
 - MEMORY (two days): the pond is dragged; it yields weed, a boot, a bicycle frame, a chain, a sodden old coat — never Danny. The farmer says "the water keeps what it takes"; recorded as a drowning, body not recovered. The Pells drive back up Fen Lane with one empty seat.
 - Day 3, full morning: back in the present, Iris sits with the nineteen marbles (one red) cold against her leg and understands the house did not pocket them — she did, knowingly, at some buried level; she reconsiders the farmer's old words.
+
+## Chapter 13
+
+- Day 3 (Saturday), gray morning into full white daylight (continuing straight from ch12's dawn vigil): Iris goes down the eleven treads to the study to read the ledgers by day, lamp dead and unneeded.
+- Day 3, morning: Iris unlocks the case, takes out the lower/older books, lays them along the desk, and reads the lowest from its earliest brown-ink entries forward.
+- Day 3, morning: Iris reads/decodes Annie Sewell (1911, housemaid, kept, Settled) and Thomas Reed (1948, a boy, Kept on, "the room was warm"); counts the pages to steady her hands; traces the column back past the edge of the ink to a page with no title.
+- Day 3, morning: Iris closes the lowest book, reaches the deduction that the books are a register of the held going back a century, refuses to log it, and stops short of reading the newest ledger forward.
+- Day 3, toward midday: Iris re-locks the case, lines the books up as found, leaves the newest unopened, and stands from the desk into a working day she can't work; the count waits silent in the wall above.
