@@ -134,3 +134,12 @@
 - Day 4, morning into afternoon: Iris goes up to the warm room and stands at the window over the pond, watching the storm-cloud come down the slope and the first dry snow begin; she takes no measure of it, works her sum about the ways out, and stays a long time as the light sinks to a deeper grey.
 - Day 4, afternoon: the wall/house goes quiet around her — the settling sounds thin and stop, the count does not climb or rest but holds in a listening quiet, all through the falling snow.
 - Day 4, dusk into true dark: Iris leaves the window, goes down the eleven treads in the held silence, does not turn the lamp up (a finger of oil left), and sits at the kitchen table with the closed notebook and the cold marbles as the snow turns to rain on the snow and the culvert (offstage, down the dark lane) begins to fill.
+
+## Chapter 18
+
+- Day 4 (Sunday), deep night (continuing straight from ch17's dusk-into-dark, where the snow turned to rain on the snow and the culvert began to fill): Iris sits in the dark kitchen with the closed notebook and the cold marbles, lamp unlit, listening to the rain on the snow.
+- Day 4, deep night: the run-off wash down the slope deepens to a heavy working labour; Iris rises (legs stiff and slow), goes to the front door, and opens it onto full dark and rain to confirm by ear what she cannot see.
+- Day 4, deep night: from the open doorway Iris hears the culvert give way and the single Fen Lane bridge collapse into the flood (grinding stone, then a soft wet collapse, then the water pouring freely through the gap); she counts to three to steady herself and stops.
+- Day 4, deep night: Iris puts her shoulder to the wind to shut the front door (a labour), leans on it breathless, re-affirms that no hand but hers shut it, and goes back down the hall to the kitchen.
+- Day 4, deep night: Iris sits at the table, opens the notebook to a clean page in the dark, holds the pencil over it and does not write; works the sum (four ways out all shut, the last by weather and no hand) to its total — Coldmere is sealed.
+- Day 4, deep night: the wall's listening quiet settles deeper and eases after the bridge falls (the house "knows" the bolt has gone across); Iris does not go up to the warm room, stays in the kitchen, leaves the lamp dark, and waits as the slope drains easy through the broken place.
