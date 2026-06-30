@@ -376,3 +376,23 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - IRIS'S RESOLVE TURNS HERE (sets up ch23): having reckoned the whole cost (what the house does, what it made of Edith, what it means to make of her), Iris decides she is "not going to pay it." (The deduced resolve that runs the ch23 climax — she will act from having READ what the book does.)
 - Iris's physical state (condition ledger): three-plus days' bad sleep, near collapse, storm-cold; she does not run or exert this chapter — she sits at the study desk reading by the low flame. No new physical harm; the margins-gone state maintained for the ch23 climax.
 - The nineteen marbles (one red) are implicitly still on Iris (carried from ch6; not re-staged this chapter).
+
+## Chapter 23
+
+- Day 5 (Monday), pre-dawn / the black hours before the grey: Iris carries out the climax at the mill-pond.
+- Before leaving the house Iris walks the rooms once more (kitchen/dead range, hall/quiet telephone, empty open study case) and acknowledges she cannot reach Edith, who is kept in the warm room's chair above; she leaves her there.
+- Iris packs all fourteen ledgers into her last clearance crate (fattest at the bottom, lid left up) to carry to the pond.
+- Iris's tools for the climax: the near-empty oil can (a finger of oil), the matches (kept dry against her skin), and a flat ash-handled spade taken from the scullery (stood by the back door "longer than I had been alive"). She has never broken ground at a clearance in thirty years.
+- IRIS'S DEDUCED BELIEF / REQUIRED SETUP (she burns the register believing it frees Danny): "A thing kept is a thing written down... a thing burned is not written anywhere. Unmake the inventory and you unmake the keeping. Burn the book and the boy comes loose. I came down to unwrite him." She reaches this from her own clearance logic / her reading of the ledgers, nothing tells her.
+- The descent: eighty yards of frozen, ridged, downhill ground in a fine freezing rain and wind; Iris falls twice; her legs go numb partway; she cannot see the pond until nearly on top of it.
+- The pond's ice is day-set, milky ("the bloom that rises on old varnish"), thick enough for snow but not a person's weight.
+- Iris breaks a hearth-sized hole in the ice at the rim with the spade (rings on the first two blows, breaks on the third); she keeps to the edge and refuses to go out to the middle where the shape lies, knowing the ice "wouldn't hold me, and knew worse that it would."
+- Iris burns the register on a broken ice-plate at the water's lip: oils the oldest/untitled book, shields the flame with her body against a gust, then feeds the books in open (spines cracked to draw air). Named entries seen burning: Annie Sewell (and her year), Thomas Reed ("the four words that said his room was warm").
+- Iris destroys each book by BOTH fire and water ("fire above and cold beneath"): burns it, then pushes it off the ice-plate into the open black with the spade so it cannot be gathered or read again. She burns all fourteen.
+- Iris finally says Danny's name aloud at the broken ice ("Danny... You're loose now. Go on. Go.") — the first time she has spoken it in the house in three days, at the pond in thirty years, or aloud in any cleared room since.
+- The newest ledger (holding both Danny's name and Iris's, three leaves apart, in the one hand) is burned last; Iris breaks its spine over her knee ("the small dry crack of a bone giving") and feeds it into the black.
+- THE RED MARBLE returned: Iris drops the red marble with the white twist (Danny's best, which he lent her a week that summer and she kept thirty years, carried three days against her leg) into the open black water; "It went under without a sound, the way he had gone under." (Pays off the ch20 buried fact that she kept it.)
+- Iris's body pays the cost (condition ledger): her fingers are burned at the tips feeding the pages; the bank crumbles and she goes into the freezing pond to the thigh, then to the chest, saved only by a fistful of reed-root; she tastes "iron and rot," the same as at nine; the spade is lost under the ice.
+- Iris hauls herself out on her elbows; the fire is dead, the crate empty on its side; the broken hole begins to skin over again "with no hand to it, healing over slow" (the keeping's resilience implied, not stated).
+- At chapter's end Iris is hypothermic, soaked, burned, legs unable to stand; she begins crawling on all fours up the eighty-yard slope toward the front door (the return/door is ch24's beat).
+- Iris→Danny relationship rises to 9/10: burning the register and returning the marble is choosing destruction over the thing that holds him.

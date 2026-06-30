@@ -183,3 +183,13 @@
 - Day 4, before dawn: Iris reads the keeper-goes-into-the-book entries, the dated steadied line ("I write what I am given to write"), and her own name written ahead in Edith's hand; deduces Edith's whole story (keeper fifty years, fed the count, kept last) and that Edith left the books to be found.
 - Day 4, before dawn: Iris turns Edith's photograph face-up and leaves it on the desk; her revulsion shades to pity-with-an-edge; she closes the ledger and sits with it shut under her hand in the last of the oil.
 - Day 4, before dawn into greying light: the window edge begins to go grey (the long night thinning toward the morning the house laid the boy out for); "the frost was this morning"; Iris reckons the whole cost and resolves she is "not going to pay it."
+
+## Chapter 23
+
+- Day 5 (Monday), the black hours before pre-dawn grey (continuing from ch22's greying-window ending, after Iris resolved she was "not going to pay it"): Iris walks the house once more, packs the fourteen ledgers into her last crate, and takes the oil, matches, and scullery spade.
+- Day 5, pre-dawn: Iris goes out into the wind and fine freezing rain, carries/wrestles the crate eighty yards down the ridged frozen slope to the pond, falling twice.
+- Day 5, pre-dawn: Iris breaks a hole in the milky ice at the rim with the spade, refuses the middle where the shape lies, and builds her fire on a broken ice-plate.
+- Day 5, pre-dawn: Iris burns the fourteen ledgers (shielding the flame from a gust with her body), pushing each burning book into the open black so fire and water both take it; Annie Sewell and Thomas Reed seen going up.
+- Day 5, pre-dawn: Iris says Danny's name aloud, burns the newest ledger last (her name and his in it), and lets the red marble fall into the black water.
+- Day 5, pre-dawn: the bank gives; Iris goes into the freezing pond to the thigh and then chest, catches a reed-root, and drags herself out, badly burned and hypothermic; the spade is lost.
+- Day 5, pre-dawn: the broken hole begins to skin over again; Iris gets to her knees and begins crawling on all fours up the slope toward the door (continued in ch24).
