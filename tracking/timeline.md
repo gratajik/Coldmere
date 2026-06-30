@@ -193,3 +193,12 @@
 - Day 5, pre-dawn: Iris says Danny's name aloud, burns the newest ledger last (her name and his in it), and lets the red marble fall into the black water.
 - Day 5, pre-dawn: the bank gives; Iris goes into the freezing pond to the thigh and then chest, catches a reed-root, and drags herself out, badly burned and hypothermic; the spade is lost.
 - Day 5, pre-dawn: the broken hole begins to skin over again; Iris gets to her knees and begins crawling on all fours up the slope toward the door (continued in ch24).
+
+## Chapter 24
+
+- Day 5 (Monday), the black hour before first light into first light (continuing straight from ch23's ending, where Iris got to her knees and began crawling up the slope): Iris crawls the ~80 yards up the frozen slope from the pond to the house on hands and knees.
+- Day 5, pre-dawn: partway up the slope Iris's shaking stops and the false hypothermic warmth comes up; she refuses to lie down and drives on.
+- Day 5, pre-dawn: Iris crawls past the dead car onto the drive and reaches the front step; she gets her numb, burned hand to the latch and lifts it, and the door swings in.
+- Day 5, first light coming up: warm air and a sourceless light pour out of the open door; Iris kneels on the threshold, works the sum (the warmth has come down to meet her; crossing = being kept; the burned register did not stop the keeping), and does NOT cross.
+- Day 5, first light: Iris takes her hand off the latch; the door swings wider on its own, the warm pouring fuller; she refuses the warm, turns her face from the lit hall, and puts her hand back down on the cold gravel outside the sill.
+- Day 5, first light up over the slope and the broken bridge-gap: Iris kneels on the threshold, burned hand flat on the freezing step, the warm house open at her back, not going in and unable to go on; the morning comes up grey over the water (chapter ends; outcome left for the ch25 coda).
