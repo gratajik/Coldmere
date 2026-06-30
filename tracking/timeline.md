@@ -100,3 +100,12 @@
 - Day 3, morning: Iris reads/decodes Annie Sewell (1911, housemaid, kept, Settled) and Thomas Reed (1948, a boy, Kept on, "the room was warm"); counts the pages to steady her hands; traces the column back past the edge of the ink to a page with no title.
 - Day 3, morning: Iris closes the lowest book, reaches the deduction that the books are a register of the held going back a century, refuses to log it, and stops short of reading the newest ledger forward.
 - Day 3, toward midday: Iris re-locks the case, lines the books up as found, leaves the newest unopened, and stands from the desk into a working day she can't work; the count waits silent in the wall above.
+
+## Chapter 14
+
+- Day 3 (Saturday), flat white noon (continuing straight from ch13's morning at the ledgers): Iris crosses to the glass-fronted case, unlocks it, and takes down the newest/topmost ledger she had left unopened.
+- Day 3, noon: Iris lays the newest ledger on the desk (Edith's photograph still face-down at her elbow) and opens it; reads down the recent column.
+- Day 3, noon: Iris finds and decodes Danny Pell's entry — his name, the year of his drowning, "Kept on," "the room was warm" — and sits down in the chair she does not use.
+- Day 3, noon: Iris traces the name with her finger, counts the letters to no steadying effect, and reaches the deduction that Danny did not drown but was written into the register; she rises and lays her hand flat over the line.
+- Day 3, noon: Iris reframes Edith's turning the children out to the grounds, reframes her own thirty-year guilt (the looking-away was the door, not the cause), turns the photograph face-up, then shuts it in the drawer.
+- Day 3, past noon: Iris reads the line once more plainly, leaves the ledger OPEN on the desk in the white light, and registers the count's continuing silence in the wall above as she fully accepts what the house does.

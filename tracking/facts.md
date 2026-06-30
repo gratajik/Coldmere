@@ -232,3 +232,19 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - Iris understands the count in the wall and the names in the books are "one ledger kept two ways"; the only question left in either is how many, and how many more it wants. (Ties the count motif to the register; feeds ch16.)
 - Iris re-locks the glass-fronted case (knowing a lock won't hold what opens her own sealed crates), lines the books up fattest-at-bottom as found, and leaves the newest unopened.
 - The nineteen marbles (one red) remain in Iris's pocket.
+
+## Chapter 14
+
+- Day 3 (Saturday), flat white noon (continuing from ch13's morning reading): Iris finally opens the NEWEST/topmost ledger that she had left unopened in ch8/ch13, reading it by good daylight in the study.
+- DECODED ENTRY (the reveal): "Danny Pell." in the wide column, the year of his drowning (thirty years ago, the hot summer) in the narrow column, and in the third column, in Edith's hand, "Kept on." In the wide margin, the same four words given to Thomas Reed: "The room was warm."
+- KEY REVEAL (deduced from evidence on-page): Danny did NOT drown. The pond was where he went under and the two-day dragging was real (weed, boot, bicycle frame, never the body), but the body was never found because there was nothing below to find — he was taken and written into the register, not drowned.
+- The warm-room warmth confirmed as the mark of a fresh name (a "receipt"): the room was warm for Thomas Reed (1948) and for Danny — Edith kept a record of the warmth as Iris keeps records of condition.
+- EDITH'S COMPLICITY ESTABLISHED ON-PAGE: Edith Vane wrote Danny's name, year, and "Kept on" into the ledger IN HER OWN HAND, dated the summer he died — proving she writes the count/register. (Required setup for ch21: Iris's name written ahead in the same hand.)
+- Iris reframes Edith's wanting the children "turned out to the grounds in the mornings" (ch12): not merely a hard woman who wanted them from underfoot, but Edith turning a seven-year-old out to the grounds where the pond was, every morning, and waiting in her rooms — she chose the boy.
+- IRIS'S GUILT REFRAMED (her arc turns here): Iris understands her looking-away (ch11/ch12) was NOT the cause of Danny's death — there was no drowning to prevent; her half-second was "the door the thing walked through," not the hand that opened it from the other side. She has stood guard thirty years over "a taking I was nine years old beside," not a death she could have stopped.
+- Iris does NOT let herself off morally (the girl who admired her own reflection while her brother went under "does not get let off"), but distinguishes that the face in the water "was not what drowned him."
+- Iris turns Edith's study photograph FACE-UP (reversing her ch8/ch13 face-down mercy), then shuts it IN THE DRAWER (not merely face-down on the desk) so she will not have to choose again whether to look at the woman who wrote Danny into the book.
+- For the first time, Iris LEAVES the ledger open on the desk in the daylight, the line uncovered, Danny's name in plain light — "covering it now was thirty years too late." A reversal of her earlier refusals to face the unbearable.
+- Iris privately, fully accepts what the register/count counts and what the house does (settles it "down into the place where I keep the things I believe"), still without naming the house's nature outright (reserved for ch21).
+- The count does not sound this chapter; the wall above holds its quiet, "with all its order," waiting for the dark.
+- The nineteen marbles (one red) are implicitly still on Iris (not re-noted in scene; carried from ch6).
