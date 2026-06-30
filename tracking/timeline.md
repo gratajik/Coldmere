@@ -153,3 +153,15 @@
 - Day 4, dusk: Iris understands (without turning) that the chair behind her has refilled its dent and that the held thing in the chair (Edith) and the shape under the ice are the same kind of thing — the keeper and the held.
 - Day 4, dusk into full dark: Iris stands at the glass as the light fails; the milky sheet glows pale, then darkens; the shape's edge blurs and is lost; she refuses to go down to the pond, holding to the window.
 - Day 4, full dark: Iris leaves the warm room and goes down the eleven treads in the dark (the warmth releasing her partway to the cold), the chair holding its dent and the pond holding its shape under the new ice, all of it waiting for her to come down to the water of her own accord in the morning.
+
+## Chapter 20
+
+- Day 4 (Sunday), night (less than an hour after ch19's full-dark descent from the warm room): Iris sits at the kitchen table in the dark, lamp unlit, the rain pouring through the broken place a mile off; a soft low knock comes at the kitchen door (three taps, a pause, three taps).
+- Day 4, night: the knock goes on; Iris does not get up at first, then lights the lamp (a finger of oil) rather than face it in the dark.
+- Day 4, night: Iris goes down the hall to the front door, hand on the cold latch but not lifting it; behind her, in the kitchen doorway, a small voice ("Iris. I'm cold.") speaks and she turns.
+- Day 4, night: Iris sees the thing wearing Danny — a wet boy of seven in grey flannel shorts, the face exactly Danny's, the voice a half-second late.
+- Day 4, night: the thing speaks true buried details (the kept red marble; Iris's reflection in the water as he went under) and uses its accusation "You looked away"; it tries to lure Iris upstairs to the warm room.
+- Day 4, night: Iris deduces the thing knows the warm room, which Danny never could (he drowned at seven, never climbed the stairs), and says so; the thing goes still and its voice lapses into the wall's cadence ("You had the red one. Lot eight.").
+- Day 4, night: Iris names it the thing that took him, turns her back on Danny's face, walks away down the hall with the lamp into the drawing room, and shuts the door between them (hand flat on the cold panel).
+- Day 4, night: the thing's last call comes through the shut door ("Iris, don't leave me. You left me before."); Iris does not turn or open it.
+- Day 4, night: no further sound from the hall — only the rain and the house's held listening quiet; Iris stands in the dark drawing room, hand on the cold door, back to it, not turning.

@@ -312,3 +312,26 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - Iris watches until full dark: the milky sheet holds a pale glow a while, then gives it up; the shape's edge blurs and is lost; she then leaves the warm room and goes down the eleven treads in the dark, the warmth releasing her to the cold partway down.
 - The nineteen marbles (one red) remain cold against Iris's leg (carried from ch6).
 - Iris's physical/material state continues its tracked decline (condition ledger): three-plus days' bad sleep, breath short, barely fed, the deep cold of the storm — functional only barely; she carries the unlit lamp and does not light it (a finger of oil left).
+
+## Chapter 20
+
+- Day 4 (Sunday) night, less than an hour after Iris came down from the warm room (ch19): the thing that wears Danny appears embodied in Coldmere for the first time.
+- The confrontation opens with a soft low knock at the KITCHEN door (back of house), at the height of a child of seven: three taps, a pause, three taps, patient and even.
+- Iris lights the unlit lamp (a finger of oil left) before facing this, breaking her run of sitting in the dark; she goes to the front door first, hand on the cold latch, but does NOT lift it.
+- The thing appears in the kitchen doorway at the end of the hall (where Iris had been sitting), in the lamp's reach: a boy of seven, grey flannel shorts (the style gone from the shops thirty years), a jersey, bare feet, wet through, water standing in a dark ring around the small feet.
+- The face is exactly Danny's (not "like his" — his); Iris insists on this exactness.
+- The thing's voice comes a HALF-SECOND LATE — the held quiet first, then the words arriving a beat behind a living mouth — explicitly matched by Iris to the slow dial tone (ch2/ch10/ch17). The lag is "the proof" it is not Danny. (Half-second-wrongness payoff lands.)
+- The thing's opening lines: "Iris. I'm cold." / "I waited where you left me. It was warm after a while." (matches the voice-card GOOD anchor).
+- THE UNBEARABLE ACCURACY — true details only Danny could know, produced by the thing:
+  - The red marble (large red glass with a white twist, his best, "you always took the red one") — and a NEW buried fact: the summer BEFORE the last summer, Danny let Iris hold the red marble for a week and she never gave it back. Iris had forgotten this for thirty years; no one alive knew it. (The thing "holds it up" / produces it.)
+  - That when Danny went under he looked up and SAW Iris looking at her own reflection in the water ("you were looking at your own face"). Iris's core secret (ch12), never told to anyone in thirty years, spoken back to her in Danny's voice.
+- The thing's signature accusation lands here: "You looked away." (the Danny-thing's tell, first use.)
+- The thing tries to LURE Iris upstairs: "Come and warm me. It's warm upstairs... I'll show you the room. We can go up together."
+- KEY DEDUCTION (Iris reasons it out on-page, the thing knows ONE detail too many): Danny drowned at seven thirty years ago and NEVER climbed the stairs / never knew the warm room — yet the thing knows the warm room. A boy of seven who went under in July does not know that room; the thing that took him does. This is how Iris knows it is not Danny.
+- When Iris says "Danny didn't know that room," the thing goes still, the water stops running off it, and its voice LAPSES mid-breath from Danny's grieving voice into a flat numeral in the wall's cadence: "You had the red one. Lot eight." (The mask cracks on a number; the count's cadence surfaces in the Danny-thing.)
+- IRIS'S REFUSAL (the hardest act of her life, staged on-page): she wants it to be him — wants to kneel and hold the cold small body — and the longing has weight and "pulls like the slope pulls a thing toward the water." She does NOT move toward it; she turns her back on Danny's face and WALKS AWAY down the hall with the lamp, into the drawing room, and shuts the door between them, square, hand flat on the cold panel.
+- The thing's last words through the shut door, in Danny's voice: "Iris, don't leave me. You left me before." Iris does not turn or open the door.
+- After the door is shut there is NO further sound from the hall (no knock, no voice, no wet feet) — only the rain pouring through the broken place and the house's held listening quiet, waiting to see how long Iris can keep her back to the thing she loves before she turns.
+- The nineteen marbles (one red) remain cold against Iris's leg throughout; the red marble is now directly tied to the new buried fact (she kept it).
+- Iris's physical/material state (condition ledger): three-plus days' bad sleep, barely fed, storm-cold, near collapse on adrenaline; functional only on adrenaline through this confrontation.
+- The warm room is established as a place Danny never knew in life — load-bearing proof for Iris's deduction and a quiet seal on the taking (he was held, he never lived to climb those stairs).

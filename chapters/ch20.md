@@ -1,0 +1,85 @@
+# Chapter 20: The Thing That Wears Him
+
+The knock at the kitchen door came soft, low down on the wood, where a small hand would reach.
+
+I'd come down the stairs in the dark not an hour before and taken my place at the table, and the lamp stood unlit. The rain was pouring free through the broken place a mile off, and I'd thought I would sit until the dark went still. The dark didn't go still. The knock came instead. Three taps, then a pause, then three. Not the wall. The door.
+
+I didn't get up.
+
+I sat with my hands flat on the cold wood and the marbles against my leg and I waited for it to stop, and it didn't stop. The taps came again, low, patient, at the height of a child of seven. A child's knock, in the dead middle of a flooded night, on the door of a house that no road reached.
+
+I knew there was nothing outside that door that a hand could let in. I'd reasoned my way to that all weekend. But the knock went on, soft and even, and a thing you can hear and not answer is its own kind of weight.
+
+I took up the lamp and lit it, because I wouldn't face this in the dark.
+
+I walked the cold hall to the front door with the light held out, and I set my fingers on the latch, and I didn't lift it. There was no need. The knock was at the kitchen door, the back of the house, and the front door I'd shut myself. I stood with my fingers on the cold iron and listened, and behind me, in the kitchen I'd left, a small voice spoke.
+
+"Iris," it said. "I'm cold."
+
+I turned.
+
+It stood in the kitchen doorway at the end of the hall, within reach of the light, where I'd been sitting a minute before. A boy of seven. Grey flannel shorts, the kind gone from the shops these thirty years. A jersey. Bare feet. Wet through, the hair flat to the small skull, the rain running off the hem of the shorts and standing on the boards in a dark ring around the small feet.
+
+The face was the face. I mean to be exact, because exactness is the one thing I have ever had. It was Danny's face. Not a face like his. His.
+
+I didn't move. I kept the lamp out and I didn't move and I didn't speak.
+
+"I waited where you left me," it said. "It was warm after a while."
+
+The voice came a half-second late. I marked it the way I'd marked the dial tone, the held quiet first and then the words arriving a beat behind where a living mouth gives them, as if the sound had to come up from somewhere and surface. The lag was the wrong of it. The face was the face and the voice was the voice and the lag was the proof.
+
+"You're not Danny," I said.
+
+It looked at me. The rain ran off it and stood on the boards. "You had the red one," it said.
+
+"You always took the red one. The one with the white in it. I let you keep it that summer and you never gave it back."
+
+That was true. That is the part I have to put down plainly. The red marble with the white twist was Danny's best and he didn't trade it. The summer before the last summer he'd let me hold it for a week and I hadn't given it back, and I'd forgotten it, thirty years forgotten, the smallness of it, the meanness of a girl keeping her little brother's best marble.
+
+No one alive knew that. No one had ever known it. It lay deep in the bottom drawer and the thing in the doorway took it out and raised it to me in the lamplight.
+
+My hands went cold on the brass.
+
+"You looked away," it said.
+
+The lamp shook. I steadied it. "I know I looked away," I said.
+
+"At the water," it said. "You were looking at yourself in the pond. I saw you. I was going under and I looked up and you were looking at your own face."
+
+I'd never told that. Not the mother, not the men who dragged the pond, not a single soul in thirty years. It was the deepest place in me. It was the thing the drawer was built around. And it was in the mouth of the wet boy in the doorway, said flat and true, in Danny's voice, a half-second behind itself.
+
+I mean to set down what it did to me, and I cannot make the words hold it. The whole weight of thirty years stood up in my chest at once. Not the figure at the window. Not the name in the book. This. The voice.
+
+I longed for it to be him. I want that plain, plainer than I have wanted any refusal plain, because it is the worst thing in this account and the truest. I wanted to go to it and kneel on the wet boards and take the cold small body in my arms and say I'm sorry, I kept the marble, I looked away, I have been looking ever since, come here, come, you're cold. The wanting had weight. It pulled. It pulled at me the way the slope pulls a thing toward the pond.
+
+I didn't move.
+
+"Come and warm me," it said. "It's warm upstairs. You know it's warm. I'll show you the room. We can go up together."
+
+The room. The warm room. The lure said the warm room, and the lure said come up together, and the wanting in me leaned toward the stairs and the warm dark at the top of them, and I gripped the lamp and pressed my feet to the cold hall floor and I didn't go.
+
+Because Danny didn't know about the warm room. Danny drowned thirty years ago at seven and never climbed those stairs in his life.
+
+The thing wearing him knew the warm room and knew the marble and knew my own face in the pond, and it had Danny's voice and Danny's wet hair and the meanness I'd buried, and it knew one thing too many. It knew the warm room. A boy of seven who went under in a hot July doesn't know the warm room. The thing that has him does.
+
+"Danny didn't know that room," I said.
+
+It went still. The rain stopped running off it. The small face didn't change, but something behind it changed, the way a held note holds and then is not the note any more. The lag came again, longer.
+
+"You had the red one," it said. "Lot eight."
+
+I felt the floor go out from under the words. The voice had slipped. It had been Danny's, true and small and grieving, and now it lapsed, mid-breath, into a numeral, into the flat even tone of the wall, Lot eight, in the cadence of a thing calling a sale. The mask of him cracked on a number. The accuracy was the wrong of it and the number was the deepest part of the wrong, because the boy I lost didn't count and the thing in the doorway did.
+
+"You're not him," I said. "You're the thing that took him."
+
+It stood in the doorway and the lamp shook in my hand and the rain poured through the broken place a mile off, and the wet boy that wasn't a boy looked at me with my brother's eyes, and I turned my back on it.
+
+I mean to put down what that cost, because it is the hardest thing I have ever done, harder than the pond at nine, harder than the door I shut myself. I turned away from Danny's face. I turned my back on the small wet shape of the only thing I have ever loved without armor, calling me cold and asking to be warmed, raising the marble I stole. I walked down the hall away from it with the light out in front of me and my own feet carrying me away from him, one step and then another, on the cold boards, away.
+
+"Iris," it said behind me, small, in his voice. "Iris, don't leave me. You left me before."
+
+I didn't turn. I kept walking, into the front room, the drawing room, the long window black with the storm, and I shut the door between us, the way you shut a thing you have finished with, square, with my palm flat on the panel and the panel cold. My palm stayed on the panel. The marble in my pocket lay against my leg and the wet boy was on the other side of the door in his grey flannel shorts and his cracked voice and I stood with my palm on the wood and didn't open it.
+
+There was no sound from the hall. No knock. No voice. No small wet feet. Only the rain, far off, pouring easy through the broken place, and the held listening quiet of the house, which had counted its numbers and shown me its shape under the ice and now sent the wet boy to my door with the marble and my own face in his mouth, and had watched me walk away, and was waiting, with all its order, to see how long a woman can keep her back to the thing she loves before she turns.
+
+I kept my back to it. I stood in the dark drawing room with my palm on the cold door and the long window black behind me and the marble against my leg. I didn't turn, and I didn't turn, and I didn't turn.
