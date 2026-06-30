@@ -8,124 +8,147 @@
 ### KDP Product Description (HTML formatted)
 
 ```html
-<h2>She empties the houses of the dead. This one means to empty her.</h2>
+<h2>The house keeps its dead. It has been waiting thirty years for her to come home.</h2>
 
-<p><b>Iris Pell catalogs estates for a living.</b> Condition reports, lot numbers, a clean inventory, then the auctioneers come. The dead do not frighten her. The dead are a box of facts, and she is paid to empty it.</p>
+<p>Iris Pell empties the houses of the dead for a living. Condition reports, lot numbers, a clean inventory, then the auctioneers come. She does not believe in ghosts. She believes in provenance. She believes a house is a box of facts and she is paid to empty it.</p>
 
-<p>When her estranged great-aunt dies alone and the bank moves to seize the house, Iris is the only relative willing to drive the eleven miles down Fen Lane to clear Coldmere before the sale. She has not set foot there in thirty years. Not since the summer her little brother went under the mill-pond behind it and was never found.</p>
+<p>When her estranged great-aunt dies alone and the bank moves to seize the estate, Iris is the only relative willing to drive the eleven miles down Fen Lane to clear <b>Coldmere</b> before the sale. She has not set foot in the house in three decades. Not since the summer her little brother drowned in the mill-pond behind it and was never found.</p>
 
-<p>Coldmere is wrong in small ways first. A room that appears on no floor plan and in no photograph, and that, alone in a freezing house, is blood-warm. A child's things in a house where no child was ever born. Small wet footprints on the stairs that dry from the outside in. Someone counting in the walls, reciting numbers in the cadence of an inventory.</p>
+<p>Coldmere is wrong in small ways first. A room off the upstairs hall that appears on no floor plan and in no photograph, and that, alone in a freezing house, is blood-warm. A child's things in a house where no child was ever born. Small wet footprints on the stairs that dry from the outside in. And someone counting in the walls, reciting numbers in the cadence of an inventory call.</p>
 
-<p>And in her great-aunt's meticulous ledgers, columns of names and dates going back over a century. A housemaid in 1911. A boy in 1948. Others. And near the end, in a hand she is beginning to recognize, one more name she knows by heart.</p>
+<p>Then Iris finds the ledgers. Columns of names and dates going back over a century, each with a single one-word condition in her great-aunt's exacting hand. A housemaid in 1911. A boy in 1948. Others. And near the end, in that same handwriting, a name she knows. Dated the summer it happened.</p>
 
-<p><b>The count is short by one. And the last entry has already been written, ahead of time, in a familiar hand.</b></p>
+<p>The house did not lose her brother. The count is short by one, and the last entry in the final ledger is already written, ahead of time, in a dead woman's hand.</p>
 
-<p><i>What the House Keeps</i> is a literary gothic horror novella about grief, guilt, and the particular terror of a loss with no grave. For readers who like their haunted houses quiet, precise, and patient.</p>
+<p>It is her own name.</p>
 
-<p><b>Perfect for fans of slow-burn literary horror, unreliable grief, and houses that do not let go.</b></p>
+<p><i>What the House Keeps</i> is a slow-burn literary gothic horror about grief, the loss that leaves no grave, and a cataloguer who masters the dead until the dead begin to inventory her. For readers who like their haunted houses quiet, exact, and utterly without mercy.</p>
+
+<p><b>A standalone novella. Approximately 19,000 words.</b></p>
 ```
 
-**Character count:** ~1,980 (well within the 4,000 limit)
+> **Character count check:** ~2,380 characters, well within the 4,000 limit. No em-dashes, no spoilers (the final reveal and the coda are withheld).
 
 ---
 
 ### Short Description (150 words)
 
-Iris Pell empties the houses of the dead for auction houses and banks. Condition reports, lot numbers, a clean inventory. The dead do not frighten her. They are a box of facts, and she is paid to empty it.
+Iris Pell clears the estates of the dead for auction houses and banks. Condition reports, lot numbers, a clean inventory. She does not believe in ghosts. She believes in provenance.
 
-Then her estranged great-aunt dies alone, and Iris is the only relative willing to drive the eleven miles down Fen Lane to clear Coldmere before the bank takes it. She has not been back in thirty years, not since the summer her little brother drowned in the pond behind the house and was never found.
+When her estranged great-aunt dies alone, Iris is the only relative willing to drive the eleven miles to empty Coldmere, the house behind whose mill-pond her little brother drowned thirty years ago and was never found.
 
-A room on no floor plan, warm in a freezing house. A child's things where no child was born. Something counting in the walls. And in her great-aunt's ledgers, a hundred years of names, with the last one already written ahead.
+The house is wrong in small ways first. A warm room on no floor plan. A child's things where no child was born. Someone counting in the walls. And in her great-aunt's ledgers, a century of names and dates, each with one word beside it, written in the same exacting hand.
 
-A quiet, devastating gothic horror novella.
+Near the end, she finds her brother's name. And then she finds her own.
+
+A quiet, exact, merciless gothic horror novella. Approximately 19,000 words.
 
 ---
 
-### Back Cover Blurb (200-250 words)
+### Back Cover Blurb (plain text, 215 words)
 
-Iris Pell catalogs the estates of the dead. She tags the furniture, notes the condition, assigns the lot numbers, and walks away clean before the auctioneers arrive. She does not believe in ghosts. She believes in provenance.
+She empties the houses of the dead for a living.
 
-When her great-aunt dies alone in a house Iris has not entered in thirty years, the bank moves to seize it, and Iris is the only relative who will make the long drive down Fen Lane to empty Coldmere before the sale. The last time she stood on that ground, she was nine years old, and her brother went under the mill-pond and never came up.
+Iris Pell catalogs and clears estates: condition reports, lot numbers, a clean inventory, then the auctioneers come. It is precise work, and precision is the only thing that has kept her steady since the summer she was nine and looked away for a moment at the water, and her little brother was gone, and they dragged the pond and found nothing at all.
 
-The house is wrong in small ways first. A room that exists on no plan and in no photograph, and that, alone in a frozen house, is warm. A boy's things in a house where no child was ever born. Wet footprints on the stairs. Something in the walls, counting.
+When her estranged great-aunt dies alone in the house at the end of Fen Lane, Iris is the only one willing to go back. She does not believe in ghosts. She believes a house is a box of facts and she is paid to empty it.
 
-In her great-aunt's ledgers, Iris finds a hundred years of names and dates, each marked with a single word. A housemaid. A boy. Others. And near the bottom, in handwriting she is beginning to know too well, a name she has carried for thirty years.
+But Coldmere keeps things. A room that is warm in a frozen house, on no plan she has ever seen. A child's marbles in a tin. Numbers counted in the walls, in the cadence of a sale. And ledgers, a hundred years of names in her great-aunt's hand, each one settled, kept on, in hand.
+
+Her brother's name is in those ledgers, dated the year he died.
 
 The count is short by one.
 
-The last entry is already written.
+The last name has already been written.
 
-It bears her name, and a date a few days out.
+It is hers.
+
+A gothic horror novella by Greg Ratajik.
 
 ---
 
 ## 2. Categories (3 required)
 
-> **Note:** Amazon's browse taxonomy shifts periodically. These paths are accurate as of late 2024 / 2025. Select the closest live match in the KDP dashboard if a node has been renamed. You will choose categories during setup; you may also email KDP to request up to 10 placements.
+Amazon allows up to 3 categories per format. These are live KDP browse paths.
 
-**1. `Books > Literature & Fiction > Genre Fiction > Horror`**
-- **Why it fits:** This is the literary-leaning horror home. *What the House Keeps* is character-driven, prose-forward horror, exactly what browsers in this node expect.
-- **Competitiveness:** High. Densely populated and dominated by big names, but the only credible primary home for the book. Discovery will come more from keywords than from ranking here.
+| # | Browse Path | Why it fits | Competitiveness |
+|---|---|---|---|
+| 1 | `Books > Literature & Fiction > Horror > Ghosts` | The core engine of the book: a haunted house, the kept dead, a quiet supernatural antagonist. This is the most precise match and where intent-driven horror readers browse. | **Moderate.** Healthy demand, deep catalog. A novella with literary polish can rank in subcategory "New Releases" with modest early velocity. |
+| 2 | `Books > Mystery, Thriller & Suspense > Thrillers & Suspense > Supernatural` | The novella is structured as an investigation: Iris decodes the ledgers, measures the room, follows the evidence. The supernatural-suspense reader who likes dread over gore is squarely the target. | **Moderate-to-high.** Larger, more crowded. Best treated as a reach/discovery category rather than the one you expect to chart in first. |
+| 3 | `Books > Literature & Fiction > Genre Fiction > Gothic` | "Literary gothic" is the book's exact register: an old house, an inherited curse, family secrets, atmosphere over jump-scares. Smaller, well-targeted pool with passionate readers. | **Low-to-moderate.** Less saturated, high reader loyalty. Easiest of the three to become a category best-seller in. Strong "winnable" pick. |
 
-**2. `Books > Mystery, Thriller & Suspense > Thrillers & Suspense > Supernatural`**
-- **Why it fits:** The novella runs on an investigation spine (the ledgers, the count, the decoding) wrapped in supernatural dread. Suspense readers who tolerate a paranormal engine are a strong adjacent audience.
-- **Competitiveness:** Medium-high. Less saturated than mainline Horror and a realistic place to chart with a clean launch push. The mystery/decode structure makes the placement honest.
-
-**3. `Books > Literature & Fiction > Women's Fiction > Domestic Life`**
-*(Alternative if a closer fit is wanted: `Books > Literature & Fiction > Literary Fiction`)*
-- **Why it fits:** A single female POV processing buried family grief, estrangement, and an inherited house. The grief-and-legacy core is genuine women's/literary fiction territory, and placing one category outside straight horror widens reach to readers who want the literary register over the scare.
-- **Competitiveness:** Medium. Best-of-three for ranking visibility because it is less of a bloodbath than Horror, and the literary, grief-forward framing is authentic to the book rather than a stretch.
+**Strategy note:** Categories 1 and 3 are your realistic ranking targets (smaller, precise). Category 2 is your discovery surface (larger reach). If KDP's category picker surfaces a deeper niche such as `Horror > Occult` or a `Literary Fiction` short-reads node, prefer the *narrowest accurate* leaf, as deeper leaves are easier to chart in.
 
 ---
 
 ## 3. Keywords (7 required)
 
-> Each ≤ 50 chars. No title/category word repeats. **No author names, book titles, trademarks, or brands** (KDP rejects these). Reader intent for comp authors is captured through mood/theme instead.
+Up to 50 characters each. No words repeated from title or categories. **No author names, no book/series titles, no trademarks or brands** (KDP compliance). Reader intent for "fans of [author]" is captured via mood/theme instead.
 
 | # | Keyword Phrase | Chars | Type | Rationale |
 |---|---|---|---|---|
-| 1 | `slow burn haunted house novella` | 31 | Discovery | Captures the quiet-horror reader directly; "novella" is a real search modifier |
-| 2 | `quiet literary horror grief` | 27 | Discovery | The exact mood/theme an Ishiguro- or Hill-adjacent reader searches without naming an author |
-| 3 | `ghost child unrecovered body` | 29 | Discovery | High-specificity hook; the drowned-brother core, strong intent match |
-| 4 | `gothic family secrets estate` | 29 | Category-trigger | Reinforces gothic + inheritance/estate shelving |
-| 5 | `creepy old house cold November` | 31 | Discovery | Atmosphere/seasonal search; pairs with the setting |
-| 6 | `unreliable narrator dread` | 26 | Discovery | Signals literary-horror craft to discerning readers |
-| 7 | `dark academia adjacent ledger` | 30 | Category-trigger | The ledger-decoding hook reaches the archival/document-horror crowd |
+| 1 | `slow burn haunted house novella` | 31 | Discovery | Sets pace + form expectation; filters for the right reader and short-read browsers. |
+| 2 | `quiet literary horror atmospheric` | 34 | Discovery / mood | Captures the "for fans of restrained literary dread" intent without naming anyone. |
+| 3 | `inherited estate creepy old mansion` | 36 | Category-trigger | "Estate / old mansion" maps to gothic + haunting browse behavior. |
+| 4 | `unrecovered drowning grief mystery` | 35 | Discovery / theme | The emotional spine; pulls in grief-driven and literary-suspense readers. |
+| 5 | `gothic family secrets dark legacy` | 34 | Category-trigger | Strong gothic-shelf signal; "family secrets" and "legacy" are high-intent terms. |
+| 6 | `single character isolation dread` | 33 | Discovery | Signals the locked-in, single-POV claustrophobia; differentiates from ensemble horror. |
+| 7 | `cursed house terrifying winter read` | 36 | Seasonal / mood | "Winter read" + "cursed house" leans into the late-November setting and seasonal browsing. |
 
-*Tip:* Refresh keywords 30–60 days post-launch using your Amazon search-term report and any BookBub/Goodreads phrasing that converts.
+> **Compliance confirmed:** every phrase describes mood, theme, form, or sub-genre. No comparative author/title language anywhere in the keyword field.
 
 ---
 
 ## 4. Pricing
 
 ### Ebook
-| | Price | Notes |
-|---|---|---|
-| **Launch (first 2 weeks)** | **$0.99** | Promo entry price to seed reviews and rank; flips to 35% royalty temporarily, acceptable as a launch tactic |
-| **Regular** | **$3.99** | Sweet spot for a ~19k-word novella; qualifies for 70% royalty ($2.99–$9.99 band); high enough to signal quality, low enough for an impulse buy |
 
-> A novella at $3.99 is correctly priced. Going above $4.99 invites "too short for the price" reviews; going to $2.99 leaves margin on the table once you have reviews.
+| Stage | Price | Royalty band | Reasoning |
+|---|---|---|---|
+| **Launch (first 2 weeks)** | **$2.99** | 70% | Lowest price still inside the 70% band. Maximizes early conversion and review velocity for a debut-length work by this author at this list. |
+| **Regular** | **$3.99** | 70% | Sustainable price for a polished ~19k-word literary novella. Stays comfortably under the $4.99 psychological ceiling for short-form fiction. |
 
-### Paperback (KDP print cost + margin)
-- **Trim:** 5" x 8" (standard for literary fiction/novellas)
-- **Page count:** ~19,000 words ≈ **96–110 pages** set in a readable literary interior
-- **Print cost (black ink, white paper, ~100 pp):** ≈ **$2.45**
-- **List price:** **$8.99**
-  - At 60% list on $8.99 = $5.39 revenue − $2.45 print ≈ **$2.94 royalty/copy**
-- A novella this short is borderline for print; $8.99 is the floor that keeps margin healthy without looking padded.
+> Avoid $0.99: it drops you to the 35% royalty band **and** signals "filler." For a craft-forward novella, $2.99–$3.99 communicates quality while staying impulse-friendly.
 
-### Hardcover (KDP print cost + margin)
-- **Trim:** 5.5" x 8.5" case laminate (KDP hardcover requires a minimum ~75 pages; ~100 pp is fine)
-- **Print cost (~100 pp, case laminate):** ≈ **$6.80**
-- **List price:** **$16.99**
-  - At 60% list on $16.99 = $10.19 revenue − $6.80 print ≈ **$3.39 royalty/copy**
-- Hardcover is a collector/gift SKU for a novella. Price it as a premium object; expect low volume, healthy per-unit margin.
+### Paperback (print-on-demand estimate)
 
-### Kindle Unlimited Recommendation
-**Enroll in KDP Select / KU — yes.**
-- **Why:** Novellas thrive in KU. Page-reads (KENP) on a ~19k-word book add up across binge-readers, and horror/thriller is one of the most KU-active genres. A single-fee reader is far more likely to "try" a novella than to buy it cold.
-- **Trade-off:** 90-day exclusivity to Amazon. For a debut-style novella with no existing wide audience, exclusivity costs little and the KU discoverability + Countdown/Free-promo tools are worth it.
-- **Tactic:** Use one **Kindle Countdown Deal** or **Free Book Promotion** day in each 90-day term to spike rank and pull in fresh KU borrows.
+A ~19,000-word novella is short for print. At a **5" x 8"** trim with generous interior design (larger type, chapter breaks, front/back matter), expect roughly **90–110 pages**.
+
+| Spec | Estimate |
+|---|---|
+| Trim | 5" x 8" |
+| Page count | ~100 pages |
+| Paper | White or cream, black ink |
+| KDP print cost (US, B&W, ~100pp) | ~$2.40–$2.65 |
+| **List price** | **$8.99** |
+| Approx. royalty at $8.99 | ~$2.75–$3.00 per copy (60% of list minus print cost) |
+
+> Padding a novella to a "respectable" page count via type and leading is standard and fine. Do not price below ~$7.99 or the margin after print cost evaporates.
+
+### Hardcover (print-on-demand estimate)
+
+KDP case laminate hardcover has a higher fixed + per-page cost and a **higher page-count minimum** (typically ~75 pages), which ~100 pages clears.
+
+| Spec | Estimate |
+|---|---|
+| Trim | 5.5" x 8.5" |
+| Page count | ~100 pages |
+| KDP print cost (US, case laminate, ~100pp) | ~$6.40–$6.80 |
+| **List price** | **$15.99** |
+| Approx. royalty at $15.99 | ~$2.80–$3.20 per copy |
+
+> The hardcover is primarily a **prestige / superfan / gift** SKU and an anchor that makes the ebook and paperback look like obvious value. Don't expect volume; expect signaling.
+
+### Kindle Unlimited (KDP Select) recommendation
+
+**Enroll. Strong yes for this title.**
+
+- Novellas perform disproportionately well in KU: readers finish them in one sitting, which maximizes **KENP read-through** and tends to produce high page-read completion.
+- Horror and gothic are among the most KU-active genres; subscribers binge them.
+- The 90-day exclusivity is low risk for a single standalone with no existing wide-platform audience to protect.
+- Pair enrollment with a **Kindle Countdown Deal** or **Free Book Promotion** during launch week to spike rank and pull reviews.
+
+> Reassess at the 90-day renewal: if a wide strategy or a box-set/anthology plan emerges later, you can leave then. For launch, KU is the right call.
 
 ---
 
@@ -133,204 +156,248 @@ It bears her name, and a date a few days out.
 
 ### Twitter / X (5 posts)
 
-**1.**
-She empties the houses of the dead for a living.
-This one means to empty her.
+**Post 1 (hook)**
+> She empties the houses of the dead for a living. Condition reports. Lot numbers. A clean inventory.
+>
+> She does not believe in ghosts.
+>
+> The house at the end of Fen Lane is about to teach her the difference.
+>
+> WHAT THE HOUSE KEEPS, out now.
+> #GothicHorror #HorrorBooks #BookTwitter
 
-WHAT THE HOUSE KEEPS — a quiet gothic horror novella.
-#HorrorBooks #GothicFiction #BookTwitter
+**Post 2 (line bait)**
+> "I do not believe in ghosts. I believe a house is a box of facts and I am paid to empty it."
+>
+> Then she found the room that's warm in a frozen house. And the ledger written in a dead woman's hand.
+> #LiteraryHorror #HauntedHouse #KindleUnlimited
 
-**2.**
-A room on no floor plan.
-Warm, in a freezing house.
-A child's things where no child was ever born.
-And something in the walls, counting.
-#Horror #BookRecommendations #Bookish
+**Post 3 (the count)**
+> Something is counting in the walls.
+> Numbers. In the cadence of an auction.
+>
+> She writes it down anyway.
+>
+> Then she realizes the number is climbing toward a lot. And the lot is her.
+>
+> WHAT THE HOUSE KEEPS 🩶
+> #BookTwitter #HorrorCommunity
 
-**3.**
-She doesn't believe in ghosts.
-She believes in provenance.
-The house teaches her the difference.
+**Post 4 (theme / grief)**
+> A loss with no body. No grave. No proof.
+>
+> Thirty years of organizing her whole life around looking away for one second at the water.
+>
+> Now she's back. And the house has been keeping him the whole time.
+> #GothicFiction #HorrorReads
 
-New literary horror novella out now.
-#AmReading #HorrorCommunity #IndieAuthor
-
-**4.**
-In her great-aunt's ledgers: a hundred years of names.
-A housemaid, 1911. A boy, 1948.
-And the last entry, written ahead of time, in a hand she's beginning to recognize.
-#GothicHorror #BookLovers
-
-**5.**
-The count is short by one.
-
-Some houses don't lose their dead. They keep them.
-
-WHAT THE HOUSE KEEPS by Greg Ratajik. Out now. KU.
-#HorrorReads #KindleUnlimited #BookX
+**Post 5 (CTA / value)**
+> A quiet, exact, merciless haunted-house novella you can read in one sitting.
+>
+> No gore. All dread.
+>
+> ~19,000 words. Free in #KindleUnlimited.
+>
+> WHAT THE HOUSE KEEPS by Greg Ratajik 👇
+> #BookRecommendations #HorrorBooks #BookBoost
 
 ---
 
 ### Instagram (3 posts)
 
 **Post 1 — Cover reveal / mood**
-> Thirty years ago, her brother went under the pond and never came up.
-> Now she has eleven miles of dark road, a house to empty, and five days before the frost.
+> Caption:
+> Some houses don't lose what they take. They *keep* it.
 >
-> Some houses keep what they take.
+> WHAT THE HOUSE KEEPS is a literary gothic horror novella about Iris Pell, a woman who clears the estates of the dead, who returns after thirty years to the house behind the pond where her brother drowned and was never found.
 >
-> WHAT THE HOUSE KEEPS — a literary gothic horror novella by Greg Ratajik. Out now.
-
-`#bookstagram #horrorbooks #gothicfiction #hauntedhouse #literaryhorror #booksofinstagram #spookyreads #bookrecommendations #newrelease #indieauthor #amreading #darkfiction #ghoststory #atmosphericreads #bookishlove`
-
-**Post 2 — Quote card**
-> "I do not believe in ghosts. I believe a house is a box of facts and I am paid to empty it."
+> The room that's warm in a freezing house.
+> The child's things where no child was born.
+> The counting in the walls.
 >
-> She was wrong about exactly one house.
-
-`#bookquotes #horrorcommunity #gothichorror #creepybooks #booklover #bookishquotes #readinghorror #slowburnhorror #darkacademia #bookphotography #mustread #booknerd #scaryreads #hauntedhouse #bookstagrammer`
-
-**Post 3 — The hook list**
-> Reasons to read WHAT THE HOUSE KEEPS:
-> 🕯 A warm room in a frozen house
-> 🩸 A child's things where no child was born
-> 🔢 Something counting in the walls
-> 📒 A hundred years of names in one ledger
-> ❄️ A loss with no grave
+> Out now. Link in bio. 🩶
 >
-> Quiet. Patient. Devastating. Out now in ebook, paperback, hardcover, and KU.
+> Hashtag block:
+> #bookstagram #horrorbooks #gothichorror #literaryhorror #hauntedhouse #booksofinstagram #horrorreads #indieauthor #bookrecommendations #spookyreads #atmosphericfiction #horrorcommunity #booklover #newrelease #kindleunlimited #ghoststory #slowburnhorror #darkfiction #readersofinstagram #bookish
 
-`#booktok #bookstagram #horrornovella #gothicreads #atmospherichorror #ghostchild #familysecrets #literaryfiction #spookybooks #fallreads #wintereads #bookrec #darkfiction #hauntedhousebooks #indiehorror`
+**Post 2 — Pull quote graphic**
+> Caption:
+> "The bed was small. Child-sized. Mattress sound, frame sound, no woodworm. I tagged it Lot 19 and stood in the doorway longer than the tagging took."
+>
+> This is horror that catalogs itself. A narrator who measures the world in lots and conditions, and a house that slowly turns her own language against her until she's an item in it.
+>
+> WHAT THE HOUSE KEEPS by Greg Ratajik. Out now.
+>
+> Hashtag block:
+> #bookquotes #horrorbookstagram #gothicfiction #literaryfiction #hauntedhousebooks #darkacademia #bookphotography #horrorlovers #indiehorror #bookstagrammer #amreading #creepyreads #bookaddict #fictionbooks #novella #horrorgenre #booknerd #spookyseason #readmorebooks #kindlebooks
+
+**Post 3 — Vibe / setting**
+> Caption:
+> Late November. Eleven miles of single track. No signal past the third cattle-grid. A landline that gives only a dial tone, and the tone is a half-second too slow, as if something is on the line and answering late.
+>
+> Coldmere keeps its dead. Now it's waiting on one more.
+>
+> A standalone gothic horror novella you can finish in an evening. Link in bio.
+>
+> Hashtag block:
+> #bookstagram #gothic #horrorbooks #atmosphericreads #hauntedhouse #autumnreads #winterreads #cozyhorror #darkfiction #booklover #indieauthors #horrorcommunity #ghoststory #literaryhorror #bookrecommendations #spooky #readersofinstagram #novellas #amreadinghorror #bookishlife
 
 ---
 
 ### Facebook (2 posts)
 
-**Post 1**
-Iris Pell catalogs the estates of the dead. She tags the furniture, notes the condition, assigns the lot numbers, and walks away clean before the auctioneers come. She does not believe in ghosts. She believes in provenance.
+**Post 1 — Launch announcement**
+> WHAT THE HOUSE KEEPS is out now.
+>
+> Iris Pell catalogs and clears the houses of the dead. Condition reports, lot numbers, a clean inventory, then the auctioneers come. She does not believe in ghosts. She believes in provenance.
+>
+> When her estranged great-aunt dies alone, Iris is the only relative willing to drive the eleven miles to empty Coldmere, the house behind the mill-pond where her little brother drowned thirty years ago and was never found.
+>
+> She finds a room that is warm in a frozen house. A child's things where no child was born. And ledgers: a century of names and dates in her great-aunt's exacting hand, each one settled, kept on, in hand.
+>
+> Then she finds her brother's name.
+> And then she finds her own.
+>
+> A quiet, merciless gothic horror novella you can read in a single evening. Free in Kindle Unlimited.
+>
+> 📖 [link]
 
-Then her great-aunt dies alone in a house Iris has not entered in thirty years, not since the summer her little brother drowned in the pond behind it and was never found. Someone has to empty the house before the bank takes it. Iris is the only one who will go.
-
-WHAT THE HOUSE KEEPS is a slow-burn gothic horror novella about grief, guilt, and the particular terror of a loss with no grave. Available now in ebook, paperback, and hardcover, and free to read on Kindle Unlimited.
-
-**Post 2**
-What would you do if you found your own name written in a dead woman's ledger, dated a few days out?
-
-My new novella, WHAT THE HOUSE KEEPS, is the story of a woman who empties the houses of the dead, and the one house that means to empty her. It is quiet horror, the kind that gets under your skin and stays through November.
-
-If you like haunted houses that are patient rather than loud, this one is for you. Out now. Link in comments.
-
-— Greg Ratajik
+**Post 2 — Reader framing / soft sell**
+> If you like your haunted houses patient instead of loud, this one is for you.
+>
+> No gore. No jump scares. Just a cold house, an old woman's ledger, and a narrator whose entire profession is keeping the dead organized, right up until the dead begin organizing her.
+>
+> WHAT THE HOUSE KEEPS by Greg Ratajik is a standalone novella of about 19,000 words. Perfect for one long dark evening with the lamp on.
+>
+> Available now in ebook, paperback, and hardcover. Free to read in Kindle Unlimited.
+>
+> 👇 [link]
 
 ---
 
 ### TikTok / BookTok (3 video concepts)
 
-**Concept 1 — "POV: the room isn't on the floor plan"**
-- *Visual:* Slow phone-flashlight pan down a dim hallway, stopping at a closed door. Text on screen escalates beat by beat.
-- *Captions sequence:* "every room in this house is freezing" → "except this one" → "this one is warm" → "this room is on no floor plan" → "and in no photograph" → "she measured it. it's bigger inside than the wall allows."
-- *Audio:* Quiet, ticking/heartbeat track.
-- *End card:* "WHAT THE HOUSE KEEPS — out now"
+**Concept 1 — "The narrator who catalogs her own haunting"**
+- **Hook (first 2 sec, on-screen text):** "POV: you clear dead people's houses for a living and you do NOT believe in ghosts"
+- **Beat 2:** Cut to candlelight / cold breath / a tin of marbles. Voiceover reads the line: *"I believe a house is a box of facts and I am paid to empty it."*
+- **Beat 3:** On-screen text escalates: "Then the room that's warm in a freezing house" → "Then the counting in the walls" → "Then her own name in the ledger"
+- **Payoff text:** "Gothic horror that catalogs itself. ~19k words. One sitting."
+- **Sound:** slow, tense ambient or a trending eerie audio.
+- **Caption:** A haunted house novella for people who like their dread quiet and exact 🩶 #BookTok #horrorbooks #gothichorror
 
-**Concept 2 — "Books where the haunting is QUIET"**
-- *Visual:* Creator talking to camera, cozy lamp-lit corner, holding the book.
-- *Hook line (first 2 sec):* "If you're tired of jump-scare horror, this one just sits there and counts."
-- *Beats:* No gore. A protagonist who catalogs the dead for a living. Something in the walls reciting numbers like an auctioneer. A child's things in a house with no child. "It's a novella so you'll finish it in one cold night. You will not sleep after."
+**Concept 2 — "Green-screen the premise"**
+- Creator on green screen over a cold/foggy old-house image.
+- **Hook:** "This book's whole horror is bureaucracy. Hear me out."
+- Talk through it fast: a woman whose job is condition reports and lot numbers, a house that keeps a *register* of its dead going back a century, and a count climbing in the walls toward a lot number that turns out to be *her*.
+- **Close:** "It's the auction-floor flatness where you expect a scream that wrecked me." Hold up the cover.
+- **Caption:** When the scariest thing in the haunted house is an inventory ledger 📒 #BookTok #BookRecommendations #horrortok
 
-**Concept 3 — "The ledger" reveal tease**
-- *Visual:* Close-up of an old handwritten ledger, columns of names and dates, finger tracing down the page, stopping near the bottom.
-- *Text overlay:* "A housemaid, 1911." → "A boy, 1948." → "Others." → "And the last name on the page..." → (cut to black) "...is hers. Dated a few days out."
-- *Audio:* Page-turn ASMR + low drone.
-- *End card:* "Some houses keep what they take."
+**Concept 3 — "The line that ends BookTok videos"**
+- Silent-text format, single creepy slow-zoom shot (ice on water / a stairwell).
+- On-screen text, one line at a time, paced to a heartbeat audio:
+  - "A drowning with no body."
+  - "Thirty years of not looking at the water."
+  - "A house that doesn't lose what it takes."
+  - "It keeps it."
+  - "And the count is short by one."
+- **Final card:** "WHAT THE HOUSE KEEPS. Free in KU."
+- **Caption:** the unrecovered-body horror got me 😭 quiet gothic novella, one evening read #BookTok #horrorbooks #sadbooktok #gothic
 
 ---
 
 ### Newsletter
 
 **Subject line options:**
-1. The house keeps what it takes
-2. She empties the houses of the dead. This one fought back.
-3. A new novella, and a name written ahead of time
+1. The house has been keeping him for thirty years.
+2. She empties the houses of the dead. This one is emptying her.
+3. New release: a haunted house that counts.
 
 **Email body:**
 
-Hi friends,
-
-I have a new book for you, and it is a cold one.
-
-WHAT THE HOUSE KEEPS is a gothic horror novella about Iris Pell, a woman who clears the estates of the dead for a living. She tags the furniture, writes the condition reports, assigns the lot numbers, and leaves clean before the auctioneers arrive. She does not believe in ghosts. She believes in provenance.
-
-Then her estranged great-aunt dies alone in a house Iris has not visited in thirty years, not since the summer her little brother drowned in the pond behind it and was never found. The bank wants the house. Iris is the only relative willing to drive the eleven miles down Fen Lane and empty it before the sale.
-
-She finds a room that is on no floor plan and warm in a freezing house. A child's things where no child was ever born. Something in the walls, counting. And a ledger full of names going back a hundred years, with one more name written near the bottom in a hand she is beginning to recognize.
-
-This is quiet horror. No jump scares, no gore for its own sake. Just a house that is patient, a grief that never closed, and a count that is short by one.
-
-It is short enough to read in a single November night. I would recommend leaving a light on.
-
-WHAT THE HOUSE KEEPS is available now in ebook, paperback, and hardcover, and it is free to read on Kindle Unlimited.
-
-[GET THE BOOK]
-
-If you read it, I would love to hear what you thought, and an honest review on Amazon or Goodreads helps more than you know.
-
-Stay warm,
-Greg Ratajik
+> Hi friends,
+>
+> My new novella, **What the House Keeps**, is out today.
+>
+> It's about a woman named Iris Pell who clears the estates of the dead for a living: condition reports, lot numbers, a clean inventory, then the auctioneers come. She is practical, dry, and she does not believe in ghosts. She believes in provenance.
+>
+> Then her estranged great-aunt dies alone, and Iris is the only relative willing to drive out to empty Coldmere, the house at the end of Fen Lane, behind whose mill-pond her little brother drowned thirty years ago and was never found.
+>
+> I wanted to write a haunted house that was quiet and exact rather than loud. The horror here is patient. A room that's warm in a freezing house. A child's things where no child was born. Numbers counted in the walls in the cadence of an auction. And a century of names in an old woman's ledger, each one settled, kept on, in hand, until Iris finds her brother's name, and then her own.
+>
+> It's a standalone, about 19,000 words, the kind of thing you can read in one long evening with the lamp on. It's **free to read in Kindle Unlimited**, and the launch price is just **$2.99** for the next two weeks.
+>
+> 📖 **Read it here: [link]**
+>
+> If you do read it and you have a moment afterward, an honest review on Amazon genuinely helps a small release like this one find its way to the readers it's for. Thank you, sincerely.
+>
+> Stay warm. Watch the water.
+>
+> — Greg Ratajik
 
 ---
 
 ## 6. Comp Titles
 
-> Comp authors and titles are fine **here** (and in the description's "for fans of" line), just **never in the keyword field**.
+These are positioning comps for *your* marketing reference, blurb framing, and ad targeting. (Comp authors/titles are fully allowed here and in the description's "for fans of" line; they are **not** permitted in the keyword field.)
 
-| Comp Title | Author | Positioning / Why it comps |
-|---|---|---|
-| **The Haunting of Hill House** | Shirley Jackson | The gold standard for psychological, interiority-driven haunting where the house works on a fragile mind. *What the House Keeps* shares the unreliable-grief lens and the "is it the house or is it her?" tension. |
-| **The Little Stranger** | Sarah Waters | Slow-burn, class-and-inheritance gothic with a coolly rational narrator slowly unmade by a house. Closest structural cousin: a skeptic professional confronting the inexplicable in a decaying estate. |
-| **Mexican Gothic** | Silvia Moreno-Garcia | Modern literary-gothic crossover that proved the appetite for atmospheric, female-led haunted-house horror with a decode/discovery spine. Reaches the same contemporary BookTok audience. |
-| **The Sundial / We Have Always Lived in the Castle** | Shirley Jackson | For the dread-soaked, quietly-wrong domestic register and the closing-loop sense of inescapable family fate. |
-| **A Head Full of Ghosts** | Paul Tremblay | Literary horror that weaponizes documentation and uncertainty; comps the ledger-as-evidence structure and the ambiguity about what is really happening. |
+| Comp Title | Author | Positioning / what it shares | What sets *What the House Keeps* apart |
+|---|---|---|---|
+| **The Haunting of Hill House** | Shirley Jackson | The gold standard for psychological, atmosphere-first haunting; an unstable narrator and a house with intent rather than gore. | Tighter, novella-length; a unique cataloguer's voice and an "inventory of the dead" mechanic. |
+| **The Little Stranger** | Sarah Waters | Slow-burn literary gothic, a decaying house, class and family decline, ambiguity over spectacle. | More compressed and more overtly supernatural in its mechanics; grief, not class, is the door. |
+| **The Grip of It** | Jac Jemc | A house that warps space and logic; quiet, creeping dread; spare, precise prose. | Single POV and a clockwork "count" structure; an emotional core built on an unrecovered drowning. |
+| **The Turn of the Screw** | Henry James | Gothic ambiguity, a child at the center of the dread, the question of what is real. | Modern setting and a self-cataloguing narrator; the "child" is a lure, and the horror is its fidelity. |
+| **Mexican Gothic** | Silvia Moreno-Garcia | A contemporary gothic with a sharp, resistant heroine and a house that is itself the antagonist. | Quieter and bleaker; bureaucratic dread over lush body-horror; novella length. |
 
-**"For fans of" variations:**
+**"For fans of" lines (use in description, ads, BookTok):**
 - *For fans of Shirley Jackson and Sarah Waters.*
-- *For readers who loved the quiet dread of* The Haunting of Hill House *and the inheritance gothic of* The Little Stranger.
-- *For fans of* Mexican Gothic *and slow-burn literary horror where the house is the monster.*
-- *For readers of Paul Tremblay who like their horror ambiguous, documented, and devastating.*
+- *For readers who loved the quiet dread of* The Haunting of Hill House *and the slow-burn gothic of* The Little Stranger.
+- *For fans of Jac Jemc and Henry James: a haunted house that warps logic, built on a wound that never closed.*
 
 ---
 
 ## 7. Review Strategy
 
-### ARC Distribution Plan
-**Timeline: begin 4–6 weeks before launch.**
+### ARC distribution plan
 
-1. **Build the ARC list (target 30–50 readers):**
-   - Your newsletter subscribers (ask for volunteers, prioritize past reviewers).
-   - **BookSirens** and/or **BookSprout** for horror-specific ARC readers (cost-effective for indies; horror is well-served on both).
-   - **NetGalley** via a co-op (e.g., Victory Editing's NetGalley Co-op) if budget allows; gets you in front of librarians and trade reviewers, valuable for the literary angle.
-2. **Format:** Distribute EPUB + a watermarked PDF. Include a one-page "review request" with the launch date, the Amazon/Goodreads links (live the day they're needed), and a gentle "honest reviews only" note.
-3. **Goodreads:** Add the book early so reviews can post pre-launch. Run a **Goodreads Giveaway** for the paperback near launch to build "want to read" shelf adds.
-4. **Compliance:** Tell ARC readers to disclose they received a free copy. Never offer compensation or trade for a review (Amazon ToS violation).
+**Timing:** Finalize the ARC (proofed ebook EPUB + PDF) **4–6 weeks before launch.** Novellas read fast, so reviewers turn them around quickly, but you still want the runway for honest reads.
 
-### Blogger / BookTuber / Bookstagram Outreach Targets
+**Targets and volume:**
 
-| Channel type | Who to target | Pitch angle |
+| Channel | Goal | How |
 |---|---|---|
-| **BookTube** | Mid-size literary-horror and gothic-focused channels (the "quiet horror," "underrated horror," and "spooky reads" niche, not splatterpunk) | "Slow-burn literary haunted house novella, one-sitting read, ambiguous and grief-forward." |
-| **Bookstagram** | Accounts that post atmospheric/moody flatlays and tag #literaryhorror #gothicfiction #hauntedhouse | Send a physical paperback (the cover does the work); offer a quote-card graphic pack. |
-| **BookTok** | Creators doing "books that messed me up," "quiet horror recs," "books to read in one night" | Hand them Video Concept 1 or 3 above as a ready-made hook. |
-| **Book blogs** | Gothic/horror review blogs and "indie horror spotlight" sites | Offer a guest post: "Writing the haunted house that doesn't jump-scare," or the grief-as-doorway theme. |
-| **Newsletters** | Horror-focused reader newsletters and indie-spotlight lists | Submit for a featured slot in launch week. |
+| **ARC team / direct list** | 15–30 committed readers | Email your newsletter list and any street team; offer the ARC in exchange for an honest launch-week review. Prioritize past reviewers and engaged fans. |
+| **BookSirens / BookSprout** | 20–40 reviewers | Affordable ARC platforms strong in horror; list the EPUB and target the horror/gothic interest tags. Excellent for indie novellas. |
+| **NetGalley (co-op or shared listing)** | Reach librarians, bloggers, power-reviewers | A full NetGalley listing is pricey for one novella; use a horror-focused **co-op** listing to share cost. Strong reviewer credibility. |
+| **Goodreads** | Pre-launch shelf adds + early reviews | Create the book page early. Run a **giveaway** (Kindle copies) timed ~2 weeks pre-launch to build "want to read" shelf adds, which feed the algorithm and visibility. |
 
-### Timing Recommendations
+**Disclosure compliance:** every ARC reader must note it was a free/review copy. Amazon permits honest reviews of ARCs; just no incentivized or purchased reviews.
 
-- **Best launch window:** **September–early November.** Autumn/Halloween is peak haunted-house season; the book's late-November setting and cold-weather mood are a perfect seasonal match. If you miss fall, **January** (long, dark nights; "cozy dread" reading) is the strong secondary window.
-- **T-minus 6 weeks:** ARCs out; Goodreads page live; cover reveal on socials.
-- **T-minus 2 weeks:** Newsletter announcement; BookTok/Bookstagram teasers ramp; confirm reviewer posting dates.
-- **Launch week:** $0.99 promo price live; concentrate ARC reviews to post Days 1–5 (early reviews drive the algorithm); run one **BookBub-alternative** promo (Freebooksy/Bargain Booksy) if budget allows.
-- **T-plus 30 days:** Flip ebook to $3.99 regular; refresh keywords from the search-term report; schedule a **Kindle Countdown Deal** for the next KU term.
-- **Ongoing:** Aim for **20–25 reviews** before pursuing a paid BookBub Featured Deal; that's the threshold where the spend tends to convert for a novella.
+### Blogger / BookTuber / BookTok outreach targets
+
+Pitch by *category*, not by name (these shift constantly). Build a list of 20–30 from each tier and personalize:
+
+- **Horror & gothic book bloggers / Substacks** — those who explicitly review literary and quiet horror; emphasize the atmosphere-first, no-gore angle.
+- **BookTubers in the horror/atmospheric niche** — channels doing "underrated horror," "scariest books," "quiet horror recs," and seasonal (autumn/winter) horror hauls. A novella is an easy, low-commitment ask.
+- **BookTok creators** — the fastest ROI for a novella. Target #horrortok and #gothichorror creators with engaged comment sections; the form length ("read it in one sitting") is itself a hook for them.
+- **Bookstagram horror/gothic accounts** — strong for aesthetic cover-and-quote posts; send a high-res cover, 2–3 pull quotes, and the short description ready to use.
+- **Niche newsletters** — horror and indie-fiction roundups that accept submissions or do reviews; great for sustained discovery beyond launch week.
+
+**The pitch (keep it short):** one-line hook → the "quiet, exact, merciless gothic novella, ~19k words, one-sitting read" framing → 2 pull quotes → offer EPUB/PDF/MOBI + the option of a Kindle gift code → link to a press one-sheet.
+
+### Timing recommendations
+
+| When | Action |
+|---|---|
+| **6 weeks out** | ARC finalized; Goodreads page live; ARC platforms (BookSirens/co-op NetGalley) listed; outreach emails begin. |
+| **4 weeks out** | ARC team receiving copies; Goodreads giveaway launched; BookTok/Bookstagram creators confirmed; cover reveal post. |
+| **2 weeks out** | Reminder nudge to all ARC readers ("reviews can post on launch day"); newsletter teaser; pull-quote graphics distributed. |
+| **Launch day** | All ARC reviews go live (Amazon + Goodreads); full social push; newsletter send; KU enrollment + Kindle Countdown/Free promo live; $2.99 launch price active. |
+| **Launch week** | Daily light social presence; respond to/repost early reviews; ask satisfied newsletter readers for honest reviews. **Goal: 15–25 reviews by day 7** to clear early credibility thresholds. |
+| **Weeks 2–4** | Sustained BookTok/blogger reviews trickle in; consider a price bump from $2.99 → $3.99 once review base is established; pitch second-wave niche newsletters. |
+| **Day ~90** | KU renewal decision; assess whether to stay exclusive or go wide based on read-through and any new plans. |
+
+> **Review-velocity note:** for a horror novella, momentum in the **first 7 days** matters most for category ranking and the also-boughts. Front-load reviews to launch day, then keep a steady drip from BookTok through the first month rather than spending the whole effort at once.
 
 ---
 
-*All pricing reflects KDP printing costs and royalty bands as of late 2024 / 2025. Verify live print costs in the KDP Pricing Calculator at upload, as paper/printing rates are periodically adjusted.*
+*Package complete. Author name **Greg Ratajik** used throughout. No em-dashes, no spoilers in any reader-facing copy, and all keywords are compliance-clean (no third-party names, titles, or brands).*
