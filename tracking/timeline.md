@@ -125,3 +125,12 @@
 - Day 3, evening: the count climbs — Iris makes tally-marks from one through twenty (gates of strokes), then stops marking at twenty though the count continues; she works out the sum (the count is a lot, and the lot is her).
 - Day 3, evening: the count reaches thirty (one higher than the previous night) and the wind returns to the eaves; the count rests for the night, unfinished.
 - Day 3, into the night: Iris sits a long time in the full dark with the closed notebook under her hand, not turning the lamp up.
+
+## Chapter 17
+
+- Day 4 (Sunday), morning (continuing from the previous night's vigil at the kitchen table, ch16): Iris carries the battery radio up from the car to the kitchen and listens to the storm forecast in the grey, sunless light, then turns it off to save the cells.
+- Day 4, morning: Iris goes out to the frosted car and tries the key once (dead, as Friday), then comes back in.
+- Day 4, morning: Iris lifts the landline, hears the slow tone, dials the office (no ring, only the open listening line), says "The bridge is going" into it, and sets the receiver down; her mobile shows No service and she leaves it.
+- Day 4, morning into afternoon: Iris goes up to the warm room and stands at the window over the pond, watching the storm-cloud come down the slope and the first dry snow begin; she takes no measure of it, works her sum about the ways out, and stays a long time as the light sinks to a deeper grey.
+- Day 4, afternoon: the wall/house goes quiet around her — the settling sounds thin and stop, the count does not climb or rest but holds in a listening quiet, all through the falling snow.
+- Day 4, dusk into true dark: Iris leaves the window, goes down the eleven treads in the held silence, does not turn the lamp up (a finger of oil left), and sits at the kitchen table with the closed notebook and the cold marbles as the snow turns to rain on the snow and the culvert (offstage, down the dark lane) begins to fill.

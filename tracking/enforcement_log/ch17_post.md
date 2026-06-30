@@ -1,0 +1,71 @@
+# Chapter 17: The Sky Lowers
+
+The radio gave me weather before it gave me anything else, and the weather was a wall coming down on us.
+
+I'd carried the little battery set up from the car, the one I keep in the boot for the long drives down lanes that lose the world. It runs on four cells and I had two days left in them, maybe less in the cold, and I hadn't wanted to spend them. I spent them this morning. The kitchen was grey with a light that had no sun in it, and I sat at the table with the closed notebook from the night before and turned the set on for a voice that wasn't the wall's.
+
+A man read a list. Not lots. Counties.
+
+He read them the way the wall reads numbers, flat and in order, and I waited there with the marbles cold against my leg and listened to a string of place-names I half-knew. After them came the word I'd been half-waiting for since the ice came on the pond. A nor'easter, off the coast, drawing in. Snow first, then rain on the snow, then the rain freezing where it fell. Roads. Bridges. Low ground.
+
+He said the low roads would go.
+
+I knew the low road. Fen Lane runs its eleven miles along the bottom of everything, three cattle-grids and one bridge over a culvert that takes the run-off from the whole slope. I'd crossed it Thursday in the last of the light and not thought about it twice. I thought about it now. A culvert is a pipe and a pipe takes what it can and a storm gives it more than it can.
+
+The man on the radio didn't say my bridge. He didn't have to. He said the low roads would go, and mine was the lowest road there was.
+
+I turned the set off to save what was left in it.
+
+Then I made myself do the thing I'd told myself yesterday I wouldn't do again, because yesterday was before the radio. I went out to the car.
+
+The frost had thickened on the windscreen overnight, a grey fur of it, and the sky behind the house was the colour of the pond's ice, low and close and without an edge. I got in. I turned the key. The dash stayed dead, no tick, no light, the starter not reaching, exactly as it had stayed dead the morning before. I'd known it would. I turned it once and stopped, because turning it more was a thing I'd done already and learned nothing from, and I'm not a woman who does a thing twice to get a different fact.
+
+I waited a moment in the cold car with my hands on the wheel and watched the house through the furred glass.
+
+Then I went back in and lifted the landline, because a culvert that hasn't gone yet is a culvert a person might still get a word across. The receiver was cold. I put it to my ear and waited for the tone, and the tone came up slow, the held quiet first, the listening half-second, the note arriving a beat behind where a working line gives it.
+
+I didn't flinch from it now. I knew what answered late. I dialled the office anyway, the four-and-a-bit motion my finger has learned, and the ringing didn't start.
+
+There was no ring. There was the open connection, going on, and on it the faint breathing-space of something present, answering a beat behind, the same as the operator gave me the day before.
+
+I said the only thing worth saying into it. "The bridge is going."
+
+The receiver gave me back the open connection, the listening quiet, a beat late, and no voice. I held it a count of three and put it down on its cradle, square, the way you set down a tool you've finished with.
+
+My mobile, on the table, showed No service, as it had shown since the third grid on Thursday. There's no mast for eleven miles. I didn't pick it up.
+
+So that was the inventory of my ways out, taken one more time, the way you re-count a parcel you've already counted because the count is all you have. The car: dead, no reason. The connection: open to a listening nothing.
+
+The phone: no signal, no mast. The lane: about to drown. Four facts, each with an honest name, each one mundane on its own, and together they came to the same place they'd come to yesterday, only worse, because yesterday the lane was still a road.
+
+I went up to the warm room to look at the sky from the window over the pond.
+
+I told myself it was the best window for it, the one that faces the slope and the weather coming over it, and that was true and it was also the other thing, that I wanted to see the pond. The room lay warm against my face as it always did. I didn't go near the chair. I stood at the glass with my arms folded and watched the cloud come down the slope toward the water like a lid set on a box, and the first of the snow began, small and dry, drifting sideways across the grey, settling nowhere, melting on the dark ground and not lying.
+
+Below, the pond held its skin of ice and waited under the falling snow.
+
+I've measured what I could measure in this house. The depth of a room that wouldn't close. The treads a wet foot had climbed. The wine glasses, one short. I can't measure a storm.
+
+There's no tape for a thing that's coming, only the man's flat voice and the cloud on the slope and the small dry snow that will turn to rain and the rain that will freeze, and the culvert beneath the lane taking the whole slope's worth of it until it can't, and then the bridge.
+
+I worked the sum it left me anyway, because working sums is the one thing my hands still do without asking. The car had failed Friday. The phone in the hall had failed Friday. The signal had failed Thursday. The house had closed every way out before the sky had said a word.
+
+And now the sky was saying it, and what the sky was bringing wasn't the thing that closed the door. The door was already shut. The sky was only the bolt going across it, drawn by weather, drawn by a broken culvert, drawn by no hand at all, total and ordinary and final.
+
+The house hadn't needed the storm. It had me already. The storm was for the world outside, to keep it from reaching in, after the fact, too late.
+
+I stood at the window a long time. The snow thickened and thinned and thickened. The light, what there was of it, went down by degrees, not to dark but to a deeper grey, the grey of a long afternoon under a low sky. I was cold through, in the one warm room, which is its own kind of wrong, and I hadn't eaten since the heel of bread at dawn, and there wasn't much bread left, and the lamp oil was down to a finger in the can, and I stood and did my sums and watched the slope go white at the edges and stay dark in the middle where the snow couldn't yet hold.
+
+And the wall went quiet.
+
+I noticed it the way you notice a clock stop, by the shape of the silence it leaves. There'd been the small settling sounds a house makes, the tick of cold in the pipes, the faint give of old joists. They thinned. They stopped. The house took on a held quiet, the listening kind I'd learned at the window and on the receiver, the quiet before the first knock in the dark, except it wasn't dark, it was grey afternoon, and there was no knock.
+
+The count didn't come up in the wall. It didn't climb. It didn't rest, the way it rests when the wind returns. It simply held, all through the falling of the snow, patient, with all its order, and waited.
+
+I knew that quiet. I'd heard it three nights running before the counting began. The house listens like that before it goes on with what it's doing. But it had always been a thing of the dark. Now it was here in the grey day, and the count wasn't climbing, and I understood that it wasn't climbing because it didn't need to.
+
+It had reckoned its sum the way I reckon mine. The lane was going. The world was being shut out by weather. There was no haste in a count whose last figure is a date, when the date is close, and the door is bolted, and the named thing it wants is sealed in a warm room watching the snow come down on the water.
+
+It could afford to be quiet. It had only to wait for the bridge.
+
+I left the window when the grey began to go toward true dark, and I went down the eleven treads in the silence the house was holding, and the silence came down with me, tread by tread, the held listening quiet of a thing that has done its counting and has all the night it wants. I didn't turn the lamp up, with a finger of oil left. I sat at the kitchen table in the last of the day with the closed notebook under my hand and the cold marbles in my pocket, and outside the snow turned to the sound of rain on the snow, a soft endless seething against the black glass, and somewhere down the lane, in the dark I couldn't see into, the culvert was filling.
