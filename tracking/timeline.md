@@ -143,3 +143,13 @@
 - Day 4, deep night: Iris puts her shoulder to the wind to shut the front door (a labour), leans on it breathless, re-affirms that no hand but hers shut it, and goes back down the hall to the kitchen.
 - Day 4, deep night: Iris sits at the table, opens the notebook to a clean page in the dark, holds the pencil over it and does not write; works the sum (four ways out all shut, the last by weather and no hand) to its total — Coldmere is sealed.
 - Day 4, deep night: the wall's listening quiet settles deeper and eases after the bridge falls (the house "knows" the bolt has gone across); Iris does not go up to the warm room, stays in the kitchen, leaves the lamp dark, and waits as the slope drains easy through the broken place.
+
+## Chapter 19
+
+- Day 4 (Sunday), dusk (continuing from ch18's deep-night sealing-in — the rain has since thinned toward evening and a little flat light returned under the breaking cloud): Iris rises from the kitchen, takes the unlit lamp, and goes up the eleven treads to the warm room, reversing her ch18 resolve to avoid the pond window.
+- Day 4, dusk: Iris keeps to the warm-room window (clear of the chair), arms folded, and looks down the slope at the pond — its ice now a thickened milky sheet in the last light.
+- Day 4, dusk: Iris sees the small, curled, child-sized shape held beneath the ice in the deep middle of the pond; she reads it by dimension/position/condition and is certain it was not there the day before.
+- Day 4, dusk: Iris works the sum (the emptied-but-for-the-boy pond, Danny's name in Edith's hand, the made-up room, the climbing count's dated top, the storm's bolt) and deduces the house has brought the boy out under a laid-down lid of new ice to be shown to her.
+- Day 4, dusk: Iris understands (without turning) that the chair behind her has refilled its dent and that the held thing in the chair (Edith) and the shape under the ice are the same kind of thing — the keeper and the held.
+- Day 4, dusk into full dark: Iris stands at the glass as the light fails; the milky sheet glows pale, then darkens; the shape's edge blurs and is lost; she refuses to go down to the pond, holding to the window.
+- Day 4, full dark: Iris leaves the warm room and goes down the eleven treads in the dark (the warmth releasing her partway to the cold), the chair holding its dent and the pond holding its shape under the new ice, all of it waiting for her to come down to the water of her own accord in the morning.

@@ -1,5 +1,5 @@
 phase: writing
-current_chapter: 18
+current_chapter: 19
 total_chapters: 25
 chapters:
   ch01:
@@ -139,6 +139,14 @@ chapters:
     compliance_violations: 0
     fix_passes: 0
   ch18:
+    status: committed
+    word_count: 1832
+    input_tokens: 0
+    output_tokens: 6914
+    cost: 0.1729
+    compliance_violations: 0
+    fix_passes: 0
+  ch19:
     status: writing
     word_count: 0
     input_tokens: 0
@@ -156,14 +164,14 @@ beat_verified: {}
 publisher_consensus_count: 0
 publishing_status: {}
 costs:
-  writing: 4.320699999999999
+  writing: 4.547099999999999
   review: 0.0
   publishing: 0.0
-  total: 4.320699999999999
+  total: 4.547099999999999
 review_log: []
 last_review_depth: ''
 last_audit_date: ''
 last_audit_path: ''
 last_audit_criticals: -1
 created_at: '2026-06-29T23:09:53.956315+00:00'
-updated_at: '2026-06-30T00:20:09.989998+00:00'
+updated_at: '2026-06-30T00:22:55.484843+00:00'
