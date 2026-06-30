@@ -248,3 +248,20 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - Iris privately, fully accepts what the register/count counts and what the house does (settles it "down into the place where I keep the things I believe"), still without naming the house's nature outright (reserved for ch21).
 - The count does not sound this chapter; the wall above holds its quiet, "with all its order," waiting for the dark.
 - The nineteen marbles (one red) are implicitly still on Iris (not re-noted in scene; carried from ch6).
+
+## Chapter 15
+
+- Day 3 (Saturday), afternoon (continuing from ch14's noon at the ledgers): Iris goes up to the warm room with her steel tape and the floor plan to measure the one room she had never measured.
+- Iris's tape is a ten-foot steel tape in a spring case (it rattles closing); she measures longer runs in two pulls, marking the floor at ten feet and continuing from the mark.
+- MEASURED FACT (the impossible measurement, ch15 payoff + ch21 setup): the warm room measures 14 feet 2 inches deep, window wall to door.
+- MEASURED FACT: the adjacent box room (over the kitchen) measures 9 feet deep, outer wall to passage; the bathroom and every back-range room with a window on the pond run the same ~9 feet (the honest depth of the house, confirmed by Iris's by-eye pacing of the exterior on the first evening, ch1).
+- DEDUCTION: the warm room is ~5 feet deeper than the wall that holds it — 5 feet of room where there is no house to contain it. The window, set flush in a 4-inch plaster reveal in the outer wall, stands 5 feet "proud" of where that outer wall actually is.
+- Iris measures the warm room twice and gets 14 ft 2 in both pulls (her "measure twice" rule); the confirmation is what damns it, not her error.
+- Iris reasons through and discards rational alibis (double wall, chimney breast, packed void, Victorian doubling): a window set forward in 5 feet of wall would sit down a shaft, but this one is flush with an honest 4-inch reveal and open air beyond the glass.
+- Iris frames the room in her own catalog terms as "a marriage" / "a made-up piece" — an object whose parts do not agree, found out by measuring; "the tape does not forgive."
+- Iris ties this to her ch1 note (roughly one yard of depth unaccounted downstairs): the missing depth "came up here and grew" — a yard below, five feet above.
+- The warm room's air remains blood-warm while every measured surface (glass, plaster, boards) is cold.
+- Iris records the figures on the back of the floor plan, under her first-night warm-room note, with the line "Room 14 ft 2. Wall 9 ft. Window stands 5 ft proud of a wall it sits flush in," and pointedly does NOT underline it (no doubt to revisit).
+- Iris leaves her pencil mark on the floorboard at ten feet; does not sit in or go near Edith's chair; leaves and measures nothing else that day.
+- Iris's physical state: two days' bad sleep, unfed ("nothing in me"); functional but worn (consistent with the condition ledger).
+- The pond is visible from the warm-room window, ~80 yards downslope, now skinned with grey ice that was not there a week ago.

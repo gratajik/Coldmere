@@ -269,6 +269,7 @@ The house is the antagonist; its "plans" are the count's logic, hidden beneath m
 | Condition: | Iris | 18 | `\bCondition:` | Catalog opener (signature, fixed form). Reserve for genuine beats; do not open four chapters running with it. |
 | provenance | Iris | 12 | `\bprovenance\b` | Secondary catalog noun |
 | I logged it / I wrote it down anyway | Iris | 12 | `\bI\s+(?:logged\s+it;;wrote\s+(?:it\s+)?down(?:\s+anyway)?)\b` | Filing-as-armor tag |
+| set it down / on the record | Iris | 12 | `(?i)\b(?:on the record;;for the record;;set (?:it;;this;;that;;the rest;;them) down;;I want (?:it;;this;;that;;the next part) (?:down;;on the record);;let (?:that;;this;;it) (?:stand;;be set))\b` | MODEL FINGERPRINT (recurs across books regardless of POV), not a true character tic. Fits Iris's cataloguer voice so keep a TIGHT allowance, not zero; ran 4-7/ch in the draft. Cap hard, vary the phrasing, never open or close consecutive chapters with it. |
 | the steadying count (Iris) | Iris | 10 | `\b(?:One\.\s*Two\.;;counted\s+to\s+steady;;I\s+counted\s+the\s+\w+)` | Iris's own counting to self-soothe; distinct from the house's count |
 | some part of her / a part of me | Iris | 8 | `(?:[\w-]+\s+){0,2}(?:part;;corner;;portion;;place)\s+of\s+(?:me;;her;;herself;;myself)` | INTERIOR CONSTRUCT — budget the family low, never the spelling. Sprawl risk. |
 | the count (motif) | manuscript | 45 | `\bthe\s+count\b;;counting\s+in\s+the\s+wall;;the\s+counting\b` | Load-bearing central motif; high budget but still capped (Marrow x501 case). Numerals themselves not counted. |

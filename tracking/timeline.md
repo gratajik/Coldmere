@@ -109,3 +109,11 @@
 - Day 3, noon: Iris traces the name with her finger, counts the letters to no steadying effect, and reaches the deduction that Danny did not drown but was written into the register; she rises and lays her hand flat over the line.
 - Day 3, noon: Iris reframes Edith's turning the children out to the grounds, reframes her own thirty-year guilt (the looking-away was the door, not the cause), turns the photograph face-up, then shuts it in the drawer.
 - Day 3, past noon: Iris reads the line once more plainly, leaves the ledger OPEN on the desk in the white light, and registers the count's continuing silence in the wall above as she fully accepts what the house does.
+
+## Chapter 15
+
+- Day 3 (Saturday), afternoon (straight on from ch14's noon at the study desk): Iris carries the steel tape and the floor plan up the eleven treads to the warm room.
+- Day 3, afternoon: Iris measures the warm room's depth (window wall to door) in two pulls of the ten-foot tape: 14 ft 2 in.
+- Day 3, afternoon: Iris measures the box room and bathroom and confirms the back range of the house runs ~9 ft deep, room on room.
+- Day 3, afternoon: Iris re-measures the warm room (her measure-twice rule), gets 14 ft 2 in again, and works the sum — the room is ~5 ft deeper than the wall allows; the flush-set window stands 5 ft proud of the outer wall.
+- Day 3, afternoon: Iris reasons through and rejects every rational explanation, ties the discrepancy to her ch1 "roughly one yard unaccounted" note, records the figures (unlined) on the back of the plan, and leaves the warm room, measuring nothing else that day.
