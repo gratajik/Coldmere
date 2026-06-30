@@ -195,3 +195,20 @@ These EXCEPTION blocks declare voice-card-prescribed patterns that would otherwi
 - Iris lets the curtain fall and deliberately does NOT look again — refusing both possibilities (the figure still there, or gone back into the dark) as unbearable.
 - For the third time (cf. ch8 ledgers, ch10 the failed departure) Iris does NOT take up her pencil to log the event: "there is no column for a woman who stood at a window and saw her dead brother's height at the water and would not go down."
 - The nineteen marbles (one red) remain cold against Iris's leg; she holds the lamp in her lap through the dawn, sitting with her back to the dark window.
+
+## Chapter 12
+
+- Danny drowned in July, in a hot summer, when Iris was nine and Danny was seven (consistent with thirty years ago).
+- Iris and Danny were sent to stay a fortnight at Coldmere with Great-Aunt Edith, who plainly did not want them; their mother brought them down Fen Lane and was still at the house (in the kitchen with Edith) when Danny drowned.
+- Edith kept to her rooms; the children were turned out to the grounds in the mornings.
+- Danny's red marble is specifically a large red glass marble with a white twist in it — his best, which he would not trade and kept separate in his fist when playing. This is the "red one" he always took, and it is one of the nineteen marbles Iris pocketed (ch6).
+- Danny originally kept the nineteen marbles in a cloth bag with a drawstring.
+- The drowning sequence: at the pond's near edge (rough black ground above the bank), Danny was rolling marbles down the slope; he asked Iris to "watch this one" and rolled the red; she looked up only briefly, then returned to her book. He got to the water (Iris surmises: a marble/the red one rolled into the shallows and he after it) and went under without a sound.
+- Iris was reading a book and looked up to ask Danny the meaning of a word; he was already gone. She saw only the rings going out on the flat water, then the surface closing; no splash, no cry.
+- IRIS'S CORE SECRET CONFIRMED ON-PAGE: in the half-second before she saw the rings, Iris saw her own reflection (sun behind her) in the water — she was looking at her own face the moment her brother drowned. She has never told anyone this. This is the bottom of her private "drawer" (the secret named in story.md).
+- Iris ran into the pond to her knees groping in cold, brown, opaque water (you cannot see your own foot in it); she screamed; a window opened up the slope.
+- Iris's mother and men (the farmer and his son from the one working farm — before Fen Lane "went to nothing") searched the water; they dragged the pond for two days.
+- What the two-day dragging brought up (Iris's by-heart inventory): weed (in long brown ropes), a man's old boot (not Danny's), a rusted bicycle frame no one could name, a length of chain, and (on the second day) a sodden coat from some other year. Never Danny's body.
+- The farmer told them "the water keeps what it takes" — meant kindly (to stop the search). The official record: a drowning, body not recovered.
+- Iris's whole adult vocation (estate clearance, looking hard at every object, never looking away) is explicitly a penance built on the looking-away — specifically that she was admiring her own face when Danny drowned.
+- Iris realizes/confirms she took the nineteen marbles off the shelf with her own hand because part of her had known since crossing the threshold whose room it was and wanted Danny's red marble back in a Pell hand "before the end."

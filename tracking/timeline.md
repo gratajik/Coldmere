@@ -82,3 +82,13 @@
 - Day 3, the small hours: Iris sees the small upright figure at the pond's near edge, watches it a long time, reasons through and discards three explanations (deer, lost child, trespasser), and is held by the matching height.
 - Day 3, the small hours: the buried memory of that summer surfaces fully (she looked away at nine, Danny gone with the red marble, the two-day dragging that found nothing); the longing to go down and the terror of it hold her at the glass, shaking, and she does not go.
 - Day 3, toward gray morning: Iris lets the curtain fall, turns her back to the window, does not look again, returns to the kitchen chair, does not log the event, and sits with the cold marbles and the lamp in her lap as the gray comes up.
+
+## Chapter 12
+
+- Day 3 (Saturday), gray dawn into full white morning (continuing straight from ch11's vigil): Iris's lamp burns out; she sits in the kitchen as the morning comes up, the drawer of grief open and unable to shut, and resolves to set the memory down.
+- MEMORY (thirty years ago, July, a hot summer): Iris (9) and Danny (7) are left a fortnight at Coldmere with Edith; the children are turned out to the grounds.
+- MEMORY: at the pond's near edge in the heat, Danny rolls marbles down the slope and asks Iris to watch the red one; she glances up, confirms it ran furthest, returns to her book.
+- MEMORY: Iris looks up later to ask Danny a word; he is gone; she sees the rings going out and the surface closing — and, in the half-second before, her own reflection (the secret). She runs into the water, screams; a window opens.
+- MEMORY: Iris's mother and the farmer and his son search the water as the light fails; Iris is sent to the drawing-room window and watches the lamps on the black water.
+- MEMORY (two days): the pond is dragged; it yields weed, a boot, a bicycle frame, a chain, a sodden old coat — never Danny. The farmer says "the water keeps what it takes"; recorded as a drowning, body not recovered. The Pells drive back up Fen Lane with one empty seat.
+- Day 3, full morning: back in the present, Iris sits with the nineteen marbles (one red) cold against her leg and understands the house did not pocket them — she did, knowingly, at some buried level; she reconsiders the farmer's old words.
