@@ -202,34 +202,34 @@ chapters:
     cost: 0.0
     compliance_violations: 0
     fix_passes: 0
-review_pass: 1
+review_pass: 2
 review_converged: false
 review_stopped_unconverged: false
 last_review_hashes:
-  1: aa49ed20e5a17da1d5cda771c6fe4428
-  2: fef2fc8ce91dc726780620a5714a5499
-  3: 8261727aa159bffa0b23900c9989f724
-  4: 121d113dc886d0b5d2f1815f12a3af73
-  5: 14ea57965bb32d87e8cb08aeb96da9fa
-  6: 12f954f62a3aa7fa0cafd70ec2bdebaa
-  7: 338e60980ea22e392ac5eb09e50f8296
-  8: 1abeb20c1c42774b1073ddd614c54c76
-  9: a8db5e54198717871ffd841f8b0ab56e
-  10: 34468045984405ed690b99c0d51fddb1
-  11: 1e9cd86e584da4baa38ffd83babfeab7
-  12: b0c75487208f8a25dcf30665d9e02b4c
-  13: 9c9852aa28d890d5393637ab422027c5
-  14: 436361e6b9b5b94925cca6f93d6d2e94
-  15: eea353c4cdac04a23473158627a9bde3
-  16: dd05d0e84d2be39e478567c45342a496
+  1: 4c08162bfe1cd9384cf5a799850d8ed3
+  2: 4f9eaea1448e06fd984e8a7a55a56132
+  3: 0e8cfa7e803a7adc6771fd18a577e211
+  4: 305009a5c9ceefa0c8ecac2e7b9c8039
+  5: 44f71a041bd2857d55eb2cd13650ee17
+  6: 75ad665c9c9bb6cb88dadcef238e7d68
+  7: 6eccb00a0ad49fe733aec4fb03f1a229
+  8: acf6c42ba79ff1684e1e388e973e6a74
+  9: 81e0ced7b31e9957e63f7dbfd64bddeb
+  10: 0bb9847b7abd718bc5e4bd524dcc8409
+  11: bc15ac1be27f0cc3f5ec70c0ea5b4381
+  12: 13eaef1fad60ac0a9ade7af5ff7827de
+  13: 14b1ba6ff7d1f12c4693332f7a7939c1
+  14: b24c9467e0b5233585d1f9fc5157fd6a
+  15: 486fa3e32d413eccda5bda76c6cb23c5
+  16: f84261a84220533759250fc7b7f5c0d4
   17: 6383d4451153ae4b9707408b8f79093b
-  18: 1030bbbbe191281e90306ed94278bcd0
-  19: fe8579728743a912d77f7feae04b1b8e
-  20: f96b3f8f62408ec5b90e859a03e0ca66
-  21: 1be0d48b3616bd368851fc9de16abe2d
-  22: 07baf0a07f9907f2035356156d4522ad
-  23: 4b4c90d688243538ff727caccaea6d46
-  24: 3222fa514fa9161c9064f2accdee045f
+  18: a9318bb3dc423a91702d6cf8fbef6a4a
+  19: cafa364f15f1ba39d60a1e93e77f3bc8
+  20: 195fbe6c9db5a18fe5c9c6447487e376
+  21: 727cdf5e6466bb207fd6bc037f950cc4
+  22: 1f8fe6c7117a93b0cdaf618bd9340d5a
+  23: 520bc6659466f1013cab4a650213e5dd
+  24: 5b262c790e306a0322b9b4868a58b8cf
   25: 926d5ed6dfaa58aebccd47fdd2fbdea6
 contract_verified: {}
 timeline_verified:
@@ -257,38 +257,38 @@ timeline_verified:
   '22': 1f8fe6c7117a93b0cdaf618bd9340d5a:2760b2ea
   '21': 727cdf5e6466bb207fd6bc037f950cc4:2760b2ea
 beat_verified:
-  '1': aa49ed20e5a17da1d5cda771c6fe4428
-  '2': fef2fc8ce91dc726780620a5714a5499
-  '3': 8261727aa159bffa0b23900c9989f724
-  '4': 121d113dc886d0b5d2f1815f12a3af73
-  '5': 14ea57965bb32d87e8cb08aeb96da9fa
-  '6': 12f954f62a3aa7fa0cafd70ec2bdebaa
-  '7': 338e60980ea22e392ac5eb09e50f8296
-  '8': 1abeb20c1c42774b1073ddd614c54c76
-  '9': a8db5e54198717871ffd841f8b0ab56e
-  '10': 34468045984405ed690b99c0d51fddb1
-  '11': 1e9cd86e584da4baa38ffd83babfeab7
-  '12': b0c75487208f8a25dcf30665d9e02b4c
-  '13': 9c9852aa28d890d5393637ab422027c5
-  '14': 436361e6b9b5b94925cca6f93d6d2e94
-  '15': eea353c4cdac04a23473158627a9bde3
-  '16': dd05d0e84d2be39e478567c45342a496
+  '1': 4c08162bfe1cd9384cf5a799850d8ed3
+  '2': 4f9eaea1448e06fd984e8a7a55a56132
+  '3': 0e8cfa7e803a7adc6771fd18a577e211
+  '4': 305009a5c9ceefa0c8ecac2e7b9c8039
+  '5': 44f71a041bd2857d55eb2cd13650ee17
+  '6': 75ad665c9c9bb6cb88dadcef238e7d68
+  '7': 6eccb00a0ad49fe733aec4fb03f1a229
+  '8': acf6c42ba79ff1684e1e388e973e6a74
+  '9': 81e0ced7b31e9957e63f7dbfd64bddeb
+  '10': 0bb9847b7abd718bc5e4bd524dcc8409
+  '11': bc15ac1be27f0cc3f5ec70c0ea5b4381
+  '12': 13eaef1fad60ac0a9ade7af5ff7827de
+  '13': 14b1ba6ff7d1f12c4693332f7a7939c1
+  '14': b24c9467e0b5233585d1f9fc5157fd6a
+  '15': 486fa3e32d413eccda5bda76c6cb23c5
+  '16': f84261a84220533759250fc7b7f5c0d4
   '17': 6383d4451153ae4b9707408b8f79093b
-  '18': 1030bbbbe191281e90306ed94278bcd0
-  '19': fe8579728743a912d77f7feae04b1b8e
-  '20': f96b3f8f62408ec5b90e859a03e0ca66
-  '21': 1be0d48b3616bd368851fc9de16abe2d
-  '22': 07baf0a07f9907f2035356156d4522ad
-  '23': 4b4c90d688243538ff727caccaea6d46
-  '24': 3222fa514fa9161c9064f2accdee045f
+  '18': a9318bb3dc423a91702d6cf8fbef6a4a
+  '19': cafa364f15f1ba39d60a1e93e77f3bc8
+  '20': 195fbe6c9db5a18fe5c9c6447487e376
+  '21': 727cdf5e6466bb207fd6bc037f950cc4
+  '22': 1f8fe6c7117a93b0cdaf618bd9340d5a
+  '23': 520bc6659466f1013cab4a650213e5dd
+  '24': 5b262c790e306a0322b9b4868a58b8cf
   '25': 926d5ed6dfaa58aebccd47fdd2fbdea6
 publisher_consensus_count: 0
 publishing_status: {}
 costs:
   writing: 7.1975999999999996
-  review: 1.1175000000000002
+  review: 2.4598
   publishing: 0.0
-  total: 8.315100000000001
+  total: 9.657400000000004
 review_log:
 - pass: 1
   agent: mechanical
@@ -344,9 +344,63 @@ review_log:
   cache_read_tokens: 0
   cache_write_tokens: 0
   cost: 0.0476
+- pass: 2
+  agent: mechanical
+  model: claude-haiku-4-5
+  source: proxy
+  input_tokens: 0
+  output_tokens: 5040
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0252
+- pass: 2
+  agent: story
+  model: claude-sonnet-4-6
+  source: proxy
+  input_tokens: 0
+  output_tokens: 17100
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.2565
+- pass: 2
+  agent: publisher
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 0
+  output_tokens: 9440
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.236
+- pass: 2
+  agent: voice
+  model: claude-sonnet-4-6
+  source: api
+  input_tokens: 6076
+  output_tokens: 16518
+  cache_read_tokens: 22908
+  cache_write_tokens: 74506
+  cost: 0.7017
+- pass: 2
+  agent: matrix
+  model: claude-haiku-4-5
+  source: proxy
+  input_tokens: 0
+  output_tokens: 8826
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0441
+- pass: 2
+  agent: reader
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 0
+  output_tokens: 2764
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0691
 last_review_depth: ''
 last_audit_date: ''
 last_audit_path: ''
 last_audit_criticals: -1
 created_at: '2026-06-29T23:09:53.956315+00:00'
-updated_at: '2026-06-30T01:11:58.027552+00:00'
+updated_at: '2026-06-30T01:24:04.293494+00:00'
