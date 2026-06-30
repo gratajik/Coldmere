@@ -232,7 +232,30 @@ last_review_hashes:
   24: 3222fa514fa9161c9064f2accdee045f
   25: 926d5ed6dfaa58aebccd47fdd2fbdea6
 contract_verified: {}
-timeline_verified: {}
+timeline_verified:
+  '7': 6eccb00a0ad49fe733aec4fb03f1a229:2760b2ea
+  '10': 0bb9847b7abd718bc5e4bd524dcc8409:2760b2ea
+  '12': 13eaef1fad60ac0a9ade7af5ff7827de:2760b2ea
+  '5': 44f71a041bd2857d55eb2cd13650ee17:2760b2ea
+  '1': 4c08162bfe1cd9384cf5a799850d8ed3:2760b2ea
+  '24': 5b262c790e306a0322b9b4868a58b8cf:2760b2ea
+  '23': 520bc6659466f1013cab4a650213e5dd:2760b2ea
+  '3': 0e8cfa7e803a7adc6771fd18a577e211:2760b2ea
+  '2': 4f9eaea1448e06fd984e8a7a55a56132:2760b2ea
+  '4': 305009a5c9ceefa0c8ecac2e7b9c8039:2760b2ea
+  '6': 75ad665c9c9bb6cb88dadcef238e7d68:2760b2ea
+  '8': acf6c42ba79ff1684e1e388e973e6a74:2760b2ea
+  '9': 81e0ced7b31e9957e63f7dbfd64bddeb:2760b2ea
+  '11': bc15ac1be27f0cc3f5ec70c0ea5b4381:2760b2ea
+  '16': f84261a84220533759250fc7b7f5c0d4:2760b2ea
+  '13': 14b1ba6ff7d1f12c4693332f7a7939c1:2760b2ea
+  '14': b24c9467e0b5233585d1f9fc5157fd6a:2760b2ea
+  '15': 486fa3e32d413eccda5bda76c6cb23c5:2760b2ea
+  '18': a9318bb3dc423a91702d6cf8fbef6a4a:2760b2ea
+  '20': 195fbe6c9db5a18fe5c9c6447487e376:2760b2ea
+  '19': cafa364f15f1ba39d60a1e93e77f3bc8:2760b2ea
+  '22': 1f8fe6c7117a93b0cdaf618bd9340d5a:2760b2ea
+  '21': 727cdf5e6466bb207fd6bc037f950cc4:2760b2ea
 beat_verified:
   '1': aa49ed20e5a17da1d5cda771c6fe4428
   '2': fef2fc8ce91dc726780620a5714a5499
@@ -263,9 +286,9 @@ publisher_consensus_count: 0
 publishing_status: {}
 costs:
   writing: 7.1975999999999996
-  review: 0.6774000000000001
+  review: 1.1175000000000002
   publishing: 0.0
-  total: 7.874999999999999
+  total: 8.315100000000001
 review_log:
 - pass: 1
   agent: mechanical
@@ -326,4 +349,4 @@ last_audit_date: ''
 last_audit_path: ''
 last_audit_criticals: -1
 created_at: '2026-06-29T23:09:53.956315+00:00'
-updated_at: '2026-06-30T01:07:39.013153+00:00'
+updated_at: '2026-06-30T01:11:58.027552+00:00'

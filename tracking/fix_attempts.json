@@ -1,0 +1,1374 @@
+{
+  "808dedb43f1e": {
+    "title": "Ch17 'nor'easter' Word: False-Positive Scan",
+    "chapters": [
+      17
+    ],
+    "severity": "minor",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "apos",
+      "appe",
+      "ch17",
+      "coas",
+      "corr",
+      "draw",
+      "east",
+      "fals",
+      "form",
+      "insp",
+      "nor",
+      "off",
+      "phra",
+      "posi",
+      "scan",
+      "susp",
+      "word"
+    ],
+    "quotes": [
+      "easter, off the coast, drawing in",
+      "easter"
+    ]
+  },
+  "531eed9f116f": {
+    "title": "Ch22 closing line declares resolution that ch23 should enact",
+    "chapters": [
+      22
+    ],
+    "severity": "minor",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "anno",
+      "arc",
+      "call",
+      "ch22",
+      "ch23",
+      "clos",
+      "deci",
+      "decl",
+      "earn",
+      "emot",
+      "enac",
+      "ends",
+      "foun",
+      "goin",
+      "iris",
+      "line",
+      "pay",
+      "reso"
+    ],
+    "quotes": [
+      "found I was not going to pay it"
+    ]
+  },
+  "d62ce785bb1f": {
+    "title": "Gloss sentences explain images the scene already delivered",
+    "chapters": [
+      20,
+      23
+    ],
+    "severity": "major",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "accu",
+      "alre",
+      "appe",
+      "ch20",
+      "cold",
+      "deli",
+      "expl",
+      "glos",
+      "imag",
+      "perf",
+      "scen",
+      "sent",
+      "wron"
+    ],
+    "quotes": [
+      "The accuracy was the wrong of it...the thing in the doorway did",
+      "A thing burned and drowned was finished both ways",
+      "The accuracy was the wrong of it and the number was the deepest part of the wrong, because the boy I lost didn",
+      "Delete ch23"
+    ]
+  },
+  "ba03af84e1e8": {
+    "title": "Ch19: withheld term 'keeper' used as recognized category noun before ch21 reveal",
+    "chapters": [
+      19
+    ],
+    "severity": "major",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 1,
+    "last_pass": 1,
+    "status": "active",
+    "first_seen_pass": 1,
+    "tokens": [
+      "cate",
+      "ch19",
+      "ch21",
+      "iris",
+      "keep",
+      "name",
+      "noun",
+      "reco",
+      "reve",
+      "sett",
+      "term",
+      "thes",
+      "thos",
+      "trea",
+      "voca",
+      "with"
+    ],
+    "quotes": [
+      "those settled and the keeper",
+      "s function. The withheld-terms table reserves",
+      "keeping",
+      "s entry but has not yet read Edith",
+      "s own taxonomy as her own cognitive vocabulary. FIND (ch19):",
+      "\u2014 REPLACE:",
+      ". Ch19: withheld term"
+    ]
+  },
+  "7c5bba73d943": {
+    "title": "Ch11: single 60-word run-on sentence in stress passage",
+    "chapters": [
+      11
+    ],
+    "severity": "minor",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "card",
+      "ch11",
+      "frag",
+      "hard",
+      "iris",
+      "lean",
+      "neve",
+      "part",
+      "pass",
+      "run",
+      "sent",
+      "sing",
+      "some",
+      "spec",
+      "stre",
+      "voic",
+      "walk",
+      "word"
+    ],
+    "quotes": [
+      "never run-on, fragment-leaning, hard",
+      "It pulled at me the way the slope pulls a thing toward the pond.",
+      "It pulled the way the slope pulls something toward the water.",
+      "\u2014 REPLACE:"
+    ]
+  },
+  "7c35711d986a": {
+    "title": "Ch21: meta-commentary on own narrating strategy (minor late-arc voice drift)",
+    "chapters": [
+      21
+    ],
+    "severity": "minor",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "arc",
+      "cata",
+      "ch21",
+      "colu",
+      "comm",
+      "cont",
+      "drif",
+      "her",
+      "iris",
+      "late",
+      "left",
+      "merc",
+      "meta",
+      "mino",
+      "narr",
+      "only",
+      "own",
+      "stra",
+      "voic"
+    ],
+    "quotes": [
+      "the catalog has the column for it, which is the only mercy left to me",
+      "the catalog has a column for it."
+    ]
+  },
+  "892ef6fab458": {
+    "title": "Ch6: proximity of gerund 'keeping' to withheld-term register",
+    "chapters": [
+      6
+    ],
+    "severity": "minor",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "ch6",
+      "clea",
+      "geru",
+      "iris",
+      "keep",
+      "logg",
+      "note",
+      "ordi",
+      "prox",
+      "reco",
+      "regi",
+      "term",
+      "usag",
+      "voic",
+      "with"
+    ],
+    "quotes": [
+      "keeping the record",
+      "s notebook-logging voice. The usage is clearly not the withheld-term supernatural sense but the proximity to the house",
+      "the record is how I stay the person holding the pencil",
+      "keeping"
+    ]
+  },
+  "e71d1944795c": {
+    "title": "Ch17: scanner-flagged 'nor'easter' \u2014 confirmed false positive",
+    "chapters": [
+      17
+    ],
+    "severity": "minor",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "amer",
+      "auto",
+      "ch17",
+      "conf",
+      "east",
+      "engl",
+      "fals",
+      "fuse",
+      "nor",
+      "posi",
+      "scan",
+      "spel",
+      "spli",
+      "stan",
+      "stor",
+      "word"
+    ],
+    "quotes": [
+      "easter",
+      "northeaster"
+    ]
+  },
+  "3a27f6a4483d": {
+    "title": "Ch16 over-establishes the tally before the deduction",
+    "chapters": [
+      16
+    ],
+    "severity": "minor",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "aban",
+      "bef",
+      "ch16",
+      "dedu",
+      "esta",
+      "iris",
+      "long",
+      "maki",
+      "mark",
+      "nigh",
+      "prog",
+      "reci",
+      "spen",
+      "stre",
+      "tall",
+      "thre"
+    ],
+    "quotes": [
+      "a tally is marks for the shape not the sense",
+      "it isn"
+    ]
+  },
+  "53ab4e438121": {
+    "title": "'The room was warm' as a receipt is explained twice in ch14",
+    "chapters": [
+      14
+    ],
+    "severity": "minor",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "ch13",
+      "ch14",
+      "comf",
+      "deco",
+      "expl",
+      "fres",
+      "glos",
+      "idea",
+      "insi",
+      "mark",
+      "rece",
+      "room",
+      "twic",
+      "warm"
+    ],
+    "quotes": [
+      "the warmth is not a comfort, the warmth is a receipt",
+      "s name landing in Edith",
+      "the warmth is the mark of a fresh name... a receipt",
+      "The room was warm",
+      "s entry unglossed \u2014 the reader has the meaning from ch13, and the bare four words hit harder unexplained."
+    ]
+  },
+  "aa774cf876fa": {
+    "title": "Garbled quote markup",
+    "chapters": [
+      17
+    ],
+    "severity": "major",
+    "original_strategy": "surgical",
+    "current_strategy": "surgical",
+    "attempts": 1,
+    "last_pass": 1,
+    "status": "active",
+    "first_seen_pass": 1,
+    "tokens": [
+      "came",
+      "ch17",
+      "chec",
+      "dete",
+      "east",
+      "fuse",
+      "garb",
+      "ice",
+      "mark",
+      "near",
+      "nor",
+      "pond",
+      "quot",
+      "spli",
+      "word"
+    ],
+    "quotes": [
+      "easter",
+      "...ice came on the pond. A nor'easter, off the coast, drawing..."
+    ]
+  },
+  "5524a60e34cd": {
+    "title": "Ch12 Backstory Paragraphs Exceed 5-Sentence Guideline",
+    "chapters": [
+      12
+    ],
+    "severity": "minor",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "adds",
+      "back",
+      "ch12",
+      "cont",
+      "exce",
+      "grie",
+      "guid",
+      "inte",
+      "long",
+      "mult",
+      "narr",
+      "para",
+      "reca",
+      "regi",
+      "sent"
+    ],
+    "quotes": []
+  },
+  "408cb752c052": {
+    "title": "House extends warmth and sourceless light to front door \u2014 unestablished capability",
+    "chapters": [
+      24
+    ],
+    "severity": "critical",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "boun",
+      "capa",
+      "cold",
+      "door",
+      "esta",
+      "ever",
+      "exte",
+      "fron",
+      "hall",
+      "hous",
+      "ligh",
+      "mech",
+      "prio",
+      "room",
+      "sour",
+      "stai",
+      "unes",
+      "warm"
+    ],
+    "quotes": []
+  },
+  "f27dd90f74e1": {
+    "title": "Clinching proof of inhuman knowledge relies on detail Iris has already narrated",
+    "chapters": [
+      20
+    ],
+    "severity": "major",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "aliv",
+      "alre",
+      "cita",
+      "clin",
+      "dann",
+      "deta",
+      "hold",
+      "inhu",
+      "iris",
+      "kept",
+      "knew",
+      "know",
+      "marb",
+      "narr",
+      "one",
+      "pres",
+      "proo",
+      "red",
+      "reli",
+      "thin"
+    ],
+    "quotes": [
+      "s citation of the kept red marble is presented as proof",
+      "s full confession and not accessible via Iris"
+    ]
+  },
+  "d811c8424519": {
+    "title": "Ch24 door scene requires cognitive clarity and motor control the condition ledger explicitly denies",
+    "chapters": [
+      23,
+      24
+    ],
+    "severity": "major",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 1,
+    "last_pass": 1,
+    "status": "active",
+    "first_seen_pass": 1,
+    "tokens": [
+      "cann",
+      "ch24",
+      "clar",
+      "cogn",
+      "coll",
+      "cond",
+      "cont",
+      "deni",
+      "door",
+      "dyin",
+      "exha",
+      "expl",
+      "hypo",
+      "ledg",
+      "moto",
+      "poss",
+      "requ",
+      "scen",
+      "spec",
+      "stan",
+      "stor",
+      "unai"
+    ],
+    "quotes": [
+      "s condition ledger specifies ch24 as",
+      "s stress register. Cut the passage beginning",
+      "t know about the warm room"
+    ]
+  },
+  "0c49a321b4e3": {
+    "title": "Final ledger entry stages its reveal twice and abstracts the name",
+    "chapters": [
+      25
+    ],
+    "severity": "major",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 1,
+    "last_pass": 1,
+    "status": "active",
+    "first_seen_pass": 1,
+    "tokens": [
+      "abst",
+      "arch",
+      "carr",
+      "coda",
+      "colu",
+      "entr",
+      "ever",
+      "fina",
+      "ledg",
+      "name",
+      "own",
+      "prio",
+      "pro",
+      "reve",
+      "stag",
+      "twic",
+      "wide"
+    ],
+    "quotes": [
+      "s final entry uses the abstract",
+      "s own.",
+      "Marian Webb.",
+      "Kept on.",
+      "a word she has used herself ten thousand times"
+    ]
+  },
+  "29d7282af4f0": {
+    "title": "Ch12: record-keeping meta-narration over chapter budget (8 instances, cap 6)",
+    "chapters": [
+      12
+    ],
+    "severity": "major",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 1,
+    "last_pass": 1,
+    "status": "active",
+    "first_seen_pass": 1,
+    "tokens": [
+      "agai",
+      "budg",
+      "cap",
+      "ch12",
+      "cha",
+      "cont",
+      "down",
+      "fami",
+      "keep",
+      "meta",
+      "narr",
+      "patt",
+      "reco",
+      "set",
+      "want"
+    ],
+    "quotes": [
+      "on/for the record / set it down / I want this down",
+      "I want to put down what I didn",
+      "s the exact shape of it.",
+      "What I didn",
+      "ll give the inventory because I have it by heart, the way I have every inventory by heart, it",
+      "I have the inventory by heart; it",
+      "I want to set down what I did with my hands",
+      "I set down what I did with my hands"
+    ]
+  },
+  "f88115e6aba1": {
+    "title": "Ch21\u201322 re-derive what the reader already knows from ch16",
+    "chapters": [
+      21,
+      22
+    ],
+    "severity": "major",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "alre",
+      "ch16",
+      "ch21",
+      "coun",
+      "deri",
+      "edit",
+      "end",
+      "full",
+      "kep",
+      "know",
+      "lot",
+      "mark",
+      "read",
+      "regi",
+      "room",
+      "unde",
+      "warm"
+    ],
+    "quotes": [
+      "the warm room runs warm when a name is fresh / the count climbs the column / the lot is a line in this book",
+      "s own name, dated the frost, condition blank) faster. In ch22, cut the re-statement of Edith",
+      "s faltering-hand prose,",
+      "the deliberate leaving of the ledgers for the next keeper, Iris"
+    ]
+  },
+  "07af152e57a2": {
+    "title": "Ch 5 opens on a day/time stamp inside a back-to-back cluster",
+    "chapters": [
+      5
+    ],
+    "severity": "minor",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "advi",
+      "back",
+      "clus",
+      "cons",
+      "day",
+      "esta",
+      "incl",
+      "insi",
+      "morn",
+      "next",
+      "open",
+      "stam",
+      "thur",
+      "time"
+    ],
+    "quotes": [
+      "The next morning\u2026",
+      "Thursday I\u2026"
+    ]
+  },
+  "dca490392e62": {
+    "title": "Ch 20 opens at 'the kitchen' \u2014 4 chapters open there",
+    "chapters": [
+      20
+    ],
+    "severity": "minor",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "advi",
+      "agen",
+      "judg",
+      "kitc",
+      "loca",
+      "open",
+      "read",
+      "same",
+      "surf",
+      "ther"
+    ],
+    "quotes": [
+      "the kitchen"
+    ]
+  },
+  "10bd5b2564ac": {
+    "title": "Climax mechanism framed as earned deduction rather than desperate wrong belief",
+    "chapters": [
+      23
+    ],
+    "severity": "critical",
+    "original_strategy": "structural",
+    "current_strategy": "structural",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "auth",
+      "beli",
+      "book",
+      "boy",
+      "burn",
+      "clim",
+      "come",
+      "corr",
+      "dedu",
+      "desp",
+      "earn",
+      "fram",
+      "iris",
+      "loos",
+      "mech",
+      "pres",
+      "rath",
+      "same",
+      "sto",
+      "wron"
+    ],
+    "quotes": [
+      "burn the book and the boy comes loose",
+      "s reversal read as a rules-change rather than an earned trap. Reframe the lines",
+      "burned and drowned is finished both ways, past gathering"
+    ]
+  },
+  "7d0c4a628ac8": {
+    "title": "Iris Uncontracted Forms Over Budget (4 Chapters)",
+    "chapters": [
+      7,
+      11,
+      12,
+      22
+    ],
+    "severity": "major",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 1,
+    "last_pass": 1,
+    "status": "active",
+    "first_seen_pass": 1,
+    "tokens": [
+      "auth",
+      "budg",
+      "exce",
+      "form",
+      "iris",
+      "narr",
+      "unco",
+      "voic"
+    ],
+    "quotes": [
+      "could not",
+      "couldn",
+      "would not",
+      "wouldn",
+      "; keep",
+      "for force. Ch11: contract",
+      "had not",
+      ". Ch12: contract"
+    ]
+  },
+  "bced0c9deed6": {
+    "title": "'the way X verbs Y' Simile Over-Budget by 80%",
+    "chapters": [],
+    "severity": "major",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "budg",
+      "char",
+      "grou",
+      "howe",
+      "noun",
+      "simi",
+      "verb",
+      "way"
+    ],
+    "quotes": [
+      "the way [noun] [verbs]",
+      "the way X verbs Y"
+    ]
+  },
+  "d0da2db10127": {
+    "title": "Warm-Room Motif +1 Over Budget",
+    "chapters": [
+      3,
+      9,
+      17,
+      19,
+      22,
+      25
+    ],
+    "severity": "minor",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "appe",
+      "budg",
+      "just",
+      "kept",
+      "moti",
+      "narr",
+      "over",
+      "room",
+      "sit",
+      "slig",
+      "time",
+      "warm",
+      "weig"
+    ],
+    "quotes": []
+  },
+  "80eef421040a": {
+    "title": "Reflection-in-the-pond secret disclosed in ch1, belongs to ch12",
+    "chapters": [
+      1,
+      12
+    ],
+    "severity": "major",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "abou",
+      "belo",
+      "ch1",
+      "ch12",
+      "dann",
+      "disc",
+      "full",
+      "her",
+      "narr",
+      "own",
+      "part",
+      "pond",
+      "refl",
+      "secr",
+      "sham",
+      "sinc",
+      "thir",
+      "watc",
+      "went",
+      "whil",
+      "year"
+    ],
+    "quotes": [
+      "since a particular afternoon when the thing I was watching in the water was my own face and not the boy beside me",
+      "s dark-window passage: remove",
+      "Trim to"
+    ]
+  },
+  "409c35081463": {
+    "title": "Ch25 hand-identification mechanism is thinly grounded \u2014 small sample sizes for the central revelation",
+    "chapters": [
+      25
+    ],
+    "severity": "major",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "cent",
+      "ch25",
+      "coda",
+      "crat",
+      "depe",
+      "grou",
+      "hand",
+      "iden",
+      "iris",
+      "ledg",
+      "mani",
+      "mari",
+      "mech",
+      "new",
+      "reve",
+      "samp",
+      "simu",
+      "size",
+      "smal",
+      "thin",
+      "trap"
+    ],
+    "quotes": [
+      "s trap depends on Marian identifying the new ledger",
+      "s (from the crate manifests) and Edith",
+      "s pencil notation). The burned ledgers are gone; Marian has only a photograph back-note as Edith"
+    ]
+  },
+  "64d52cbe24e3": {
+    "title": "Depth discrepancy between ch1 estimate (~1 yard) and ch15 measurement (~5 feet)",
+    "chapters": [
+      1,
+      15
+    ],
+    "severity": "minor",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "appr",
+      "betw",
+      "ch1",
+      "ch15",
+      "dept",
+      "disc",
+      "esti",
+      "exce",
+      "feet",
+      "give",
+      "marg",
+      "meas",
+      "note",
+      "tape",
+      "yard",
+      "yiel"
+    ],
+    "quotes": [
+      "s margin note gives the depth discrepancy as",
+      "s tape measurement yields 14",
+      "vs 9' = ~5'2",
+      "s margin note to"
+    ]
+  },
+  "79ada4b4ec06": {
+    "title": "'the count' / 'counting' density in ch16",
+    "chapters": [
+      16
+    ],
+    "severity": "minor",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "budg",
+      "ch16",
+      "coun",
+      "dens",
+      "disc",
+      "heav",
+      "lean",
+      "moti",
+      "only",
+      "over",
+      "prem",
+      "wide"
+    ],
+    "quotes": [
+      "the count",
+      "counting"
+    ]
+  },
+  "adf718019d39": {
+    "title": "'quiet / held / listening' clustering",
+    "chapters": [
+      17,
+      18
+    ],
+    "severity": "minor",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "ch17",
+      "clus",
+      "dens",
+      "dial",
+      "earn",
+      "enou",
+      "held",
+      "lag",
+      "larg",
+      "list",
+      "moti",
+      "quie",
+      "rhym",
+      "tone"
+    ],
+    "quotes": [
+      "listening quiet",
+      "held listening quiet",
+      "no tick of cold in the pipes now, no give in the joists",
+      "quiet / held / listening"
+    ]
+  },
+  "4a9eecf22a52": {
+    "title": "'I want that plain' preface recurs before back-half refusals",
+    "chapters": [
+      11,
+      19,
+      20,
+      24
+    ],
+    "severity": "minor",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "back",
+      "clea",
+      "ever",
+      "half",
+      "near",
+      "plai",
+      "pref",
+      "recu",
+      "refu",
+      "same",
+      "tele",
+      "thro",
+      "want"
+    ],
+    "quotes": [
+      "I want this plain",
+      "I want that plain, as I have wanted every refusal plain.",
+      "I did not go down to it.",
+      "I want that plain"
+    ]
+  },
+  "4c848606f982": {
+    "title": "Iris Pell: systemic uncontracted narration overrun (13 chapters)",
+    "chapters": [
+      2,
+      5,
+      6,
+      7,
+      9,
+      13,
+      14,
+      15,
+      16,
+      18,
+      19,
+      22,
+      24
+    ],
+    "severity": "major",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 1,
+    "last_pass": 1,
+    "status": "active",
+    "first_seen_pass": 1,
+    "tokens": [
+      "alwa",
+      "card",
+      "char",
+      "cont",
+      "exce",
+      "her",
+      "huma",
+      "iris",
+      "narr",
+      "over",
+      "pell",
+      "rule",
+      "syst",
+      "thir",
+      "unco",
+      "voic",
+      "who"
+    ],
+    "quotes": [
+      "I did not",
+      "I didn",
+      "I do not",
+      "I have not",
+      "I haven",
+      "She did not",
+      "She didn",
+      "There was no"
+    ]
+  },
+  "87ff5f080998": {
+    "title": "Marian Webb (ch25): uncontracted narration + Iris-voice convergence",
+    "chapters": [
+      25
+    ],
+    "severity": "major",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 1,
+    "last_pass": 1,
+    "status": "active",
+    "first_seen_pass": 1,
+    "tokens": [
+      "ch25",
+      "conv",
+      "form",
+      "huma",
+      "intr",
+      "iris",
+      "limi",
+      "mari",
+      "narr",
+      "new",
+      "pers",
+      "pov",
+      "she",
+      "thir",
+      "unco",
+      "voic",
+      "webb"
+    ],
+    "quotes": [
+      "s narration throughout ch25 \u2014 convert",
+      "etc. to contracted forms, retaining \u22642 uncontracted for emphasis. Keep the character-establishing line",
+      "By the time she has stepped back into the doorway the dent has re-formed, sinking under a weight that is not there.",
+      "t close it."
+    ]
+  },
+  "ee595215e096": {
+    "title": "Ch19 (shape under ice) repeats ch11's (figure at water) architecture",
+    "chapters": [
+      11,
+      19
+    ],
+    "severity": "major",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "arch",
+      "both",
+      "ch11",
+      "ch19",
+      "chil",
+      "deer",
+      "down",
+      "figu",
+      "form",
+      "her",
+      "ice",
+      "iris",
+      "look",
+      "pond",
+      "put",
+      "repe",
+      "run",
+      "shap",
+      "size",
+      "thro",
+      "tres",
+      "wate",
+      "wind"
+    ],
+    "quotes": [
+      "it was not here yesterday and it has been laid out for me,",
+      "is it a deer."
+    ]
+  },
+  "a78642b5eb2a": {
+    "title": "'No hand but mine shut the door / the house never touched me' dilutes by repetition",
+    "chapters": [
+      10,
+      18,
+      24
+    ],
+    "severity": "major",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 1,
+    "last_pass": 1,
+    "status": "active",
+    "first_seen_pass": 1,
+    "tokens": [
+      "book",
+      "ch10",
+      "dilu",
+      "door",
+      "expl",
+      "hand",
+      "her",
+      "hous",
+      "imag",
+      "impr",
+      "land",
+      "layi",
+      "mine",
+      "neve",
+      "powe",
+      "repe",
+      "shut",
+      "thes",
+      "touc",
+      "with"
+    ],
+    "quotes": [
+      "s thesis-image \u2014 the house imprisons her without laying a hand on her \u2014 lands powerfully at ch10, but the explicit",
+      "the weather is no one",
+      "restatement recurs in ch18 and again at the threshold logic of ch24, so the idea loses force each time it",
+      "s full statement (this is where it lands best). In ch18, cut the explicit",
+      "restatement and the",
+      "the house has not laid a hand on me",
+      "No hand but mine shut the door / the house never touched me"
+    ]
+  },
+  "ede6b39f2f84": {
+    "title": "Signature phrase 'set it down / on the record' over budget (25/12)",
+    "chapters": [
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      21,
+      22
+    ],
+    "severity": "major",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "appe",
+      "auth",
+      "budg",
+      "decl",
+      "down",
+      "phra",
+      "reco",
+      "set",
+      "sign",
+      "stor",
+      "tic",
+      "time"
+    ],
+    "quotes": [
+      "set it down / on the record"
+    ]
+  },
+  "87b0949b40d9": {
+    "title": "Possible name-form slip",
+    "chapters": [
+      12
+    ],
+    "severity": "minor",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "ch12",
+      "ch21",
+      "char",
+      "chec",
+      "dete",
+      "form",
+      "name",
+      "narr",
+      "othe",
+      "pell",
+      "poss",
+      "slip",
+      "stan"
+    ],
+    "quotes": [
+      "used standalone 2x in narration (ch12, ch21) but this character is otherwise"
+    ]
+  },
+  "4903ce17ba94": {
+    "title": "Possible name-form slip",
+    "chapters": [
+      8
+    ],
+    "severity": "minor",
+    "original_strategy": "cross_chapter",
+    "current_strategy": "cross_chapter",
+    "attempts": 0,
+    "last_pass": 0,
+    "status": "resolved",
+    "first_seen_pass": 1,
+    "tokens": [
+      "ch08",
+      "ch25",
+      "char",
+      "chec",
+      "dete",
+      "form",
+      "name",
+      "narr",
+      "othe",
+      "poss",
+      "slip",
+      "stan",
+      "vane"
+    ],
+    "quotes": [
+      "used standalone 2x in narration (ch08, ch25) but this character is otherwise"
+    ]
+  }
+}

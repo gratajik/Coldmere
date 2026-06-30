@@ -28,15 +28,30 @@
 | ch22 | committed | 1,933 | 0 | 8,080 | $0.20 |
 | ch23 | committed | 1,838 | 62,629 | 31,192 | $1.54 |
 | ch24 | committed | 1,580 | 0 | 6,193 | $0.15 |
-| ch25 | pending | - | - | - | - |
+| ch25 | writing | 0 | 0 | 0 | $0.00 |
+
+## Review Passes
+
+| Pass | Size | Sections |
+|---|---|---|
+| 1 | 231 KB | 7 parts |
+
+- **Review Passes:** 1
+- **Converged:** No
+
+## Fix Summary
+
+- **Edits Applied:** 50
+- **Edits Failed:** 0
+- **Hit Rate:** 100%
 
 ## Grand Totals
 
 - **Total Words:** 41,670
 - **Chapters Complete:** 24/25
-- **Est. Writing Cost:** $7.14
-- **Est. Review Cost:** $0.00
+- **Est. Writing Cost:** $7.20
+- **Est. Review Cost:** $1.12
 - **Est. Publishing Cost:** $0.00
-- **Est. Total Cost:** $7.14
+- **Est. Total Cost:** $8.32
 
 *Costs are estimated based on Anthropic API pricing. Proxy calls are free but estimated for production planning.*
