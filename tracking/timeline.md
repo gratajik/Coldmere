@@ -202,3 +202,14 @@
 - Day 5, first light coming up: warm air and a sourceless light pour out of the open door; Iris kneels on the threshold, works the sum (the warmth has come down to meet her; crossing = being kept; the burned register did not stop the keeping), and does NOT cross.
 - Day 5, first light: Iris takes her hand off the latch; the door swings wider on its own, the warm pouring fuller; she refuses the warm, turns her face from the lit hall, and puts her hand back down on the cold gravel outside the sill.
 - Day 5, first light up over the slope and the broken bridge-gap: Iris kneels on the threshold, burned hand flat on the freezing step, the warm house open at her back, not going in and unable to go on; the morning comes up grey over the water (chapter ends; outcome left for the ch25 coda).
+
+## Chapter 25
+
+- Coda, the second week of December (a few weeks after the Day 5 / late-November climax of ch23-24): Marian Webb drives down Fen Lane (crossing the rebuilt culvert at the third grid, signal dropping to nothing) and lets herself into Coldmere with the bank's key to finish the half-cleared Vane estate by the New Year.
+- Coda, arrival: Marian reads the eleven sealed crates and the underlined floor-plan note in Iris's hand, confirms the unaccounted yard of depth by eye, and begins clearing from where the previous archivist stopped.
+- Coda, first two days: Marian finishes the ground floor.
+- Coda, third day: Marian goes up; finds the warm room (warm inner wall, the green chair holding its dent), presses the cushion flat and watches the dent re-form, records the room (unlined) on the back of the plan, and leaves the door open.
+- Coda, the study (last room with anything in it): Marian finds the empty open ledger-case and Edith Vane's photograph (turns it, reads the pencilled name), then finds the new stiff-covered ledger in the bottom drawer.
+- Coda, the reveal: Marian opens the new ledger, finds it blank but for one first-leaf entry — "Iris Pell. [year just gone]. Kept on." — in a hand identical to both Iris's manifests and the pencil on Edith's photograph; turns the blank pages; cannot make the one hand be two women.
+- Coda, dusk: in the wall, faint, the count begins (knock, number, pause); Marian catches herself counting along and stops, rationalizes it as pipes/settling; the count rests when the wind returns, unfinished. From the warm-room window she has seen the shape held under the new grey ice in the pond's deep middle and will not go down to it tonight.
+- Coda, into the night: Marian closes the new ledger, does not log it (pencil stays pocketed), carries it down to the kitchen, sets it shut by the low lamp, and sits at the kitchen table with her cold hands flat on the cold wood — taking up Iris's first-night place and posture — waiting for the morning that is coming down Fen Lane for her as it came for the others, in a hand not yet her own. (The loop closes.)
