@@ -1,0 +1,75 @@
+# Chapter 16: The Climbing Count
+
+By dusk on Saturday the count had a top, and I wouldn't write the top down.
+
+I'd heard it three nights running. Thursday it climbed to five and stopped before the wind came back. Friday I hadn't let myself sit and listen, but it came anyway, through the dark of the kitchen, knock and number and pause, and I'd pressed my hands flat over my own ears like a child and still heard it climb past where it had stopped the night before. I didn't log it Friday. I am setting that straight now: I didn't log it because logging it meant counting it, and I'd been counting along under my breath every night against my will, and I was afraid of the number my own mouth would arrive at.
+
+So I made a tally instead.
+
+It isn't the same as writing it down. A tally is marks, four strokes and a fifth across, how you keep a count of crates carried or panes washed, no names, no meaning, just the running of it. I told myself a woman may keep a tally of a sound for the shape and not the sense. I sat at the kitchen table in the failing light with the notebook open to a clean page and the pencil in my fist and I waited for the wind to die.
+
+It died around half past five.
+
+The eaves went still before it, the long sigh in the chimney stopping mid-breath, and then the cold came up out of the floor and the house held itself, listening. I'd learned the listening. There is a quality the air takes on, a held quiet, a half-second of waiting before the first knock, and I knew it now like I knew the slow tone on the line, the same held breath, the same thing on the other side of it answering a beat behind. The first knock came hard in the stairs wall.
+
+Then a number. Then a pause.
+
+I made my first mark.
+
+It began where it always began. One. Two. Three. The knock between each, flat and even, a man's knuckle on a doorframe to bring the room to order before the lots. Four. Five. I made my fifth mark and ruled the line across the four, a clean gate of strokes, and I thought, there, that is where it stopped on Thursday, and I waited for the wind.
+
+The wind didn't come.
+
+Six.
+
+I made the mark with a hand that was steady because I was making myself keep it steady, the pencil meeting the paper square. Seven. Eight. The pauses were even, the knocks even, no haste in it, no hunger, only the flat patient working-through of a list by someone who has all night and means to reach the bottom of it.
+
+Nine. Ten. I had a second gate now beside the first, and a stroke standing alone, and the count went on into the dark with the wind held off.
+
+It wasn't going to stop at the top of Thursday's climb. It was going past. It had been going past since Friday.
+
+Eleven. Twelve. Thirteen.
+
+I will set down what I hadn't let myself set down before, which is that the count is not pipes. I have known it was not pipes since the first night and reasoned it into pipes anyway, because a woman alone in a frozen house needs the count to be pipes, like she needs the slow tone to be old copper and the dead car to be a cold battery. The reasoning had run out. There is no contracting iron that recites in order and rests between numbers in even time and climbs, night on night, a little higher than the night before. There is a thing in this house keeping its own running ledger, and I'd been making a tally of its tally, two ledgers kept of one running thing, the wall's and mine.
+
+Fourteen. Fifteen. Sixteen.
+
+I hadn't the breath to count along now. The numbers went into the dark and I made my marks and didn't say them, and somewhere past fifteen the cold in the room stopped being the cold of an unheated house and became the cold of a thing being told, plainly, in even time.
+
+I stopped making marks at twenty.
+
+I didn't stop because the count stopped. The count went on. I stopped because at twenty I looked down at the page and saw what I'd made, four gates of strokes and a clean ruled line, and read it like I'd read it on a crate lid, and the reading came all at once, like a sum comes when the figures fall clean. A tally is a count of like things toward a total.
+
+I keep a tally of crates because the crates are an inventory and the inventory has a number, and the number is what the parcel will run to. This was a tally too. The wall was not counting nothing. It was counting a list. And a list of like things, named and dated and given the one word, counted off in even time in the cadence of a man calling out from a doorway, runs to a number, and the number is the next one in order, and the next one in order is the one not yet on the list.
+
+The next number after the last name on the page is the next name to go on it.
+
+I sat with the pencil over the paper and didn't lift it and didn't lower it. The count was at twenty-three in the wall, twenty-four, climbing past where my marks had stopped, and I understood I'd been hearing it wrong all three nights, hearing it as a thing reciting what it held. It wasn't reciting what it held. It was counting up to what it wanted.
+
+The numbers already filled were the names already in the book, going back, the brown ink and the girl and the boy and the rest, a register a hundred and more deep, each one a stroke in the gate. And the count was running up the column toward the open ruled lines past the last filled entry, the lines I wouldn't let myself read forward into two days ago, because I'd known, even then, that reading forward tells a register what it is short of.
+
+The count was a number it meant to reach. It had been climbing toward a single number every night, and the number was a place in the book, and the place was the next thing the house meant to take, and there was one name left in this house that was not yet in the book.
+
+Mine.
+
+I put it together from what I had. I want that plain. Nothing told me. The wall didn't say a name; the wall only counts. I read it like I read the room with the tape, fact laid against fact until the sum closes, and this sum closed.
+
+The register runs to a number short of full. The warm room runs warm when a name is fresh, and there is no name fresh in it but the woman who wrote the last line and died in the chair.
+
+The count climbs each night a little higher, working up the column, even and patient and in no haste because it has me sealed in a house I can't leave and a storm not yet come. It isn't counting what it holds. It is counting up to what it is wanting. And the last name in eleven miles, blood of the woman who wrote the book, alone in the house, with the door it has been working since I was nine, is the name standing past the top of the count.
+
+The count in the wall reached the number it had reached Friday and went one past it, and I heard the one-past, twenty-six, twenty-seven, clear and flat in the stairs wall, and I knew that tomorrow night it would go one past that, and the night after, and that it wasn't climbing to a top at random. It was climbing to a top that had a date. A register short by one fills the short by a date, and the date is somewhere ahead of me, close, and the count is the clock of it, knocking it off number by number in the dark while I sit and make marks.
+
+I didn't make any more marks.
+
+I closed the notebook on the four gates and the ruled line and the pencil inside it to keep my place, which was a foolish thing, to keep my place in a count I wouldn't finish, but my hand did it. The count went on without my tally. It didn't need my tally. It had its own.
+
+Twenty-nine. Thirty.
+
+The wind came back at thirty. I heard it find the eaves again, the long breath returning to the chimney, and the knock that should have followed thirty didn't come, and the pause went on and became the ordinary quiet of a cold house in a wind, and the thing had stopped for the night the way it stops, not finished, only resting, the list laid by until the dark goes still again.
+
+Thirty, then. One more than Friday. One more every night.
+
+I sat in the dark a long time with the closed notebook under my hand and didn't turn the lamp up, though I had oil for it and the dark was the full dark I can't bear, because turning the lamp up was a thing the steady woman did and I wasn't sure, just then, that I was still her. I have spent thirty years being the one who looks hard at the object and writes the condition and never looks away. I looked at the closed book under my hand in the dark and understood I'd been keeping the wrong inventory. I'd come down Fen Lane to empty a house of its facts, line by line, and the house had been keeping its own count the whole while, in the wall, in even time, and I wasn't the one taking the inventory.
+
+I was the last entry in it, not yet called.

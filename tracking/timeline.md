@@ -117,3 +117,11 @@
 - Day 3, afternoon: Iris measures the box room and bathroom and confirms the back range of the house runs ~9 ft deep, room on room.
 - Day 3, afternoon: Iris re-measures the warm room (her measure-twice rule), gets 14 ft 2 in again, and works the sum — the room is ~5 ft deeper than the wall allows; the flush-set window stands 5 ft proud of the outer wall.
 - Day 3, afternoon: Iris reasons through and rejects every rational explanation, ties the discrepancy to her ch1 "roughly one yard unaccounted" note, records the figures (unlined) on the back of the plan, and leaves the warm room, measuring nothing else that day.
+
+## Chapter 16
+
+- Day 3 (Saturday), dusk: continuing from ch15's afternoon (Iris had left the warm room after measuring it), the day fails into evening; Iris sits at the kitchen table with her notebook and pencil and waits for the wind to die.
+- Day 3, about half past five p.m.: the wind at the eaves goes still; the house "listens"; the first hard knock comes in the stairs wall and the counting begins.
+- Day 3, evening: the count climbs — Iris makes tally-marks from one through twenty (gates of strokes), then stops marking at twenty though the count continues; she works out the sum (the count is a lot, and the lot is her).
+- Day 3, evening: the count reaches thirty (one higher than the previous night) and the wind returns to the eaves; the count rests for the night, unfinished.
+- Day 3, into the night: Iris sits a long time in the full dark with the closed notebook under her hand, not turning the lamp up.
