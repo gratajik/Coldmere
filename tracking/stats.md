@@ -35,23 +35,24 @@
 | Pass | Size | Sections |
 |---|---|---|
 | 1 | 231 KB | 7 parts |
+| 2 | 228 KB | 7 parts |
 
-- **Review Passes:** 1
+- **Review Passes:** 2
 - **Converged:** No
 
 ## Fix Summary
 
-- **Edits Applied:** 50
-- **Edits Failed:** 0
-- **Hit Rate:** 100%
+- **Edits Applied:** 129
+- **Edits Failed:** 1
+- **Hit Rate:** 99%
 
 ## Grand Totals
 
 - **Total Words:** 41,670
 - **Chapters Complete:** 24/25
 - **Est. Writing Cost:** $7.20
-- **Est. Review Cost:** $1.12
+- **Est. Review Cost:** $2.92
 - **Est. Publishing Cost:** $0.00
-- **Est. Total Cost:** $8.32
+- **Est. Total Cost:** $10.11
 
 *Costs are estimated based on Anthropic API pricing. Proxy calls are free but estimated for production planning.*
