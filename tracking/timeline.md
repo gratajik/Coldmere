@@ -165,3 +165,12 @@
 - Day 4, night: Iris names it the thing that took him, turns her back on Danny's face, walks away down the hall with the lamp into the drawing room, and shuts the door between them (hand flat on the cold panel).
 - Day 4, night: the thing's last call comes through the shut door ("Iris, don't leave me. You left me before."); Iris does not turn or open it.
 - Day 4, night: no further sound from the hall — only the rain and the house's held listening quiet; Iris stands in the dark drawing room, hand on the cold door, back to it, not turning.
+
+## Chapter 21
+
+- Day 4 (Sunday), deep night (continuing straight from ch20's shut-door ending, after the rain has thinned a little): Iris takes her hand off the cold drawing-room door, finds the hall empty and the panel dry, and takes the lamp down the hall to the study to finish the one unread item.
+- Day 4, deep night: Iris sits at the study desk (in the chair she does not use), Edith's photograph still shut in the drawer, and reads the newest ledger FORWARD from Danny's open line through a long run of blank ruled pages.
+- Day 4, deep night: Iris reaches a single entry near the BACK of the book, on a page by itself — her own name, the current year, a day three days on from her Thursday arrival (the frost), the condition column ruled blank.
+- Day 4, deep night: Iris reads the line without counting, without logging, and works the sum — the warm room's warmth = Edith fresh-held in the chair; the count climbing to put a number to the open line; the lot is her line, dated the frost.
+- Day 4, deep night: Iris names what the house does (keeping; the kept), recontextualizes the farmer's "the water keeps what it takes," and closes the ledger cover square and quiet, keeping her hand flat on it.
+- Day 4, deep night: Iris sits on with the lamp going down toward its last finger of oil and her hand on the closed cover, the rain pouring easy through the broken bridge-gap a mile off, and does not get up or turn the lamp higher.
