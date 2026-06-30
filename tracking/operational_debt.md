@@ -24,3 +24,4 @@
 - **2026-06-30T01:24:32+00:00** — write-gate reject ch23 (literal-swap): markup: edit introduces garbled markup (fused-word splice / fence / chapter-ref)
 - **2026-06-30T01:24:34+00:00** — write-gate reject ch24 (literal-swap): markup: edit introduces garbled markup (fused-word splice / fence / chapter-ref)
 - **2026-06-30T01:27:32+00:00** — write-gate reject ch17 (surgical fix): markup: edit introduces garbled markup (fused-word splice / fence / chapter-ref)
+- **2026-06-30T01:58:53+00:00** — Pass 5: don't-grind backstop — converged at crit=0 with 14 residual major(s) (2 concrete, 12 craft).

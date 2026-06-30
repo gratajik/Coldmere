@@ -202,35 +202,35 @@ chapters:
     cost: 0.0
     compliance_violations: 0
     fix_passes: 0
-review_pass: 3
+review_pass: 5
 review_converged: false
 review_stopped_unconverged: false
 last_review_hashes:
-  1: 037d06c43d817fcee6af58bae32f8d01
-  2: f8b81b5a3b9a59fb3e34264689334927
-  3: bf291699853283a927ff5e8327eaf920
-  4: 38a2f8535fea6e14ed6c93241ff68294
-  5: 467ef5b0620c98d508f23b9923b8d699
-  6: 5c7377750e4ad5caec349f55b74fd406
-  7: 5388df648270c59e5f790daf2d329c46
-  8: 84f77d6e95cf78cb210cb7d2fc5f069e
-  9: 82c91396a10ba013125b95924c914a4c
-  10: 57fadb860a90deabc04a4491682c89e0
-  11: 80866d0a5b5de786613c167d487ef869
-  12: 94a4ead1fbf6f40311f9a55db57cb86b
-  13: 84c633a72c313305a01b3528e85e8742
-  14: f0b71f7664c9e080b44a2ea532ef3213
-  15: fecef015c15fd82c3a949ccf37ac0492
-  16: 0b268eb84158171707ae7f1558d4b16a
-  17: 5bb0e84f522cc14905039279862a9fda
-  18: b0bf00519bccaaa724112974dae2930e
-  19: ff66a0bf47de5493cf04195f9f789498
-  20: b3b3d59c7d50f662afb14ce88b2a0f86
-  21: 727cdf5e6466bb207fd6bc037f950cc4
-  22: a259b2b8debc47d7ca67151269a030d2
-  23: 3b59aa2cb6065eb530fcc4fc5ebed2c6
-  24: ce8f0c0d5a18664c69819cd7f973a065
-  25: 5c94f002f58cbc4c5f3ff519c2579161
+  1: 486b6c37be93fdf08d91dae408c4b0c2
+  2: 00d15269648b43655e4a35c0d4ff651e
+  3: 7c41e331938597750f62524fe4a14c27
+  4: e8f4375c105640e21300c6b7e056077f
+  5: 6fb5596d4d4bc02e2e4588a05f9d2106
+  6: 9323c4fcbb5cdaba09814b52bb1e87a1
+  7: 296ab0b7d97f5e4116a3f270d24b44b4
+  8: f7414320318f061845a36a58ec0ff39d
+  9: 0fbba1c0fb6d0b11d9770be3a0d022ff
+  10: 214826c755eaea8de5540e809cee101e
+  11: 1f65f7e5f867c98052863fe00f073c66
+  12: ee44e2202873a49e25e6c3697f8827d2
+  13: 12c38f13853fe8645d640bb92461125e
+  14: e417f9390dc9e287c6047b4cda647d32
+  15: 91873ac5fdcadeb88580c96a2b2ba203
+  16: 7a125efb9192b10af35fb5161c46c3fb
+  17: a217490ad5e24d2880b9dd6183d11630
+  18: fde95608b2680d2191a263c49e5d6609
+  19: 6fa236dd65d8785a245434b1bab15ed9
+  20: ffce66343218a5e35581e4fceeca76e5
+  21: 10b4a8aee5665e49e8fad6d09fb6ae0f
+  22: 2b139e40b800834612bbc08984bb4cf5
+  23: 06a2d7d46ed4aaf01a2fcc8c62895db3
+  24: 8cb0066262f184f2b3433f3241a27fd9
+  25: 2317166e7c0be95b32431b77dc2a237a
 contract_verified: {}
 timeline_verified:
   '7': 296ab0b7d97f5e4116a3f270d24b44b4:2760b2ea
@@ -259,38 +259,38 @@ timeline_verified:
   '25': 2317166e7c0be95b32431b77dc2a237a:2760b2ea
   '17': a217490ad5e24d2880b9dd6183d11630:2760b2ea
 beat_verified:
-  '1': 037d06c43d817fcee6af58bae32f8d01
-  '2': f8b81b5a3b9a59fb3e34264689334927
-  '3': bf291699853283a927ff5e8327eaf920
-  '4': 38a2f8535fea6e14ed6c93241ff68294
-  '5': 467ef5b0620c98d508f23b9923b8d699
-  '6': 5c7377750e4ad5caec349f55b74fd406
-  '7': 5388df648270c59e5f790daf2d329c46
-  '8': 84f77d6e95cf78cb210cb7d2fc5f069e
-  '9': 82c91396a10ba013125b95924c914a4c
-  '10': 57fadb860a90deabc04a4491682c89e0
-  '11': 80866d0a5b5de786613c167d487ef869
-  '12': 94a4ead1fbf6f40311f9a55db57cb86b
-  '13': 84c633a72c313305a01b3528e85e8742
-  '14': f0b71f7664c9e080b44a2ea532ef3213
-  '15': fecef015c15fd82c3a949ccf37ac0492
-  '16': 0b268eb84158171707ae7f1558d4b16a
-  '17': 5bb0e84f522cc14905039279862a9fda
-  '18': b0bf00519bccaaa724112974dae2930e
-  '19': ff66a0bf47de5493cf04195f9f789498
-  '20': b3b3d59c7d50f662afb14ce88b2a0f86
-  '21': 727cdf5e6466bb207fd6bc037f950cc4
-  '22': a259b2b8debc47d7ca67151269a030d2
-  '23': 3b59aa2cb6065eb530fcc4fc5ebed2c6
-  '24': ce8f0c0d5a18664c69819cd7f973a065
-  '25': 5c94f002f58cbc4c5f3ff519c2579161
-publisher_consensus_count: 0
+  '1': 486b6c37be93fdf08d91dae408c4b0c2
+  '2': 00d15269648b43655e4a35c0d4ff651e
+  '3': 7c41e331938597750f62524fe4a14c27
+  '4': e8f4375c105640e21300c6b7e056077f
+  '5': 6fb5596d4d4bc02e2e4588a05f9d2106
+  '6': 9323c4fcbb5cdaba09814b52bb1e87a1
+  '7': 296ab0b7d97f5e4116a3f270d24b44b4
+  '8': f7414320318f061845a36a58ec0ff39d
+  '9': 0fbba1c0fb6d0b11d9770be3a0d022ff
+  '10': 214826c755eaea8de5540e809cee101e
+  '11': 1f65f7e5f867c98052863fe00f073c66
+  '12': ee44e2202873a49e25e6c3697f8827d2
+  '13': 12c38f13853fe8645d640bb92461125e
+  '14': e417f9390dc9e287c6047b4cda647d32
+  '15': 91873ac5fdcadeb88580c96a2b2ba203
+  '16': 7a125efb9192b10af35fb5161c46c3fb
+  '17': a217490ad5e24d2880b9dd6183d11630
+  '18': fde95608b2680d2191a263c49e5d6609
+  '19': 6fa236dd65d8785a245434b1bab15ed9
+  '20': ffce66343218a5e35581e4fceeca76e5
+  '21': 10b4a8aee5665e49e8fad6d09fb6ae0f
+  '22': 2b139e40b800834612bbc08984bb4cf5
+  '23': 06a2d7d46ed4aaf01a2fcc8c62895db3
+  '24': 8cb0066262f184f2b3433f3241a27fd9
+  '25': 2317166e7c0be95b32431b77dc2a237a
+publisher_consensus_count: 1
 publishing_status: {}
 costs:
   writing: 7.1975999999999996
-  review: 5.833700000000001
+  review: 6.3854000000000015
   publishing: 0.0
-  total: 13.031300000000007
+  total: 13.583000000000007
 review_log:
 - pass: 1
   agent: mechanical
@@ -454,9 +454,63 @@ review_log:
   cache_read_tokens: 0
   cache_write_tokens: 128241
   cost: 1.4137
+- pass: 5
+  agent: mechanical
+  model: claude-haiku-4-5
+  source: proxy
+  input_tokens: 0
+  output_tokens: 6444
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0322
+- pass: 5
+  agent: story
+  model: claude-sonnet-4-6
+  source: proxy
+  input_tokens: 0
+  output_tokens: 6593
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0989
+- pass: 5
+  agent: publisher
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 0
+  output_tokens: 8774
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.2194
+- pass: 5
+  agent: voice
+  model: claude-sonnet-4-6
+  source: proxy
+  input_tokens: 0
+  output_tokens: 7659
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.1149
+- pass: 5
+  agent: matrix
+  model: claude-haiku-4-5
+  source: proxy
+  input_tokens: 0
+  output_tokens: 8306
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0415
+- pass: 5
+  agent: reader
+  model: claude-opus-4-8
+  source: proxy
+  input_tokens: 0
+  output_tokens: 1793
+  cache_read_tokens: 0
+  cache_write_tokens: 0
+  cost: 0.0448
 last_review_depth: ''
 last_audit_date: ''
 last_audit_path: ''
 last_audit_criticals: -1
 created_at: '2026-06-29T23:09:53.956315+00:00'
-updated_at: '2026-06-30T01:48:09.041358+00:00'
+updated_at: '2026-06-30T01:58:53.791112+00:00'
