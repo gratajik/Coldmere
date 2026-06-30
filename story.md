@@ -259,7 +259,7 @@ The house is the antagonist; its "plans" are the count's logic, hidden beneath m
 | Term | Until Chapter | Reveal Context | Use Instead |
 |---|---|---|---|
 | the kept | 21 | Ch21, when Iris understands the register names the held dead and the house's nature is plain | the count, those settled, the names, the held, those kept on |
-| keeping | 21 | Ch21 reveal of the house's nature | the warm room's warmth, what the house does, settling, holding |
+| the keeping | 21 | Ch21 reveal of the house's nature (the NOMINAL concept). Gate the noun phrase, NOT the bare verb "keeping" — Iris's voice and the house's mechanic use "keeping/kept" innocently throughout (keeping watch, keeping a ledger, the depths keeping a shape), and gating the bare gerund false-flags those and churns the fix loop without converging. "the keeping"/"the kept" appear only at the ch21 reveal. | the warm room's warmth, what the house does, settling, holding |
 | Danny was taken | 14 | Ch14, decoding the ledger (any phrasing that states the taking outright) | the summer, what happened at the pond, he was never found, the year we lost him |
 
 ## Voice Card Tics
