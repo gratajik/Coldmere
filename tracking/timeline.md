@@ -174,3 +174,12 @@
 - Day 4, deep night: Iris reads the line without counting, without logging, and works the sum — the warm room's warmth = Edith fresh-held in the chair; the count climbing to put a number to the open line; the lot is her line, dated the frost.
 - Day 4, deep night: Iris names what the house does (keeping; the kept), recontextualizes the farmer's "the water keeps what it takes," and closes the ledger cover square and quiet, keeping her hand flat on it.
 - Day 4, deep night: Iris sits on with the lamp going down toward its last finger of oil and her hand on the closed cover, the rain pouring easy through the broken bridge-gap a mile off, and does not get up or turn the lamp higher.
+
+## Chapter 22
+
+- Day 4 (Sunday), before dawn (continuing straight from ch21's deep-night ending at the study desk, after the rain has gone thin): Iris takes Edith's photograph back out of the desk drawer and re-opens the newest ledger.
+- Day 4, before dawn: Iris turns BACK from her own line (read in ch21) toward Danny's, and reads the late, faltering entries she had skipped — the margin/foot prose in Edith's failing hand.
+- Day 4, before dawn: Iris reads/decodes the conscience entries ("I think on them now"; "ashamed to be glad"), the fifty-years figure, and the entry in which Edith chose Danny (the unlatched gate, "until it is done").
+- Day 4, before dawn: Iris reads the keeper-goes-into-the-book entries, the dated steadied line ("I write what I am given to write"), and her own name written ahead in Edith's hand; deduces Edith's whole story (keeper fifty years, fed the count, kept last) and that Edith left the books to be found.
+- Day 4, before dawn: Iris turns Edith's photograph face-up and leaves it on the desk; her revulsion shades to pity-with-an-edge; she closes the ledger and sits with it shut under her hand in the last of the oil.
+- Day 4, before dawn into greying light: the window edge begins to go grey (the long night thinning toward the morning the house laid the boy out for); "the frost was this morning"; Iris reckons the whole cost and resolves she is "not going to pay it."
